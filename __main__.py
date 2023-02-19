@@ -1,5 +1,15 @@
+import config_file as config
+from helpers import compare_top_domain_lists
+from web_crawler import WebCrawler
 
 
+'''
+
+Main Module
+Takes command-line arguments to specify what action to perform and with which options.
+Option values described in help menu print block.
+
+'''
 if __name__ == "__main__":
     import sys
     if len(sys.argv) > 1:
@@ -18,5 +28,7 @@ if __name__ == "__main__":
                 TRANCO_FILE_PATH = <filepath_to_tranco_ip_list>
                 ALEXA_FILE_PATH = <filepath_to_alex_ip_list>
             ''')
+        elif 'DEFAULT' in sys.argv[1]:
+            
     else:
         print('ERROR: Must supply an argument to execute data colleciton. Add --help for details of which options are supported')
