@@ -1,0 +1,2 @@
+TRANCO_FILE_PATH = 'data/'
+ALEXA_FILE_PATH = 'data/'
