@@ -1,5 +1,5 @@
 import config_file as config
-from helpers import compare_top_domain_lists
+from python_attempt.helpers import compare_top_domain_lists
 from web_crawler import WebCrawler
 
 '''
