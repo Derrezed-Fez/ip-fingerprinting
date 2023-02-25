@@ -2,7 +2,6 @@ import config_file as config
 from helpers import compare_top_domain_lists
 from web_crawler import WebCrawler
 
-
 '''
 
 Main Module
@@ -29,6 +28,6 @@ if __name__ == "__main__":
                 ALEXA_FILE_PATH = <filepath_to_alex_ip_list>
             ''')
         elif 'DEFAULT' in sys.argv[1]:
-            
+            crawler = WebCrawler(config.COMPILED_DOMAINS_FILE_PATH)
     else:
         print('ERROR: Must supply an argument to execute data colleciton. Add --help for details of which options are supported')
