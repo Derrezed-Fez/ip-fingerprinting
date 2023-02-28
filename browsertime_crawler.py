@@ -1,18 +1,38 @@
-import subprocess, sys, csv
-from threading import Thread
-
+import subprocess, csv, datetime, os
+logfile_name = 'data\\output\\' + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + '_logfile.log'
+logfile = open(logfile_name, 'w+')
 def crawl_firefox(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_firefox.ps1", 'https://www.' + url], stdout=sys.stdout)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_firefox.ps1", 'https://www.' + url], stdout=logfile)
     p.communicate()
 
 def crawl_chrome(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_chrome.ps1", 'https://www.' + url], stdout=sys.stdout)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_chrome.ps1", 'https://www.' + url], stdout=logfile)
     p.communicate()
 
-with open('data\input\combined_top_domains.csv', newline='\n') as f:
-    reader = csv.reader(f)
-    for row in reader:
-        chrome_thread = Thread(target=crawl_chrome, args=[row[0]])
-        firefox_thread = Thread(target=crawl_firefox, args=[row[0]])
-        chrome_thread.run()
-        firefox_thread.run()
+def crawl_edge(url):
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_edge.ps1", 'https://www.' + url], stdout=logfile)
+    p.communicate()
+
+def crawl_domains(domains:str):
+    with open(domains, newline='\n') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            crawl_chrome(row[0])
+            crawl_firefox(row[0])
+            crawl_edge(row[0])
+            # procs = [multiprocessing.Process(target=crawl_firefox, args=(row[0], )), \
+            #          multiprocessing.Process(target=crawl_chrome, args=(row[0], )), \
+            #         multiprocessing.Process(target=crawl_edge, args=(row[0], ))]
+            # for proc in procs:
+            #     proc.start()
+            # for proc in procs:
+            #     proc.join()
+
+if __name__ == '__main__':
+    # procs = [multiprocessing.Process(target=crawl_domains, args=('data\input\domains_1-2500.csv', )), multiprocessing.Process(target=crawl_domains, args=('data\input\domains_2501-5000.csv', )), \
+    #             multiprocessing.Process(target=crawl_domains, args=('data\input\domains_5001-7500.csv', )), multiprocessing.Process(target=crawl_domains, args=('data\input\domains_7501-10000.csv', ))]
+    # for proc in procs:
+    #     proc.start()
+    # for proc in procs:
+    #     proc.join()
+    crawl_domains('data\\input\\combined_top_domains.csv')
