@@ -975,3 +975,62 @@
 [2023-02-28 13:08:28] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
 [2023-02-28 13:08:28] INFO: Waiting on har-export-trigger to collect the HAR
 [2023-02-28 13:08:38] INFO: https://www.seapeakcn.com 
+[2023-02-28 13:08:42] INFO: Testing url https://www.seapeakcn.com iteration 2
+[2023-02-28 13:09:02] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-02-28 13:09:02] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-02-28 13:09:13] INFO: https://www.seapeakcn.com 
+[2023-02-28 13:09:16] INFO: Testing url https://www.seapeakcn.com iteration 3
+[2023-02-28 13:09:36] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-02-28 13:09:36] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-02-28 13:09:47] INFO: https://www.seapeakcn.com 
+[2023-02-28 13:09:47] INFO: https://www.seapeakcn.com 
+[2023-02-28 13:09:47] INFO: Wrote data to browsertime-results\www.seapeakcn.com\2023-02-28T130804-0500
+[2023-02-28 13:09:48] INFO: Running tests using Edge - 3 iteration(s)
+[2023-02-28 13:09:48] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-02-28 13:09:49] INFO: Testing url https://www.seapeakcn.com iteration 1
+[2023-02-28 13:10:06] INFO: https://www.seapeakcn.com TTFB: 6.04s DOMContentLoaded: 6.20s firstPaint: 6.16s FCP: 6.16s LCP: 6.90s Load: 6.89s 
+[2023-02-28 13:10:06] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-02-28 13:10:07] INFO: Testing url https://www.seapeakcn.com iteration 2
+[2023-02-28 13:10:20] INFO: https://www.seapeakcn.com TTFB: 1.38s DOMContentLoaded: 1.40s firstPaint: 1.47s FCP: 1.47s LCP: 1.72s Load: 1.71s 
+[2023-02-28 13:10:20] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-02-28 13:10:21] INFO: Testing url https://www.seapeakcn.com iteration 3
+[2023-02-28 13:10:34] INFO: https://www.seapeakcn.com TTFB: 1.47s DOMContentLoaded: 1.47s firstPaint: 1.52s FCP: 1.52s LCP: 1.79s Load: 1.78s 
+[2023-02-28 13:10:34] INFO: https://www.seapeakcn.com 2 requests, TTFB: 1.47s (σ2.18s 73.5%), firstPaint: 1.52s (σ2.20s 72.2%), FCP: 1.52s (σ2.20s 72.2%), DOMContentLoaded: 1.47s (σ2.25s 74.3%), LCP: 1.79s (σ2.43s 69.9%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.78s (σ2.43s 70.1%) (3 runs)
+[2023-02-28 13:10:34] INFO: Wrote data to browsertime-results\www.seapeakcn.com\2023-02-28T130948-0500
+[2023-02-28 13:10:35] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-02-28 13:10:36] INFO: Testing url https://www.supercima.com iteration 1
+[2023-02-28 13:10:49] INFO: https://www.supercima.com TTFB: 1.76s DOMContentLoaded: 1.96s firstPaint: 1.92s FCP: 1.92s LCP: 1.92s Load: 2.57s 
+[2023-02-28 13:10:50] INFO: Testing url https://www.supercima.com iteration 2
+[2023-02-28 13:11:03] INFO: https://www.supercima.com TTFB: 1.24s DOMContentLoaded: 1.44s firstPaint: 1.36s FCP: 1.36s LCP: 1.36s Load: 1.71s 
+[2023-02-28 13:11:04] INFO: Testing url https://www.supercima.com iteration 3
+[2023-02-28 13:11:17] INFO: https://www.supercima.com TTFB: 1.79s DOMContentLoaded: 2.11s firstPaint: 1.96s FCP: 1.96s LCP: 1.96s Load: 2.40s 
+[2023-02-28 13:11:17] INFO: https://www.supercima.com 13 requests, TTFB: 1.76s (σ254.00ms 15.9%), firstPaint: 1.92s (σ277.00ms 15.9%), FCP: 1.92s (σ277.00ms 15.9%), DOMContentLoaded: 1.96s (σ289.00ms 15.8%), LCP: 1.92s (σ277.00ms 15.9%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 2.40s (σ373.00ms 16.8%) (3 runs)
+[2023-02-28 13:11:17] INFO: Wrote data to browsertime-results\www.supercima.com\2023-02-28T131035-0500
+[2023-02-28 13:11:18] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-02-28 13:11:22] INFO: Testing url https://www.supercima.com iteration 1
+[2023-02-28 13:11:33] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-02-28 13:11:36] INFO: https://www.supercima.com TTFB: 1.90s DOMContentLoaded: 2.25s firstPaint: 2.21s FCP: 2.20s Load: 2.77s 
+[2023-02-28 13:11:39] INFO: Testing url https://www.supercima.com iteration 2
+[2023-02-28 13:11:51] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-02-28 13:11:54] INFO: https://www.supercima.com TTFB: 724ms DOMContentLoaded: 1.04s firstPaint: 850ms FCP: 850ms Load: 1.79s 
+[2023-02-28 13:11:57] INFO: Testing url https://www.supercima.com iteration 3
+[2023-02-28 13:12:10] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-02-28 13:12:13] INFO: https://www.supercima.com TTFB: 2.15s DOMContentLoaded: 3.11s firstPaint: 2.92s FCP: 2.92s Load: 3.13s 
+[2023-02-28 13:12:13] INFO: https://www.supercima.com 15 requests, TTFB: 1.90s (σ621.00ms 39.1%), firstPaint: 2.21s (σ859.00ms 43.1%), FCP: 2.20s (σ857.00ms 43.1%), DOMContentLoaded: 2.25s (σ849.00ms 39.8%), Load: 2.77s (σ565.00ms 22.1%) (3 runs)
+[2023-02-28 13:12:13] INFO: Wrote data to browsertime-results\www.supercima.com\2023-02-28T131118-0500
+[2023-02-28 13:12:14] INFO: Running tests using Edge - 3 iteration(s)
+[2023-02-28 13:12:14] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-02-28 13:12:15] INFO: Testing url https://www.supercima.com iteration 1
+[2023-02-28 13:12:28] INFO: https://www.supercima.com TTFB: 2.13s DOMContentLoaded: 2.47s firstPaint: 2.25s FCP: 2.25s LCP: 2.25s Load: 2.73s 
+[2023-02-28 13:12:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-02-28 13:12:29] INFO: Testing url https://www.supercima.com iteration 2
+[2023-02-28 13:12:44] INFO: https://www.supercima.com TTFB: 2.23s DOMContentLoaded: 2.56s firstPaint: 2.33s FCP: 2.33s LCP: 2.33s Load: 3.06s 
+[2023-02-28 13:12:44] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-02-28 13:12:44] INFO: Testing url https://www.supercima.com iteration 3
+[2023-02-28 13:12:58] INFO: https://www.supercima.com TTFB: 2.15s DOMContentLoaded: 2.39s firstPaint: 2.25s FCP: 2.25s LCP: 2.25s Load: 2.60s 
+[2023-02-28 13:12:58] INFO: https://www.supercima.com 13 requests, TTFB: 2.15s (σ42.00ms 2.0%), firstPaint: 2.25s (σ35.00ms 1.6%), FCP: 2.25s (σ35.00ms 1.6%), DOMContentLoaded: 2.47s (σ70.00ms 2.8%), LCP: 2.25s (σ35.00ms 1.6%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 2.73s (σ192.00ms 6.9%) (3 runs)
+[2023-02-28 13:12:58] INFO: Wrote data to browsertime-results\www.supercima.com\2023-02-28T131214-0500
+[2023-02-28 13:12:59] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-02-28 13:12:59] INFO: Testing url https://www.nihaodropshipping.com iteration 1
+[2023-02-28 13:13:13] INFO: https://www.nihaodropshipping.com TTFB: 523ms DOMContentLoaded: 1.14s firstPaint: 687ms FCP: 687ms LCP: 1.21s Load: 1.81s TBT: 307ms CLS:0.0386
+[2023-02-28 13:13:13] INFO: Testing url https://www.nihaodropshipping.com iteration 2
