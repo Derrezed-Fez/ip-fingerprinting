@@ -1,0 +1,597 @@
+[2023-03-01 11:30:49] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:30:50] INFO: Testing url https://www.garagecube.com iteration 1
+[2023-03-01 11:31:06] INFO: https://www.garagecube.com TTFB: 3.64s DOMContentLoaded: 5.07s firstPaint: 4.46s FCP: 4.46s LCP: 4.51s Load: 5.50s TBT: 77ms CLS:0.0244
+[2023-03-01 11:31:07] INFO: Testing url https://www.garagecube.com iteration 2
+[2023-03-01 11:31:21] INFO: https://www.garagecube.com TTFB: 1.19s DOMContentLoaded: 2.69s firstPaint: 2.01s FCP: 2.01s LCP: 2.06s Load: 3.02s TBT: 17ms CLS:0.0244
+[2023-03-01 11:31:21] INFO: Testing url https://www.garagecube.com iteration 3
+[2023-03-01 11:31:36] INFO: https://www.garagecube.com TTFB: 1.17s DOMContentLoaded: 2.70s firstPaint: 2.01s FCP: 2.01s LCP: 2.08s Load: 3.13s TBT: 16ms CLS:0.0244
+[2023-03-01 11:31:36] INFO: https://www.garagecube.com 72 requests, TTFB: 1.19s (σ1.16s 58.0%), firstPaint: 2.01s (σ1.15s 40.8%), FCP: 2.01s (σ1.15s 40.8%), DOMContentLoaded: 2.70s (σ1.12s 32.1%), LCP: 2.08s (σ1.15s 39.9%), CLS: 0.0244 (σ0.00 0%), TBT: 17ms (σ29.00ms 77.8%), Load: 3.13s (σ1.14s 29.4%) (3 runs)
+[2023-03-01 11:31:36] INFO: Wrote data to browsertime-results\www.garagecube.com\2023-03-01T113049-0500
+[2023-03-01 11:31:37] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:31:41] INFO: Testing url https://www.garagecube.com iteration 1
+[2023-03-01 11:31:53] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:31:57] INFO: https://www.garagecube.com TTFB: 1.16s DOMContentLoaded: 2.69s firstPaint: 1.93s FCP: 2.53s Load: 4.14s 
+[2023-03-01 11:32:01] INFO: Testing url https://www.garagecube.com iteration 2
+[2023-03-01 11:32:13] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:32:17] INFO: https://www.garagecube.com TTFB: 1.07s DOMContentLoaded: 2.23s firstPaint: 1.78s FCP: 2.18s Load: 3.22s 
+[2023-03-01 11:32:20] INFO: Testing url https://www.garagecube.com iteration 3
+[2023-03-01 11:32:33] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:32:37] INFO: https://www.garagecube.com TTFB: 1.07s DOMContentLoaded: 2.28s firstPaint: 1.77s FCP: 2.23s Load: 3.29s 
+[2023-03-01 11:32:37] INFO: https://www.garagecube.com 83 requests, TTFB: 1.07s (σ40.00ms 3.6%), firstPaint: 1.78s (σ76.00ms 4.1%), FCP: 2.23s (σ155.00ms 6.7%), DOMContentLoaded: 2.28s (σ209.00ms 8.7%), Load: 3.29s (σ418.00ms 11.8%) (3 runs)
+[2023-03-01 11:32:37] INFO: Wrote data to browsertime-results\www.garagecube.com\2023-03-01T113137-0500
+[2023-03-01 11:32:38] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:32:38] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:32:39] INFO: Testing url https://www.garagecube.com iteration 1
+[2023-03-01 11:32:54] INFO: https://www.garagecube.com TTFB: 1.82s DOMContentLoaded: 3.18s firstPaint: 2.61s FCP: 2.61s LCP: 2.63s Load: 3.52s TBT: 11ms CLS:0.0244
+[2023-03-01 11:32:54] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:32:54] INFO: Testing url https://www.garagecube.com iteration 2
+[2023-03-01 11:33:09] INFO: https://www.garagecube.com TTFB: 1.60s DOMContentLoaded: 3.00s firstPaint: 2.42s FCP: 2.42s LCP: 2.44s Load: 3.50s TBT: 42ms CLS:0.0244
+[2023-03-01 11:33:09] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:33:10] INFO: Testing url https://www.garagecube.com iteration 3
+[2023-03-01 11:33:25] INFO: https://www.garagecube.com TTFB: 1.51s DOMContentLoaded: 2.92s firstPaint: 2.35s FCP: 2.35s LCP: 2.37s Load: 3.24s TBT: 24ms CLS:0.0244
+[2023-03-01 11:33:25] INFO: https://www.garagecube.com 72 requests, TTFB: 1.60s (σ129.00ms 7.8%), firstPaint: 2.42s (σ110.00ms 4.5%), FCP: 2.42s (σ110.00ms 4.5%), DOMContentLoaded: 3.00s (σ107.00ms 3.5%), LCP: 2.44s (σ109.00ms 4.4%), CLS: 0.0244 (σ0.00 0%), TBT: 24ms (σ13.00ms 49.5%), Load: 3.50s (σ127.00ms 3.7%) (3 runs)
+[2023-03-01 11:33:25] INFO: Wrote data to browsertime-results\www.garagecube.com\2023-03-01T113238-0500
+[2023-03-01 11:33:26] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:33:27] INFO: Testing url https://www.deltamike.co.nz iteration 1
+[2023-03-01 11:33:41] INFO: https://www.deltamike.co.nz TTFB: 854ms DOMContentLoaded: 3.44s firstPaint: 2.30s FCP: 2.34s LCP: 4.58s Load: 4.02s TBT: 714ms CLS:0.0374
+[2023-03-01 11:33:42] INFO: Testing url https://www.deltamike.co.nz iteration 2
+[2023-03-01 11:33:56] INFO: https://www.deltamike.co.nz TTFB: 838ms DOMContentLoaded: 2.52s firstPaint: 1.89s FCP: 1.89s LCP: 4.11s Load: 3.03s TBT: 590ms CLS:0.0598
+[2023-03-01 11:33:56] INFO: Testing url https://www.deltamike.co.nz iteration 3
+[2023-03-01 11:34:10] INFO: https://www.deltamike.co.nz TTFB: 821ms DOMContentLoaded: 2.29s firstPaint: 1.83s FCP: 1.83s LCP: 2.97s Load: 2.79s TBT: 583ms CLS:0.0598
+[2023-03-01 11:34:10] INFO: https://www.deltamike.co.nz 230 requests, TTFB: 838ms (σ13.00ms 1.6%), firstPaint: 1.89s (σ209.00ms 10.4%), FCP: 1.89s (σ226.00ms 11.2%), DOMContentLoaded: 2.52s (σ496.00ms 18.0%), LCP: 4.11s (σ676.00ms 17.4%), CLS: 0.0598 (σ0.01 20.1%), TBT: 590ms (σ60.00ms 9.6%), Load: 3.03s (σ534.00ms 16.3%) (3 runs)
+[2023-03-01 11:34:10] INFO: Wrote data to browsertime-results\www.deltamike.co.nz\2023-03-01T113325-0500
+[2023-03-01 11:34:11] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:34:14] INFO: Testing url https://www.deltamike.co.nz iteration 1
+[2023-03-01 11:34:28] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:34:33] INFO: https://www.deltamike.co.nz TTFB: 994ms DOMContentLoaded: 3.76s firstPaint: 2.62s FCP: 3.40s Load: 4.69s 
+[2023-03-01 11:34:36] INFO: Testing url https://www.deltamike.co.nz iteration 2
+[2023-03-01 11:34:48] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:34:52] INFO: https://www.deltamike.co.nz TTFB: 743ms DOMContentLoaded: 2.58s firstPaint: 2.29s FCP: 2.23s Load: 3.60s 
+[2023-03-01 11:34:55] INFO: Testing url https://www.deltamike.co.nz iteration 3
+[2023-03-01 11:35:08] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:35:11] INFO: https://www.deltamike.co.nz TTFB: 788ms DOMContentLoaded: 2.63s firstPaint: 2.30s FCP: 2.25s Load: 3.52s 
+[2023-03-01 11:35:11] INFO: https://www.deltamike.co.nz 233 requests, TTFB: 788ms (σ109.00ms 13.0%), firstPaint: 2.30s (σ152.00ms 6.3%), FCP: 2.25s (σ546.00ms 20.8%), DOMContentLoaded: 2.63s (σ546.00ms 18.3%), Load: 3.60s (σ532.00ms 13.5%) (3 runs)
+[2023-03-01 11:35:11] INFO: Wrote data to browsertime-results\www.deltamike.co.nz\2023-03-01T113410-0500
+[2023-03-01 11:35:13] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:35:13] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:35:13] INFO: Testing url https://www.deltamike.co.nz iteration 1
+[2023-03-01 11:35:28] INFO: https://www.deltamike.co.nz TTFB: 1.15s DOMContentLoaded: 2.65s firstPaint: 2.17s FCP: 2.17s LCP: 3.64s Load: 3.22s TBT: 695ms CLS:0.0598
+[2023-03-01 11:35:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:35:29] INFO: Testing url https://www.deltamike.co.nz iteration 2
+[2023-03-01 11:35:42] INFO: https://www.deltamike.co.nz TTFB: 1.19s DOMContentLoaded: 2.33s firstPaint: 1.52s FCP: 1.77s LCP: 3.07s Load: 2.89s TBT: 656ms CLS:0.0598
+[2023-03-01 11:35:42] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:35:43] INFO: Testing url https://www.deltamike.co.nz iteration 3
+[2023-03-01 11:35:57] INFO: https://www.deltamike.co.nz TTFB: 1.16s DOMContentLoaded: 2.23s firstPaint: 1.44s FCP: 1.46s LCP: 3.29s Load: 2.89s TBT: 824ms CLS:0.0342
+[2023-03-01 11:35:57] INFO: https://www.deltamike.co.nz 230 requests, TTFB: 1.16s (σ16.00ms 1.4%), firstPaint: 1.52s (σ324.00ms 18.9%), FCP: 1.77s (σ288.00ms 16.0%), DOMContentLoaded: 2.33s (σ180.00ms 7.5%), LCP: 3.29s (σ235.00ms 7.1%), CLS: 0.0598 (σ0.01 23.5%), TBT: 695ms (σ72.00ms 9.9%), Load: 2.89s (σ156.00ms 5.2%) (3 runs)
+[2023-03-01 11:35:57] INFO: Wrote data to browsertime-results\www.deltamike.co.nz\2023-03-01T113512-0500
+[2023-03-01 11:35:58] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:35:58] INFO: Testing url https://www.gfkmediaview.com iteration 1
+[2023-03-01 11:36:13] INFO: https://www.gfkmediaview.com TTFB: 2.25s DOMContentLoaded: 3.51s firstPaint: 3.51s FCP: 3.51s LCP: 3.74s Load: 4.40s TBT: 4ms CLS:0.0915
+[2023-03-01 11:36:14] INFO: Testing url https://www.gfkmediaview.com iteration 2
+[2023-03-01 11:36:27] INFO: https://www.gfkmediaview.com TTFB: 1.39s DOMContentLoaded: 2.21s firstPaint: 2.19s FCP: 2.19s LCP: 2.34s Load: 2.71s TBT: 26ms CLS:0.0912
+[2023-03-01 11:36:28] INFO: Testing url https://www.gfkmediaview.com iteration 3
+[2023-03-01 11:36:41] INFO: https://www.gfkmediaview.com TTFB: 1.34s DOMContentLoaded: 1.90s firstPaint: 1.89s FCP: 1.89s LCP: 2.08s Load: 3.00s TBT: 4ms CLS:0.0915
+[2023-03-01 11:36:41] INFO: https://www.gfkmediaview.com 61 requests, TTFB: 1.39s (σ418.00ms 25.2%), firstPaint: 2.19s (σ703.00ms 27.8%), FCP: 2.19s (σ703.00ms 27.8%), DOMContentLoaded: 2.21s (σ699.00ms 27.5%), LCP: 2.34s (σ730.00ms 26.8%), CLS: 0.0915 (σ0.00 0.2%), TBT: 4ms (σ10.00ms 91.5%), Load: 3.00s (σ741.00ms 22.0%) (3 runs)
+[2023-03-01 11:36:41] INFO: Wrote data to browsertime-results\www.gfkmediaview.com\2023-03-01T113557-0500
+[2023-03-01 11:36:42] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:36:45] INFO: Testing url https://www.gfkmediaview.com iteration 1
+[2023-03-01 11:36:58] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:38:59] INFO: https://www.gfkmediaview.com 
+[2023-03-01 11:39:02] INFO: Testing url https://www.gfkmediaview.com iteration 2
+[2023-03-01 11:39:15] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:39:18] INFO: https://www.gfkmediaview.com TTFB: 1.06s DOMContentLoaded: 2.16s firstPaint: 2.17s FCP: 2.17s Load: 3.83s 
+[2023-03-01 11:39:22] INFO: Testing url https://www.gfkmediaview.com iteration 3
+[2023-03-01 11:39:34] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:41:35] INFO: https://www.gfkmediaview.com 
+[2023-03-01 11:41:35] INFO: https://www.gfkmediaview.com 77 requests, TTFB: 1.06s, firstPaint: 2.17s, FCP: 2.17s, DOMContentLoaded: 2.16s, Load: 3.83s
+[2023-03-01 11:41:35] INFO: Wrote data to browsertime-results\www.gfkmediaview.com\2023-03-01T113642-0500
+[2023-03-01 11:41:36] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:41:36] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:41:37] INFO: Testing url https://www.gfkmediaview.com iteration 1
+[2023-03-01 11:41:52] INFO: https://www.gfkmediaview.com TTFB: 2.35s DOMContentLoaded: 3.56s firstPaint: 3.56s FCP: 3.56s LCP: 3.73s Load: 4.59s TBT: 7ms CLS:0.0915
+[2023-03-01 11:41:52] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:41:53] INFO: Testing url https://www.gfkmediaview.com iteration 2
+[2023-03-01 11:42:07] INFO: https://www.gfkmediaview.com TTFB: 1.77s DOMContentLoaded: 2.88s firstPaint: 2.86s FCP: 2.86s LCP: 2.99s Load: 3.53s TBT: 6ms CLS:0.0912
+[2023-03-01 11:42:07] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:42:08] INFO: Testing url https://www.gfkmediaview.com iteration 3
+[2023-03-01 11:42:23] INFO: https://www.gfkmediaview.com TTFB: 1.87s DOMContentLoaded: 2.60s firstPaint: 2.58s FCP: 2.58s LCP: 2.76s Load: 3.17s TBT: 6ms CLS:0.0915
+[2023-03-01 11:42:23] INFO: https://www.gfkmediaview.com 60 requests, TTFB: 1.87s (σ250.00ms 12.5%), firstPaint: 2.86s (σ411.00ms 13.7%), FCP: 2.86s (σ411.00ms 13.7%), DOMContentLoaded: 2.88s (σ405.00ms 13.4%), LCP: 2.99s (σ412.00ms 13.0%), CLS: 0.0915 (σ0.00 0.2%), TBT: 6ms (σ0.00ms 0%), Load: 3.53s (σ601.00ms 16.0%) (3 runs)
+[2023-03-01 11:42:23] INFO: Wrote data to browsertime-results\www.gfkmediaview.com\2023-03-01T114136-0500
+[2023-03-01 11:42:24] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:42:25] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 1
+[2023-03-01 11:42:43] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 855ms DOMContentLoaded: 2.40s firstPaint: 2.35s FCP: 2.35s LCP: 3.99s Load: 6.96s TBT: 95ms CLS:0.2106
+[2023-03-01 11:42:43] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 2
+[2023-03-01 11:43:01] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 795ms DOMContentLoaded: 2.33s firstPaint: 2.28s FCP: 2.28s LCP: 3.97s Load: 6.92s TBT: 81ms CLS:0.2178
+[2023-03-01 11:43:02] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 3
+[2023-03-01 11:43:20] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 740ms DOMContentLoaded: 2.52s firstPaint: 2.48s FCP: 2.48s LCP: 4.10s Load: 7.13s TBT: 89ms CLS:0.2178
+[2023-03-01 11:43:20] INFO: https://www.u-shizuoka-ken.ac.jp 100 requests, TTFB: 795ms (σ47.00ms 5.9%), firstPaint: 2.35s (σ84.00ms 3.6%), FCP: 2.35s (σ84.00ms 3.6%), DOMContentLoaded: 2.40s (σ80.00ms 3.3%), LCP: 3.99s (σ56.00ms 1.4%), CLS: 0.2178 (σ0.00 1.6%), TBT: 89ms (σ6.00ms 6.5%), Load: 6.96s (σ92.00ms 1.3%) (3 runs)
+[2023-03-01 11:43:20] INFO: Wrote data to browsertime-results\www.u-shizuoka-ken.ac.jp\2023-03-01T114224-0500
+[2023-03-01 11:43:21] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:43:24] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 1
+[2023-03-01 11:43:41] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:43:45] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 1.39s DOMContentLoaded: 3.69s firstPaint: 2.20s FCP: 3.60s Load: 9.10s 
+[2023-03-01 11:43:48] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 2
+[2023-03-01 11:44:05] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:44:09] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 754ms DOMContentLoaded: 3.14s firstPaint: 1.67s FCP: 3.05s Load: 8.78s 
+[2023-03-01 11:44:12] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 3
+[2023-03-01 11:44:30] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:44:34] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 912ms DOMContentLoaded: 3.47s firstPaint: 1.87s FCP: 3.38s Load: 9.34s 
+[2023-03-01 11:44:34] INFO: https://www.u-shizuoka-ken.ac.jp 138 requests, TTFB: 912ms (σ271.00ms 26.6%), firstPaint: 1.87s (σ220.00ms 11.5%), FCP: 3.38s (σ226.00ms 6.8%), DOMContentLoaded: 3.47s (σ226.00ms 6.6%), Load: 9.10s (σ226.00ms 2.5%) (3 runs)
+[2023-03-01 11:44:34] INFO: Wrote data to browsertime-results\www.u-shizuoka-ken.ac.jp\2023-03-01T114320-0500
+[2023-03-01 11:44:35] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:44:35] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:44:36] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 1
+[2023-03-01 11:44:56] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-01 11:44:58] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 1.21s DOMContentLoaded: 6.67s firstPaint: 6.61s FCP: 6.61s LCP: 8.73s Load: 11.26s TBT: 79ms CLS:0.2230
+[2023-03-01 11:44:58] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:44:59] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 2
+[2023-03-01 11:45:17] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 1.10s DOMContentLoaded: 2.66s firstPaint: 2.60s FCP: 2.60s LCP: 4.77s Load: 7.24s TBT: 78ms CLS:0.2230
+[2023-03-01 11:45:17] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:45:18] INFO: Testing url https://www.u-shizuoka-ken.ac.jp iteration 3
+[2023-03-01 11:45:35] INFO: https://www.u-shizuoka-ken.ac.jp TTFB: 1.17s DOMContentLoaded: 2.79s firstPaint: 2.73s FCP: 2.73s LCP: 4.88s Load: 7.47s TBT: 90ms CLS:0.2230
+[2023-03-01 11:45:35] INFO: https://www.u-shizuoka-ken.ac.jp 100 requests, TTFB: 1.17s (σ45.00ms 3.9%), firstPaint: 2.73s (σ1.86s 46.7%), FCP: 2.73s (σ1.86s 46.7%), DOMContentLoaded: 2.79s (σ1.86s 46.1%), LCP: 4.88s (σ1.84s 30.0%), CLS: 0.223 (σ0.00 0%), TBT: 79ms (σ5.00ms 6.6%), Load: 7.47s (σ1.84s 21.3%) (3 runs)
+[2023-03-01 11:45:35] INFO: Wrote data to browsertime-results\www.u-shizuoka-ken.ac.jp\2023-03-01T114435-0500
+[2023-03-01 11:45:36] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:45:37] INFO: Testing url https://www.mavenanalytics.io iteration 1
+[2023-03-01 11:45:52] INFO: https://www.mavenanalytics.io TTFB: 943ms DOMContentLoaded: 1.24s firstPaint: 1.21s FCP: 1.21s LCP: 4.34s Load: 3.09s TBT: 448ms CLS:0.0502
+[2023-03-01 11:45:53] INFO: Testing url https://www.mavenanalytics.io iteration 2
+[2023-03-01 11:46:08] INFO: https://www.mavenanalytics.io TTFB: 1.02s DOMContentLoaded: 1.41s firstPaint: 1.37s FCP: 1.37s LCP: 4.59s Load: 3.35s TBT: 447ms CLS:0.0502
+[2023-03-01 11:46:08] INFO: Testing url https://www.mavenanalytics.io iteration 3
+[2023-03-01 11:46:23] INFO: https://www.mavenanalytics.io TTFB: 938ms DOMContentLoaded: 1.23s firstPaint: 1.20s FCP: 1.20s LCP: 5.02s Load: 3.77s TBT: 453ms CLS:0.0502
+[2023-03-01 11:46:23] INFO: https://www.mavenanalytics.io 178 requests, TTFB: 943ms (σ36.00ms 3.7%), firstPaint: 1.21s (σ79.00ms 6.3%), FCP: 1.21s (σ79.00ms 6.3%), DOMContentLoaded: 1.24s (σ83.00ms 6.4%), LCP: 4.59s (σ282.00ms 6.1%), CLS: 0.0502 (σ0.00 0%), TBT: 448ms (σ3.00ms 0.6%), Load: 3.35s (σ280.00ms 8.2%) (3 runs)
+[2023-03-01 11:46:23] INFO: Wrote data to browsertime-results\www.mavenanalytics.io\2023-03-01T114536-0500
+[2023-03-01 11:46:24] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:46:27] INFO: Testing url https://www.mavenanalytics.io iteration 1
+[2023-03-01 11:46:40] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:46:44] INFO: https://www.mavenanalytics.io TTFB: 558ms DOMContentLoaded: 1.57s firstPaint: 1.55s FCP: 1.63s Load: 4.75s 
+[2023-03-01 11:46:47] INFO: Testing url https://www.mavenanalytics.io iteration 2
+[2023-03-01 11:47:02] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:47:07] INFO: https://www.mavenanalytics.io TTFB: 1.34s DOMContentLoaded: 2.44s firstPaint: 1.76s FCP: 2.53s Load: 5.64s 
+[2023-03-01 11:47:10] INFO: Testing url https://www.mavenanalytics.io iteration 3
+[2023-03-01 11:47:28] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:47:32] INFO: https://www.mavenanalytics.io TTFB: 2.49s DOMContentLoaded: 3.61s firstPaint: 2.99s FCP: 3.70s Load: 8.08s 
+[2023-03-01 11:47:32] INFO: https://www.mavenanalytics.io 181 requests, TTFB: 1.34s (σ792.00ms 54.2%), firstPaint: 1.76s (σ637.00ms 30.3%), FCP: 2.53s (σ846.00ms 32.3%), DOMContentLoaded: 2.44s (σ836.00ms 32.9%), Load: 5.64s (σ1.41s 22.9%) (3 runs)
+[2023-03-01 11:47:32] INFO: Wrote data to browsertime-results\www.mavenanalytics.io\2023-03-01T114624-0500
+[2023-03-01 11:47:33] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:47:33] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:47:34] INFO: Testing url https://www.mavenanalytics.io iteration 1
+[2023-03-01 11:47:51] INFO: https://www.mavenanalytics.io TTFB: 1.34s DOMContentLoaded: 1.66s firstPaint: 1.63s FCP: 1.63s LCP: 6.38s Load: 5.14s TBT: 488ms CLS:0.0502
+[2023-03-01 11:47:51] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:47:51] INFO: Testing url https://www.mavenanalytics.io iteration 2
+[2023-03-01 11:48:06] INFO: https://www.mavenanalytics.io TTFB: 1.27s DOMContentLoaded: 1.57s firstPaint: 1.54s FCP: 1.54s LCP: 4.90s Load: 3.64s TBT: 472ms CLS:0.0502
+[2023-03-01 11:48:06] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:48:07] INFO: Testing url https://www.mavenanalytics.io iteration 3
+[2023-03-01 11:48:22] INFO: https://www.mavenanalytics.io TTFB: 1.24s DOMContentLoaded: 1.55s firstPaint: 1.52s FCP: 1.52s LCP: 5.36s Load: 4.12s TBT: 449ms CLS:0.0502
+[2023-03-01 11:48:22] INFO: https://www.mavenanalytics.io 178 requests, TTFB: 1.27s (σ42.00ms 3.3%), firstPaint: 1.54s (σ47.00ms 3.0%), FCP: 1.54s (σ47.00ms 3.0%), DOMContentLoaded: 1.57s (σ46.00ms 2.9%), LCP: 5.36s (σ621.00ms 11.2%), CLS: 0.0502 (σ0.00 0%), TBT: 472ms (σ16.00ms 3.4%), Load: 4.12s (σ626.00ms 14.6%) (3 runs)
+[2023-03-01 11:48:22] INFO: Wrote data to browsertime-results\www.mavenanalytics.io\2023-03-01T114733-0500
+[2023-03-01 11:48:23] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:48:23] INFO: Testing url https://www.mbpassion.de iteration 1
+[2023-03-01 11:48:35] INFO: https://www.mbpassion.de TTFB: 777ms DOMContentLoaded: 1.08s firstPaint: 1.08s FCP: 1.08s LCP: 1.68s Load: 1.33s CLS:0.4536
+[2023-03-01 11:48:36] INFO: Testing url https://www.mbpassion.de iteration 2
+[2023-03-01 11:48:48] INFO: https://www.mbpassion.de TTFB: 545ms DOMContentLoaded: 773ms firstPaint: 761ms FCP: 761ms LCP: 1.43s Load: 992ms CLS:0.4590
+[2023-03-01 11:48:48] INFO: Testing url https://www.mbpassion.de iteration 3
+[2023-03-01 11:49:00] INFO: https://www.mbpassion.de TTFB: 591ms DOMContentLoaded: 826ms firstPaint: 818ms FCP: 818ms LCP: 1.49s Load: 1.09s CLS:0.4591
+[2023-03-01 11:49:00] INFO: https://www.mbpassion.de 82 requests, TTFB: 591ms (σ100.00ms 15.7%), firstPaint: 818ms (σ138.00ms 15.6%), FCP: 818ms (σ138.00ms 15.6%), DOMContentLoaded: 826ms (σ135.00ms 15.1%), LCP: 1.49s (σ108.00ms 7.0%), CLS: 0.459 (σ0.00 0.6%), TBT: 0ms (σ0.00ms 0%), Load: 1.09s (σ141.00ms 12.4%) (3 runs)
+[2023-03-01 11:49:00] INFO: Wrote data to browsertime-results\www.mbpassion.de\2023-03-01T114822-0500
+[2023-03-01 11:49:01] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:49:04] INFO: Testing url https://www.mbpassion.de iteration 1
+[2023-03-01 11:49:14] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:49:19] INFO: https://www.mbpassion.de TTFB: 804ms DOMContentLoaded: 1.19s firstPaint: 1.20s FCP: 1.20s Load: 1.42s 
+[2023-03-01 11:49:22] INFO: Testing url https://www.mbpassion.de iteration 2
+[2023-03-01 11:49:32] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:49:36] INFO: https://www.mbpassion.de TTFB: 507ms DOMContentLoaded: 892ms firstPaint: 904ms FCP: 900ms Load: 1.08s 
+[2023-03-01 11:49:39] INFO: Testing url https://www.mbpassion.de iteration 3
+[2023-03-01 11:49:50] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:49:55] INFO: https://www.mbpassion.de TTFB: 1.08s DOMContentLoaded: 1.54s firstPaint: 1.57s FCP: 1.57s Load: 1.87s 
+[2023-03-01 11:49:55] INFO: https://www.mbpassion.de 215 requests, TTFB: 804ms (σ234.00ms 29.3%), firstPaint: 1.20s (σ271.00ms 22.2%), FCP: 1.20s (σ272.00ms 22.3%), DOMContentLoaded: 1.19s (σ263.00ms 21.8%), Load: 1.42s (σ325.00ms 22.3%) (3 runs)
+[2023-03-01 11:49:55] INFO: Wrote data to browsertime-results\www.mbpassion.de\2023-03-01T114901-0500
+[2023-03-01 11:49:56] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:49:56] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:49:56] INFO: Testing url https://www.mbpassion.de iteration 1
+[2023-03-01 11:50:10] INFO: https://www.mbpassion.de TTFB: 1.03s DOMContentLoaded: 1.74s firstPaint: 1.74s FCP: 1.74s LCP: 2.39s Load: 1.81s CLS:0.4534
+[2023-03-01 11:50:10] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:50:11] INFO: Testing url https://www.mbpassion.de iteration 2
+[2023-03-01 11:50:22] INFO: https://www.mbpassion.de TTFB: 1.09s DOMContentLoaded: 1.30s firstPaint: 1.29s FCP: 1.29s LCP: 1.57s Load: 1.36s CLS:0.4534
+[2023-03-01 11:50:22] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:50:23] INFO: Testing url https://www.mbpassion.de iteration 3
+[2023-03-01 11:50:36] INFO: https://www.mbpassion.de TTFB: 1.32s DOMContentLoaded: 1.66s firstPaint: 1.65s FCP: 1.65s LCP: 2.29s Load: 1.92s CLS:0.4591
+[2023-03-01 11:50:36] INFO: https://www.mbpassion.de 111 requests, TTFB: 1.09s (σ124.00ms 10.8%), firstPaint: 1.65s (σ195.00ms 12.5%), FCP: 1.65s (σ195.00ms 12.5%), DOMContentLoaded: 1.66s (σ192.00ms 12.3%), LCP: 2.29s (σ364.00ms 17.5%), CLS: 0.4534 (σ0.00 0.6%), TBT: 0ms (σ0.00ms 0%), Load: 1.81s (σ244.00ms 14.4%) (3 runs)
+[2023-03-01 11:50:36] INFO: Wrote data to browsertime-results\www.mbpassion.de\2023-03-01T114955-0500
+[2023-03-01 11:50:37] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:50:38] INFO: Testing url https://www.eyval.net iteration 1
+[2023-03-01 11:50:55] INFO: https://www.eyval.net TTFB: 509ms DOMContentLoaded: 2.74s firstPaint: 708ms FCP: 708ms LCP: 832ms Load: 5.27s TBT: 41ms CLS:0.1480
+[2023-03-01 11:50:55] INFO: Testing url https://www.eyval.net iteration 2
+[2023-03-01 11:51:12] INFO: https://www.eyval.net TTFB: 394ms DOMContentLoaded: 2.56s firstPaint: 474ms FCP: 474ms LCP: 603ms Load: 5.05s TBT: 31ms CLS:0.1493
+[2023-03-01 11:51:12] INFO: Testing url https://www.eyval.net iteration 3
+[2023-03-01 11:51:27] INFO: https://www.eyval.net TTFB: 363ms DOMContentLoaded: 2.48s firstPaint: 439ms FCP: 439ms LCP: 561ms Load: 4.22s TBT: 29ms CLS:0.1228
+[2023-03-01 11:51:27] INFO: https://www.eyval.net 229 requests, TTFB: 394ms (σ63.00ms 14.9%), firstPaint: 474ms (σ119.00ms 22.1%), FCP: 474ms (σ119.00ms 22.1%), DOMContentLoaded: 2.56s (σ112.00ms 4.3%), LCP: 603ms (σ119.00ms 17.9%), CLS: 0.148 (σ0.01 8.7%), TBT: 31ms (σ5.00ms 15.6%), Load: 5.05s (σ453.00ms 9.3%) (3 runs)
+[2023-03-01 11:51:27] INFO: Wrote data to browsertime-results\www.eyval.net\2023-03-01T115037-0500
+[2023-03-01 11:51:28] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:51:32] INFO: Testing url https://www.eyval.net iteration 1
+[2023-03-01 11:51:47] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:51:51] INFO: https://www.eyval.net TTFB: 409ms DOMContentLoaded: 3.79s firstPaint: 1.27s FCP: 1.27s Load: 7.16s 
+[2023-03-01 11:51:54] INFO: Testing url https://www.eyval.net iteration 2
+[2023-03-01 11:52:12] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:52:16] INFO: https://www.eyval.net TTFB: 395ms DOMContentLoaded: 5.54s firstPaint: 1.42s FCP: 1.42s Load: 9.17s 
+[2023-03-01 11:52:20] INFO: Testing url https://www.eyval.net iteration 3
+[2023-03-01 11:52:35] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:52:39] INFO: https://www.eyval.net TTFB: 421ms DOMContentLoaded: 3.31s firstPaint: 1.27s FCP: 1.25s Load: 6.76s 
+[2023-03-01 11:52:39] INFO: https://www.eyval.net 212 requests, TTFB: 409ms (σ11.00ms 2.6%), firstPaint: 1.27s (σ70.00ms 5.3%), FCP: 1.27s (σ75.00ms 5.7%), DOMContentLoaded: 3.79s (σ958.00ms 22.7%), Load: 7.16s (σ1.05s 13.7%) (3 runs)
+[2023-03-01 11:52:39] INFO: Wrote data to browsertime-results\www.eyval.net\2023-03-01T115128-0500
+[2023-03-01 11:52:40] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:52:40] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:52:41] INFO: Testing url https://www.eyval.net iteration 1
+[2023-03-01 11:52:57] INFO: https://www.eyval.net TTFB: 709ms DOMContentLoaded: 3.17s firstPaint: 873ms FCP: 873ms LCP: 1.12s Load: 4.68s TBT: 27ms CLS:0.0787
+[2023-03-01 11:52:57] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:52:58] INFO: Testing url https://www.eyval.net iteration 2
+[2023-03-01 11:53:15] INFO: https://www.eyval.net TTFB: 769ms DOMContentLoaded: 3.10s firstPaint: 868ms FCP: 868ms LCP: 985ms Load: 4.60s TBT: 6ms CLS:0.1497
+[2023-03-01 11:53:15] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:53:15] INFO: Testing url https://www.eyval.net iteration 3
+[2023-03-01 11:53:32] INFO: https://www.eyval.net TTFB: 755ms DOMContentLoaded: 3.28s firstPaint: 1.02s FCP: 1.02s LCP: 1.15s Load: 4.69s CLS:0.0714
+[2023-03-01 11:53:32] INFO: https://www.eyval.net 224 requests, TTFB: 755ms (σ26.00ms 3.4%), firstPaint: 873ms (σ72.00ms 7.9%), FCP: 873ms (σ72.00ms 7.9%), DOMContentLoaded: 3.17s (σ73.00ms 2.3%), LCP: 1.12s (σ73.00ms 6.7%), CLS: 0.0787 (σ0.04 35.4%), TBT: 6ms (σ12.00ms 105.2%), Load: 4.68s (σ39.00ms 0.8%) (3 runs)
+[2023-03-01 11:53:32] INFO: Wrote data to browsertime-results\www.eyval.net\2023-03-01T115240-0500
+[2023-03-01 11:53:33] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:53:34] INFO: Testing url https://www.afgruppen.no iteration 1
+[2023-03-01 11:53:48] INFO: https://www.afgruppen.no TTFB: 1.67s DOMContentLoaded: 2.90s firstPaint: 2.11s FCP: 2.11s LCP: 2.28s Load: 3.67s TBT: 22ms CLS:0.0032
+[2023-03-01 11:53:49] INFO: Testing url https://www.afgruppen.no iteration 2
+[2023-03-01 11:54:04] INFO: https://www.afgruppen.no TTFB: 1.41s DOMContentLoaded: 2.84s firstPaint: 2.00s FCP: 2.00s LCP: 2.05s Load: 4.29s TBT: 28ms CLS:0.0036
+[2023-03-01 11:54:05] INFO: Testing url https://www.afgruppen.no iteration 3
+[2023-03-01 11:54:19] INFO: https://www.afgruppen.no TTFB: 1.34s DOMContentLoaded: 2.55s firstPaint: 1.81s FCP: 1.81s LCP: 1.92s Load: 3.19s TBT: 35ms CLS:0.0032
+[2023-03-01 11:54:20] INFO: https://www.afgruppen.no 76 requests, TTFB: 1.41s (σ141.00ms 9.6%), firstPaint: 2.00s (σ123.00ms 6.3%), FCP: 2.00s (σ123.00ms 6.3%), DOMContentLoaded: 2.84s (σ153.00ms 5.5%), LCP: 2.05s (σ150.00ms 7.2%), CLS: 0.0032 (σ0.00 5.3%), TBT: 28ms (σ5.00ms 18.7%), Load: 3.67s (σ452.00ms 12.2%) (3 runs)
+[2023-03-01 11:54:20] INFO: Wrote data to browsertime-results\www.afgruppen.no\2023-03-01T115332-0500
+[2023-03-01 11:54:20] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:54:23] INFO: Testing url https://www.afgruppen.no iteration 1
+[2023-03-01 11:54:38] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:54:41] INFO: https://www.afgruppen.no TTFB: 2.31s DOMContentLoaded: 4.31s firstPaint: 3.07s FCP: 3.08s Load: 5.40s 
+[2023-03-01 11:54:44] INFO: Testing url https://www.afgruppen.no iteration 2
+[2023-03-01 11:54:59] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:55:02] INFO: https://www.afgruppen.no TTFB: 1.55s DOMContentLoaded: 3.35s firstPaint: 2.25s FCP: 2.52s Load: 4.86s 
+[2023-03-01 11:55:05] INFO: Testing url https://www.afgruppen.no iteration 3
+[2023-03-01 11:55:19] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:55:23] INFO: https://www.afgruppen.no TTFB: 1.57s DOMContentLoaded: 3.35s firstPaint: 2.12s FCP: 2.12s Load: 4.86s 
+[2023-03-01 11:55:23] INFO: https://www.afgruppen.no 76 requests, TTFB: 1.57s (σ352.00ms 19.4%), firstPaint: 2.25s (σ420.00ms 16.9%), FCP: 2.52s (σ397.00ms 15.4%), DOMContentLoaded: 3.35s (σ451.00ms 12.3%), Load: 4.86s (σ255.00ms 5.1%) (3 runs)
+[2023-03-01 11:55:23] INFO: Wrote data to browsertime-results\www.afgruppen.no\2023-03-01T115420-0500
+[2023-03-01 11:55:24] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:55:24] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:55:25] INFO: Testing url https://www.afgruppen.no iteration 1
+[2023-03-01 11:55:41] INFO: https://www.afgruppen.no TTFB: 2.84s DOMContentLoaded: 3.95s firstPaint: 3.30s FCP: 3.30s LCP: 3.37s Load: 5.23s TBT: 23ms CLS:0.0032
+[2023-03-01 11:55:41] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:55:42] INFO: Testing url https://www.afgruppen.no iteration 2
+[2023-03-01 11:55:57] INFO: https://www.afgruppen.no TTFB: 2.02s DOMContentLoaded: 3.24s firstPaint: 2.50s FCP: 2.50s LCP: 2.60s Load: 3.89s TBT: 46ms CLS:0.0032
+[2023-03-01 11:55:57] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:55:57] INFO: Testing url https://www.afgruppen.no iteration 3
+[2023-03-01 11:56:14] INFO: https://www.afgruppen.no TTFB: 2.36s DOMContentLoaded: 3.51s firstPaint: 2.82s FCP: 2.82s LCP: 2.90s Load: 5.20s TBT: 37ms CLS:0.0032
+[2023-03-01 11:56:14] INFO: https://www.afgruppen.no 77 requests, TTFB: 2.36s (σ336.00ms 14.0%), firstPaint: 2.82s (σ330.00ms 11.5%), FCP: 2.82s (σ330.00ms 11.5%), DOMContentLoaded: 3.51s (σ291.00ms 8.2%), LCP: 2.90s (σ317.00ms 10.7%), CLS: 0.0032 (σ0.00 0%), TBT: 37ms (σ9.00ms 26.8%), Load: 5.20s (σ623.00ms 13.0%) (3 runs)
+[2023-03-01 11:56:14] INFO: Wrote data to browsertime-results\www.afgruppen.no\2023-03-01T115524-0500
+[2023-03-01 11:56:15] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:56:15] INFO: Testing url https://www.torrentdosfilmes.eu iteration 1
+[2023-03-01 11:56:32] INFO: https://www.torrentdosfilmes.eu TTFB: 2.95s DOMContentLoaded: 4.76s firstPaint: 4.07s FCP: 4.07s LCP: 4.12s Load: 5.56s TBT: 240ms CLS:1.0133
+[2023-03-01 11:56:32] INFO: Testing url https://www.torrentdosfilmes.eu iteration 2
+[2023-03-01 11:56:46] INFO: https://www.torrentdosfilmes.eu TTFB: 1.88s DOMContentLoaded: 1.90s Load: 1.90s 
+[2023-03-01 11:56:46] INFO: Testing url https://www.torrentdosfilmes.eu iteration 3
+[2023-03-01 11:56:58] INFO: https://www.torrentdosfilmes.eu TTFB: 1.00s DOMContentLoaded: 1.02s Load: 1.02s 
+[2023-03-01 11:56:58] INFO: https://www.torrentdosfilmes.eu 135 requests, TTFB: 1.88s (σ794.00ms 40.9%), firstPaint: 4.07s (σ0.00ms 0%), FCP: 4.07s (σ0.00ms 0%), DOMContentLoaded: 1.90s (σ1.60s 62.4%), LCP: 4.12s (σ0.00ms 0%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ113.00ms 141.4%), Load: 1.90s (σ1.97s 69.6%) (3 runs)
+[2023-03-01 11:56:58] INFO: Wrote data to browsertime-results\www.torrentdosfilmes.eu\2023-03-01T115614-0500
+[2023-03-01 11:56:59] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:57:03] INFO: Testing url https://www.torrentdosfilmes.eu iteration 1
+[2023-03-01 11:57:15] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:57:19] INFO: https://www.torrentdosfilmes.eu TTFB: 3.61s DOMContentLoaded: 3.68s firstPaint: 3.69s Load: 3.69s 
+[2023-03-01 11:57:22] INFO: Testing url https://www.torrentdosfilmes.eu iteration 2
+[2023-03-01 11:57:32] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:57:35] INFO: https://www.torrentdosfilmes.eu TTFB: 926ms DOMContentLoaded: 1.02s firstPaint: 1.04s Load: 1.02s 
+[2023-03-01 11:57:38] INFO: Testing url https://www.torrentdosfilmes.eu iteration 3
+[2023-03-01 11:57:50] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:57:53] INFO: https://www.torrentdosfilmes.eu TTFB: 2.41s DOMContentLoaded: 2.48s firstPaint: 2.48s Load: 2.48s 
+[2023-03-01 11:57:53] INFO: https://www.torrentdosfilmes.eu 1 requests, TTFB: 2.41s (σ1.10s 47.4%), firstPaint: 2.48s (σ1.08s 45.1%), DOMContentLoaded: 2.48s (σ1.09s 45.5%), Load: 2.48s (σ1.09s 45.4%) (3 runs)
+[2023-03-01 11:57:53] INFO: Wrote data to browsertime-results\www.torrentdosfilmes.eu\2023-03-01T115659-0500
+[2023-03-01 11:57:54] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 11:57:54] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:57:55] INFO: Testing url https://www.torrentdosfilmes.eu iteration 1
+[2023-03-01 11:58:06] INFO: https://www.torrentdosfilmes.eu TTFB: 1.37s DOMContentLoaded: 1.39s Load: 1.39s 
+[2023-03-01 11:58:06] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:58:07] INFO: Testing url https://www.torrentdosfilmes.eu iteration 2
+[2023-03-01 11:58:21] INFO: https://www.torrentdosfilmes.eu TTFB: 1.62s DOMContentLoaded: 1.63s Load: 1.64s 
+[2023-03-01 11:58:21] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 11:58:22] INFO: Testing url https://www.torrentdosfilmes.eu iteration 3
+[2023-03-01 11:58:33] INFO: https://www.torrentdosfilmes.eu TTFB: 1.40s DOMContentLoaded: 1.41s Load: 1.41s 
+[2023-03-01 11:58:33] INFO: https://www.torrentdosfilmes.eu 1 requests, TTFB: 1.40s (σ111.00ms 7.6%), DOMContentLoaded: 1.41s (σ112.00ms 7.6%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.41s (σ112.00ms 7.6%) (3 runs)
+[2023-03-01 11:58:34] INFO: Wrote data to browsertime-results\www.torrentdosfilmes.eu\2023-03-01T115753-0500
+[2023-03-01 11:58:35] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 11:58:35] INFO: Testing url https://www.mooncat.com iteration 1
+[2023-03-01 11:58:50] INFO: https://www.mooncat.com TTFB: 378ms DOMContentLoaded: 2.33s firstPaint: 1.22s FCP: 1.71s LCP: 1.71s Load: 4.20s TBT: 332ms CLS:0.0140
+[2023-03-01 11:58:51] INFO: Testing url https://www.mooncat.com iteration 2
+[2023-03-01 11:59:08] INFO: https://www.mooncat.com TTFB: 403ms DOMContentLoaded: 1.19s firstPaint: 664ms FCP: 970ms LCP: 970ms Load: 5.71s TBT: 176ms CLS:0.0140
+[2023-03-01 11:59:09] INFO: Testing url https://www.mooncat.com iteration 3
+[2023-03-01 11:59:28] INFO: https://www.mooncat.com TTFB: 324ms DOMContentLoaded: 1.37s firstPaint: 798ms FCP: 1.31s LCP: 1.31s Load: 7.89s TBT: 234ms CLS:0.0140
+[2023-03-01 11:59:28] INFO: https://www.mooncat.com 300 requests, TTFB: 378ms (σ33.00ms 9.0%), firstPaint: 798ms (σ236.00ms 26.5%), FCP: 1.31s (σ303.00ms 22.7%), DOMContentLoaded: 1.37s (σ499.00ms 30.6%), LCP: 1.31s (σ303.00ms 22.7%), CLS: 0.014 (σ0.00 0%), TBT: 234ms (σ64.00ms 26.0%), Load: 5.71s (σ1.51s 25.5%) (3 runs)
+[2023-03-01 11:59:28] INFO: Wrote data to browsertime-results\www.mooncat.com\2023-03-01T115834-0500
+[2023-03-01 11:59:29] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 11:59:33] INFO: Testing url https://www.mooncat.com iteration 1
+[2023-03-01 11:59:47] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 11:59:52] INFO: https://www.mooncat.com TTFB: 187ms DOMContentLoaded: 2.40s firstPaint: 1.79s FCP: 2.13s Load: 5.14s 
+[2023-03-01 11:59:56] INFO: Testing url https://www.mooncat.com iteration 2
+[2023-03-01 12:00:10] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:00:15] INFO: https://www.mooncat.com TTFB: 199ms DOMContentLoaded: 2.79s firstPaint: 2.32s FCP: 2.55s Load: 4.85s 
+[2023-03-01 12:00:18] INFO: Testing url https://www.mooncat.com iteration 3
+[2023-03-01 12:00:31] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:00:36] INFO: https://www.mooncat.com TTFB: 406ms DOMContentLoaded: 3.01s firstPaint: 2.18s FCP: 2.63s Load: 4.67s 
+[2023-03-01 12:00:36] INFO: https://www.mooncat.com 212 requests, TTFB: 199ms (σ101.00ms 38.1%), firstPaint: 2.18s (σ223.00ms 10.6%), FCP: 2.55s (σ219.00ms 9.0%), DOMContentLoaded: 2.79s (σ255.00ms 9.3%), Load: 4.85s (σ194.00ms 4.0%) (3 runs)
+[2023-03-01 12:00:36] INFO: Wrote data to browsertime-results\www.mooncat.com\2023-03-01T115929-0500
+[2023-03-01 12:00:38] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:00:38] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:00:38] INFO: Testing url https://www.mooncat.com iteration 1
+[2023-03-01 12:00:55] INFO: https://www.mooncat.com TTFB: 777ms DOMContentLoaded: 2.37s firstPaint: 1.13s FCP: 1.70s LCP: 1.70s Load: 5.11s TBT: 282ms CLS:0.0140
+[2023-03-01 12:00:55] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:00:56] INFO: Testing url https://www.mooncat.com iteration 2
+[2023-03-01 12:01:11] INFO: https://www.mooncat.com TTFB: 714ms DOMContentLoaded: 2.19s firstPaint: 1.70s FCP: 2.16s LCP: 2.16s Load: 3.76s TBT: 330ms CLS:0.0140
+[2023-03-01 12:01:11] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:01:12] INFO: Testing url https://www.mooncat.com iteration 3
+[2023-03-01 12:01:27] INFO: https://www.mooncat.com TTFB: 805ms DOMContentLoaded: 2.36s firstPaint: 1.78s FCP: 2.33s LCP: 2.33s Load: 3.21s TBT: 201ms CLS:0.0140
+[2023-03-01 12:01:27] INFO: https://www.mooncat.com 288 requests, TTFB: 777ms (σ38.00ms 5.0%), firstPaint: 1.70s (σ289.00ms 18.8%), FCP: 2.16s (σ265.00ms 12.9%), DOMContentLoaded: 2.36s (σ82.00ms 3.5%), LCP: 2.16s (σ265.00ms 12.9%), CLS: 0.014 (σ0.00 0%), TBT: 282ms (σ53.00ms 19.6%), Load: 3.76s (σ795.00ms 19.8%) (3 runs)
+[2023-03-01 12:01:27] INFO: Wrote data to browsertime-results\www.mooncat.com\2023-03-01T120037-0500
+[2023-03-01 12:01:28] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:01:29] INFO: Testing url https://www.fluid-liquid.de iteration 1
+[2023-03-01 12:01:47] INFO: https://www.fluid-liquid.de TTFB: 2.82s DOMContentLoaded: 3.90s firstPaint: 3.33s FCP: 3.33s LCP: 3.85s Load: 6.29s TBT: 14ms CLS:0.0002
+[2023-03-01 12:01:48] INFO: Testing url https://www.fluid-liquid.de iteration 2
+[2023-03-01 12:02:04] INFO: https://www.fluid-liquid.de TTFB: 2.62s DOMContentLoaded: 3.74s firstPaint: 3.28s FCP: 3.28s LCP: 3.29s Load: 5.28s TBT: 63ms CLS:0.0002
+[2023-03-01 12:02:05] INFO: Testing url https://www.fluid-liquid.de iteration 3
+[2023-03-01 12:02:20] INFO: https://www.fluid-liquid.de TTFB: 1.23s DOMContentLoaded: 2.21s firstPaint: 1.75s FCP: 1.75s LCP: 1.99s Load: 3.76s TBT: 48ms CLS:0.0002
+[2023-03-01 12:02:20] INFO: https://www.fluid-liquid.de 101 requests, TTFB: 2.62s (σ705.00ms 31.7%), firstPaint: 3.28s (σ729.00ms 26.2%), FCP: 3.28s (σ729.00ms 26.2%), DOMContentLoaded: 3.74s (σ761.00ms 23.1%), LCP: 3.29s (σ781.00ms 25.7%), CLS: 0.0002 (σ0.00 0%), TBT: 48ms (σ20.00ms 49.2%), Load: 5.28s (σ1.04s 20.4%) (3 runs)
+[2023-03-01 12:02:20] INFO: Wrote data to browsertime-results\www.fluid-liquid.de\2023-03-01T120127-0500
+[2023-03-01 12:02:21] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:02:24] INFO: Testing url https://www.fluid-liquid.de iteration 1
+[2023-03-01 12:02:35] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:02:40] INFO: https://www.fluid-liquid.de TTFB: 740ms DOMContentLoaded: 2.48s firstPaint: 1.82s FCP: 1.82s Load: 2.92s 
+[2023-03-01 12:02:43] INFO: Testing url https://www.fluid-liquid.de iteration 2
+[2023-03-01 12:02:55] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:02:59] INFO: https://www.fluid-liquid.de TTFB: 650ms DOMContentLoaded: 2.44s firstPaint: 1.78s FCP: 1.78s Load: 2.81s 
+[2023-03-01 12:03:02] INFO: Testing url https://www.fluid-liquid.de iteration 3
+[2023-03-01 12:03:15] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:03:20] INFO: https://www.fluid-liquid.de TTFB: 730ms DOMContentLoaded: 3.87s firstPaint: 3.08s FCP: 3.08s Load: 4.24s 
+[2023-03-01 12:03:20] INFO: https://www.fluid-liquid.de 122 requests, TTFB: 730ms (σ40.00ms 5.7%), firstPaint: 1.82s (σ606.00ms 27.2%), FCP: 1.82s (σ605.00ms 27.2%), DOMContentLoaded: 2.48s (σ665.00ms 22.7%), Load: 2.92s (σ648.00ms 19.5%) (3 runs)
+[2023-03-01 12:03:20] INFO: Wrote data to browsertime-results\www.fluid-liquid.de\2023-03-01T120220-0500
+[2023-03-01 12:03:21] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:03:21] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:03:22] INFO: Testing url https://www.fluid-liquid.de iteration 1
+[2023-03-01 12:03:38] INFO: https://www.fluid-liquid.de TTFB: 2.73s DOMContentLoaded: 3.88s firstPaint: 3.38s FCP: 3.38s LCP: 3.50s Load: 5.57s TBT: 29ms CLS:0.0002
+[2023-03-01 12:03:38] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:03:39] INFO: Testing url https://www.fluid-liquid.de iteration 2
+[2023-03-01 12:03:55] INFO: https://www.fluid-liquid.de TTFB: 1.61s DOMContentLoaded: 3.40s firstPaint: 2.31s FCP: 2.31s LCP: 2.62s Load: 5.16s TBT: 52ms CLS:0.0002
+[2023-03-01 12:03:55] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:03:56] INFO: Testing url https://www.fluid-liquid.de iteration 3
+[2023-03-01 12:04:16] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-01 12:04:18] INFO: https://www.fluid-liquid.de TTFB: 1.58s DOMContentLoaded: 10.47s firstPaint: 10.22s FCP: 10.22s LCP: 10.31s Load: 12.23s TBT: 13ms CLS:0.0002
+[2023-03-01 12:04:18] INFO: https://www.fluid-liquid.de 102 requests, TTFB: 1.61s (σ532.00ms 26.9%), firstPaint: 3.38s (σ3.50s 66.1%), FCP: 3.38s (σ3.50s 66.1%), DOMContentLoaded: 3.88s (σ3.22s 54.5%), LCP: 3.50s (σ3.44s 62.7%), CLS: 0.0002 (σ0.00 0%), TBT: 29ms (σ16.00ms 51.1%), Load: 5.57s (σ3.24s 42.4%) (3 runs)
+[2023-03-01 12:04:18] INFO: Wrote data to browsertime-results\www.fluid-liquid.de\2023-03-01T120320-0500
+[2023-03-01 12:04:20] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:04:20] INFO: Testing url https://www.alta360research.com iteration 1
+[2023-03-01 12:04:35] INFO: https://www.alta360research.com TTFB: 2.05s DOMContentLoaded: 2.65s firstPaint: 2.51s FCP: 2.51s LCP: 2.90s Load: 3.17s CLS:0.3148
+[2023-03-01 12:04:36] INFO: Testing url https://www.alta360research.com iteration 2
+[2023-03-01 12:04:49] INFO: https://www.alta360research.com TTFB: 1.20s DOMContentLoaded: 2.09s firstPaint: 1.83s FCP: 1.83s LCP: 2.17s Load: 2.36s TBT: 49ms CLS:0.2733
+[2023-03-01 12:04:50] INFO: Testing url https://www.alta360research.com iteration 3
+[2023-03-01 12:05:03] INFO: https://www.alta360research.com TTFB: 1.45s DOMContentLoaded: 1.99s firstPaint: 1.81s FCP: 1.81s LCP: 2.19s Load: 2.47s CLS:0.2721
+[2023-03-01 12:05:03] INFO: https://www.alta360research.com 51 requests, TTFB: 1.45s (σ355.00ms 22.7%), firstPaint: 1.83s (σ322.00ms 15.7%), FCP: 1.83s (σ322.00ms 15.7%), DOMContentLoaded: 2.09s (σ288.00ms 12.9%), LCP: 2.19s (σ339.00ms 14.0%), CLS: 0.2733 (σ0.02 6.9%), TBT: 0ms (σ23.00ms 141.4%), Load: 2.47s (σ360.00ms 13.5%) (3 runs)
+[2023-03-01 12:05:03] INFO: Wrote data to browsertime-results\www.alta360research.com\2023-03-01T120419-0500
+[2023-03-01 12:05:05] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:05:08] INFO: Testing url https://www.alta360research.com iteration 1
+[2023-03-01 12:05:21] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:05:32] INFO: https://www.alta360research.com 
+[2023-03-01 12:05:36] INFO: Testing url https://www.alta360research.com iteration 2
+[2023-03-01 12:05:48] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:05:52] INFO: https://www.alta360research.com TTFB: 1.44s DOMContentLoaded: 2.70s firstPaint: 2.29s FCP: 2.68s Load: 4.05s 
+[2023-03-01 12:05:55] INFO: Testing url https://www.alta360research.com iteration 3
+[2023-03-01 12:06:07] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:06:10] INFO: https://www.alta360research.com TTFB: 445ms DOMContentLoaded: 1.79s firstPaint: 1.77s FCP: 1.77s Load: 2.69s 
+[2023-03-01 12:06:10] INFO: https://www.alta360research.com 63 requests, TTFB: 941ms (σ496.00ms 52.7%), firstPaint: 2.03s (σ257.00ms 12.6%), FCP: 2.23s (σ459.00ms 20.6%), DOMContentLoaded: 2.25s (σ456.00ms 20.3%), Load: 3.37s (σ681.00ms 20.2%) (2 runs)
+[2023-03-01 12:06:10] INFO: Wrote data to browsertime-results\www.alta360research.com\2023-03-01T120504-0500
+[2023-03-01 12:06:11] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:06:11] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:06:12] INFO: Testing url https://www.alta360research.com iteration 1
+[2023-03-01 12:06:25] INFO: https://www.alta360research.com TTFB: 1.03s DOMContentLoaded: 1.54s firstPaint: 1.39s FCP: 1.39s LCP: 1.73s Load: 1.87s CLS:0.2721
+[2023-03-01 12:06:25] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:06:26] INFO: Testing url https://www.alta360research.com iteration 2
+[2023-03-01 12:06:40] INFO: https://www.alta360research.com TTFB: 1.02s DOMContentLoaded: 1.57s firstPaint: 1.42s FCP: 1.42s LCP: 1.74s Load: 1.86s CLS:0.2721
+[2023-03-01 12:06:40] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:06:41] INFO: Testing url https://www.alta360research.com iteration 3
+[2023-03-01 12:06:54] INFO: https://www.alta360research.com TTFB: 1.17s DOMContentLoaded: 1.68s firstPaint: 1.50s FCP: 1.50s LCP: 1.85s Load: 1.96s TBT: 16ms CLS:0.2733
+[2023-03-01 12:06:54] INFO: https://www.alta360research.com 52 requests, TTFB: 1.03s (σ69.00ms 6.4%), firstPaint: 1.42s (σ48.00ms 3.4%), FCP: 1.42s (σ48.00ms 3.4%), DOMContentLoaded: 1.57s (σ62.00ms 3.9%), LCP: 1.74s (σ55.00ms 3.1%), CLS: 0.2721 (σ0.00 0.2%), TBT: 0ms (σ8.00ms 141.4%), Load: 1.87s (σ47.00ms 2.5%) (3 runs)
+[2023-03-01 12:06:54] INFO: Wrote data to browsertime-results\www.alta360research.com\2023-03-01T120611-0500
+[2023-03-01 12:06:55] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:06:56] INFO: Testing url https://www.vnps.org iteration 1
+[2023-03-01 12:07:14] INFO: https://www.vnps.org TTFB: 3.71s DOMContentLoaded: 5.87s firstPaint: 5.67s FCP: 5.68s LCP: 6.63s Load: 7.46s TBT: 39ms CLS:0.0489
+[2023-03-01 12:07:15] INFO: Testing url https://www.vnps.org iteration 2
+[2023-03-01 12:07:29] INFO: https://www.vnps.org TTFB: 1.39s DOMContentLoaded: 2.29s firstPaint: 2.04s FCP: 2.07s LCP: 2.92s Load: 3.16s TBT: 54ms CLS:0.0489
+[2023-03-01 12:07:30] INFO: Testing url https://www.vnps.org iteration 3
+[2023-03-01 12:07:44] INFO: https://www.vnps.org TTFB: 1.11s DOMContentLoaded: 1.98s firstPaint: 1.67s FCP: 1.68s LCP: 2.65s Load: 2.31s TBT: 134ms CLS:0.5011
+[2023-03-01 12:07:44] INFO: https://www.vnps.org 139 requests, TTFB: 1.39s (σ1.17s 56.4%), firstPaint: 2.04s (σ1.80s 57.7%), FCP: 2.07s (σ1.80s 57.3%), DOMContentLoaded: 2.29s (σ1.76s 52.2%), LCP: 2.92s (σ1.82s 44.7%), CLS: 0.0489 (σ0.21 106.8%), TBT: 54ms (σ42.00ms 55.1%), Load: 3.16s (σ2.25s 52.3%) (3 runs)
+[2023-03-01 12:07:44] INFO: Wrote data to browsertime-results\www.vnps.org\2023-03-01T120655-0500
+[2023-03-01 12:07:45] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:07:48] INFO: Testing url https://www.vnps.org iteration 1
+[2023-03-01 12:08:01] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:08:05] INFO: https://www.vnps.org TTFB: 1.17s DOMContentLoaded: 2.44s firstPaint: 2.00s FCP: 2.23s Load: 4.02s 
+[2023-03-01 12:08:08] INFO: Testing url https://www.vnps.org iteration 2
+[2023-03-01 12:08:23] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:08:27] INFO: https://www.vnps.org TTFB: 2.06s DOMContentLoaded: 2.98s firstPaint: 2.97s FCP: 2.97s Load: 4.75s 
+[2023-03-01 12:08:30] INFO: Testing url https://www.vnps.org iteration 3
+[2023-03-01 12:08:44] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:08:48] INFO: https://www.vnps.org TTFB: 2.17s DOMContentLoaded: 3.33s firstPaint: 3.24s FCP: 3.23s Load: 4.86s 
+[2023-03-01 12:08:48] INFO: https://www.vnps.org 139 requests, TTFB: 2.06s (σ446.00ms 24.8%), firstPaint: 2.97s (σ531.00ms 19.4%), FCP: 2.97s (σ423.00ms 15.0%), DOMContentLoaded: 2.98s (σ367.00ms 12.6%), Load: 4.75s (σ371.00ms 8.2%) (3 runs)
+[2023-03-01 12:08:48] INFO: Wrote data to browsertime-results\www.vnps.org\2023-03-01T120744-0500
+[2023-03-01 12:08:50] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:08:50] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:08:50] INFO: Testing url https://www.vnps.org iteration 1
+[2023-03-01 12:09:05] INFO: https://www.vnps.org TTFB: 1.74s DOMContentLoaded: 2.62s firstPaint: 2.29s FCP: 2.45s LCP: 3.13s Load: 3.34s TBT: 62ms CLS:0.5096
+[2023-03-01 12:09:05] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:09:06] INFO: Testing url https://www.vnps.org iteration 2
+[2023-03-01 12:09:21] INFO: https://www.vnps.org TTFB: 1.45s DOMContentLoaded: 2.35s firstPaint: 2.02s FCP: 2.04s LCP: 2.85s Load: 3.23s TBT: 154ms CLS:0.5011
+[2023-03-01 12:09:21] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:09:22] INFO: Testing url https://www.vnps.org iteration 3
+[2023-03-01 12:09:35] INFO: https://www.vnps.org TTFB: 1.68s DOMContentLoaded: 2.42s firstPaint: 2.17s FCP: 2.19s LCP: 3.20s Load: 2.83s TBT: 39ms CLS:0.0574
+[2023-03-01 12:09:35] INFO: https://www.vnps.org 139 requests, TTFB: 1.68s (σ122.00ms 7.5%), firstPaint: 2.17s (σ107.00ms 4.9%), FCP: 2.19s (σ171.00ms 7.7%), DOMContentLoaded: 2.42s (σ113.00ms 4.6%), LCP: 3.13s (σ153.00ms 5.0%), CLS: 0.5011 (σ0.21 59.3%), TBT: 62ms (σ50.00ms 58.5%), Load: 3.23s (σ217.00ms 6.9%) (3 runs)
+[2023-03-01 12:09:35] INFO: Wrote data to browsertime-results\www.vnps.org\2023-03-01T120849-0500
+[2023-03-01 12:09:37] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:09:37] INFO: Testing url https://www.ontaxi.com.ua iteration 1
+[2023-03-01 12:09:49] INFO: https://www.ontaxi.com.ua TTFB: 769ms DOMContentLoaded: 823ms firstPaint: 829ms FCP: 829ms LCP: 829ms Load: 823ms 
+[2023-03-01 12:09:50] INFO: Testing url https://www.ontaxi.com.ua iteration 2
+[2023-03-01 12:10:02] INFO: https://www.ontaxi.com.ua TTFB: 743ms DOMContentLoaded: 761ms firstPaint: 811ms FCP: 811ms LCP: 811ms Load: 761ms 
+[2023-03-01 12:10:03] INFO: Testing url https://www.ontaxi.com.ua iteration 3
+[2023-03-01 12:10:14] INFO: https://www.ontaxi.com.ua TTFB: 752ms DOMContentLoaded: 811ms firstPaint: 818ms FCP: 818ms LCP: 818ms Load: 812ms 
+[2023-03-01 12:10:14] INFO: https://www.ontaxi.com.ua 1 requests, TTFB: 752ms (σ11.00ms 1.4%), firstPaint: 818ms (σ7.00ms 0.9%), FCP: 818ms (σ7.00ms 0.9%), DOMContentLoaded: 811ms (σ27.00ms 3.4%), LCP: 818ms (σ7.00ms 0.9%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 812ms (σ27.00ms 3.4%) (3 runs)
+[2023-03-01 12:10:14] INFO: Wrote data to browsertime-results\www.ontaxi.com.ua\2023-03-01T120936-0500
+[2023-03-01 12:10:16] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:10:19] INFO: Testing url https://www.ontaxi.com.ua iteration 1
+[2023-03-01 12:10:39] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-01 12:10:39] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:10:50] INFO: https://www.ontaxi.com.ua 
+[2023-03-01 12:10:54] INFO: Testing url https://www.ontaxi.com.ua iteration 2
+[2023-03-01 12:11:14] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-01 12:11:14] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:11:25] INFO: https://www.ontaxi.com.ua 
+[2023-03-01 12:11:29] INFO: Testing url https://www.ontaxi.com.ua iteration 3
+[2023-03-01 12:11:49] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-01 12:11:49] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:12:00] INFO: https://www.ontaxi.com.ua 
+[2023-03-01 12:12:00] INFO: https://www.ontaxi.com.ua 
+[2023-03-01 12:12:00] INFO: Wrote data to browsertime-results\www.ontaxi.com.ua\2023-03-01T121015-0500
+[2023-03-01 12:12:01] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:12:01] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:12:02] INFO: Testing url https://www.ontaxi.com.ua iteration 1
+[2023-03-01 12:12:14] INFO: https://www.ontaxi.com.ua TTFB: 1.33s DOMContentLoaded: 1.39s firstPaint: 1.40s FCP: 1.40s LCP: 1.40s Load: 1.39s 
+[2023-03-01 12:12:14] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:12:15] INFO: Testing url https://www.ontaxi.com.ua iteration 2
+[2023-03-01 12:12:28] INFO: https://www.ontaxi.com.ua TTFB: 1.48s DOMContentLoaded: 1.55s firstPaint: 1.55s FCP: 1.55s LCP: 1.55s Load: 1.55s 
+[2023-03-01 12:12:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:12:29] INFO: Testing url https://www.ontaxi.com.ua iteration 3
+[2023-03-01 12:12:41] INFO: https://www.ontaxi.com.ua TTFB: 1.12s DOMContentLoaded: 1.18s firstPaint: 1.19s FCP: 1.19s LCP: 1.19s Load: 1.18s 
+[2023-03-01 12:12:41] INFO: https://www.ontaxi.com.ua 1 requests, TTFB: 1.33s (σ149.00ms 11.4%), firstPaint: 1.40s (σ149.00ms 10.8%), FCP: 1.40s (σ149.00ms 10.8%), DOMContentLoaded: 1.39s (σ149.00ms 10.8%), LCP: 1.40s (σ149.00ms 10.8%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.39s (σ149.00ms 10.8%) (3 runs)
+[2023-03-01 12:12:41] INFO: Wrote data to browsertime-results\www.ontaxi.com.ua\2023-03-01T121201-0500
+[2023-03-01 12:12:42] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:12:43] INFO: Testing url https://www.tabak1a.de iteration 1
+[2023-03-01 12:12:56] INFO: https://www.tabak1a.de TTFB: 1.22s DOMContentLoaded: 2.35s firstPaint: 1.89s FCP: 1.89s LCP: 2.51s Load: 3.05s TBT: 62ms CLS:0.2704
+[2023-03-01 12:12:57] INFO: Testing url https://www.tabak1a.de iteration 2
+[2023-03-01 12:13:12] INFO: https://www.tabak1a.de TTFB: 1.18s DOMContentLoaded: 2.46s firstPaint: 1.94s FCP: 1.94s LCP: 2.64s Load: 3.40s TBT: 12ms CLS:0.2626
+[2023-03-01 12:13:13] INFO: Testing url https://www.tabak1a.de iteration 3
+[2023-03-01 12:13:28] INFO: https://www.tabak1a.de TTFB: 1.05s DOMContentLoaded: 2.35s firstPaint: 1.74s FCP: 1.74s LCP: 2.53s Load: 3.17s TBT: 66ms CLS:0.2626
+[2023-03-01 12:13:28] INFO: https://www.tabak1a.de 30 requests, TTFB: 1.18s (σ74.00ms 6.4%), firstPaint: 1.89s (σ85.00ms 4.6%), FCP: 1.89s (σ85.00ms 4.6%), DOMContentLoaded: 2.35s (σ52.00ms 2.2%), LCP: 2.53s (σ59.00ms 2.3%), CLS: 0.2626 (σ0.00 1.4%), TBT: 62ms (σ25.00ms 52.6%), Load: 3.17s (σ144.00ms 4.5%) (3 runs)
+[2023-03-01 12:13:28] INFO: Wrote data to browsertime-results\www.tabak1a.de\2023-03-01T121242-0500
+[2023-03-01 12:13:29] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:13:32] INFO: Testing url https://www.tabak1a.de iteration 1
+[2023-03-01 12:13:45] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:13:49] INFO: https://www.tabak1a.de TTFB: 971ms DOMContentLoaded: 2.83s firstPaint: 1.75s FCP: 1.73s Load: 3.23s 
+[2023-03-01 12:13:52] INFO: Testing url https://www.tabak1a.de iteration 2
+[2023-03-01 12:14:05] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:14:16] INFO: https://www.tabak1a.de 
+[2023-03-01 12:14:19] INFO: Testing url https://www.tabak1a.de iteration 3
+[2023-03-01 12:14:39] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-01 12:14:39] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:14:43] INFO: https://www.tabak1a.de TTFB: 990ms DOMContentLoaded: 5.55s firstPaint: 2.03s FCP: 2.03s 
+[2023-03-01 12:14:43] INFO: https://www.tabak1a.de 40 requests, TTFB: 981ms (σ10.00ms 1.0%), firstPaint: 1.89s (σ139.00ms 7.3%), FCP: 1.88s (σ150.00ms 8.0%), DOMContentLoaded: 4.20s (σ1.36s 32.4%), Load: 1.62s (σ1.62s 100.0%) (2 runs)
+[2023-03-01 12:14:43] INFO: Wrote data to browsertime-results\www.tabak1a.de\2023-03-01T121329-0500
+[2023-03-01 12:14:44] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:14:44] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:14:45] INFO: Testing url https://www.tabak1a.de iteration 1
+[2023-03-01 12:15:00] INFO: https://www.tabak1a.de TTFB: 1.44s DOMContentLoaded: 3.12s firstPaint: 2.27s FCP: 2.27s LCP: 3.32s Load: 3.71s TBT: 51ms CLS:0.2668
+[2023-03-01 12:15:00] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:15:01] INFO: Testing url https://www.tabak1a.de iteration 2
+[2023-03-01 12:15:17] INFO: https://www.tabak1a.de TTFB: 1.54s DOMContentLoaded: 3.58s firstPaint: 2.09s FCP: 2.09s LCP: 4.01s Load: 4.61s TBT: 76ms CLS:0.2627
+[2023-03-01 12:15:17] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:15:18] INFO: Testing url https://www.tabak1a.de iteration 3
+[2023-03-01 12:15:33] INFO: https://www.tabak1a.de TTFB: 1.57s DOMContentLoaded: 2.85s firstPaint: 2.27s FCP: 2.27s LCP: 3.09s Load: 4.05s TBT: 22ms CLS:0.2629
+[2023-03-01 12:15:33] INFO: https://www.tabak1a.de 30 requests, TTFB: 1.54s (σ56.00ms 3.7%), firstPaint: 2.27s (σ84.00ms 3.8%), FCP: 2.27s (σ84.00ms 3.8%), DOMContentLoaded: 3.12s (σ303.00ms 9.5%), LCP: 3.32s (σ391.00ms 11.3%), CLS: 0.2629 (σ0.00 0.7%), TBT: 51ms (σ22.00ms 44.4%), Load: 4.05s (σ372.00ms 9.0%) (3 runs)
+[2023-03-01 12:15:33] INFO: Wrote data to browsertime-results\www.tabak1a.de\2023-03-01T121444-0500
+[2023-03-01 12:15:34] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:15:35] INFO: Testing url https://www.xantara.eu iteration 1
+[2023-03-01 12:15:51] INFO: https://www.xantara.eu TTFB: 1.36s DOMContentLoaded: 4.55s firstPaint: 3.50s FCP: 3.50s LCP: 4.63s Load: 5.29s CLS:0.0291
+[2023-03-01 12:15:52] INFO: Testing url https://www.xantara.eu iteration 2
+[2023-03-01 12:16:07] INFO: https://www.xantara.eu TTFB: 1.30s DOMContentLoaded: 3.96s firstPaint: 2.98s FCP: 2.98s LCP: 4.46s Load: 4.46s TBT: 3ms CLS:0.1140
+[2023-03-01 12:16:08] INFO: Testing url https://www.xantara.eu iteration 3
+[2023-03-01 12:16:24] INFO: https://www.xantara.eu TTFB: 1.70s DOMContentLoaded: 4.41s firstPaint: 3.80s FCP: 3.80s LCP: 5.24s Load: 5.24s CLS:0.0291
+[2023-03-01 12:16:24] INFO: https://www.xantara.eu 52 requests, TTFB: 1.36s (σ178.00ms 12.2%), firstPaint: 3.50s (σ337.00ms 9.8%), FCP: 3.50s (σ337.00ms 9.8%), DOMContentLoaded: 4.41s (σ250.00ms 5.8%), LCP: 4.63s (σ335.00ms 7.0%), CLS: 0.0291 (σ0.04 69.8%), TBT: 0ms (σ1.00ms 141.4%), Load: 5.24s (σ381.00ms 7.6%) (3 runs)
+[2023-03-01 12:16:24] INFO: Wrote data to browsertime-results\www.xantara.eu\2023-03-01T121534-0500
+[2023-03-01 12:16:25] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:16:29] INFO: Testing url https://www.xantara.eu iteration 1
+[2023-03-01 12:16:43] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:16:47] INFO: https://www.xantara.eu TTFB: 1.50s DOMContentLoaded: 3.37s firstPaint: 2.35s FCP: 3.30s Load: 4.68s 
+[2023-03-01 12:16:50] INFO: Testing url https://www.xantara.eu iteration 2
+[2023-03-01 12:17:05] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:17:09] INFO: https://www.xantara.eu TTFB: 1.38s DOMContentLoaded: 4.20s firstPaint: 2.50s FCP: 4.15s Load: 5.61s 
+[2023-03-01 12:17:12] INFO: Testing url https://www.xantara.eu iteration 3
+[2023-03-01 12:17:25] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:17:29] INFO: https://www.xantara.eu TTFB: 1.36s DOMContentLoaded: 3.22s firstPaint: 2.28s FCP: 3.15s Load: 4.32s 
+[2023-03-01 12:17:29] INFO: https://www.xantara.eu 65 requests, TTFB: 1.38s (σ63.00ms 4.5%), firstPaint: 2.35s (σ90.00ms 3.8%), FCP: 3.30s (σ440.00ms 12.5%), DOMContentLoaded: 3.37s (σ432.00ms 12.0%), Load: 4.68s (σ543.00ms 11.2%) (3 runs)
+[2023-03-01 12:17:29] INFO: Wrote data to browsertime-results\www.xantara.eu\2023-03-01T121625-0500
+[2023-03-01 12:17:30] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:17:30] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:17:31] INFO: Testing url https://www.xantara.eu iteration 1
+[2023-03-01 12:17:47] INFO: https://www.xantara.eu TTFB: 1.79s DOMContentLoaded: 4.78s firstPaint: 4.43s FCP: 4.43s LCP: 5.70s Load: 5.70s CLS:0.0291
+[2023-03-01 12:17:47] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:17:48] INFO: Testing url https://www.xantara.eu iteration 2
+[2023-03-01 12:18:04] INFO: https://www.xantara.eu TTFB: 1.72s DOMContentLoaded: 4.03s firstPaint: 3.42s FCP: 3.42s LCP: 4.70s Load: 4.70s CLS:0.0291
+[2023-03-01 12:18:04] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:18:05] INFO: Testing url https://www.xantara.eu iteration 3
+[2023-03-01 12:18:22] INFO: https://www.xantara.eu TTFB: 1.61s DOMContentLoaded: 3.89s firstPaint: 3.27s FCP: 3.27s LCP: 4.61s Load: 4.61s TBT: 19ms CLS:0.0291
+[2023-03-01 12:18:22] INFO: https://www.xantara.eu 52 requests, TTFB: 1.72s (σ76.00ms 4.4%), firstPaint: 3.42s (σ516.00ms 13.9%), FCP: 3.42s (σ516.00ms 13.9%), DOMContentLoaded: 4.03s (σ390.00ms 9.2%), LCP: 4.70s (σ491.00ms 9.8%), CLS: 0.0291 (σ0.00 0%), TBT: 0ms (σ9.00ms 141.4%), Load: 4.70s (σ491.00ms 9.8%) (3 runs)
+[2023-03-01 12:18:22] INFO: Wrote data to browsertime-results\www.xantara.eu\2023-03-01T121730-0500
+[2023-03-01 12:18:23] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:18:24] INFO: Testing url https://www.arukikata.co.jp iteration 1
+[2023-03-01 12:18:37] INFO: https://www.arukikata.co.jp TTFB: 911ms DOMContentLoaded: 1.84s firstPaint: 1.38s FCP: 1.38s LCP: 1.91s Load: 2.77s TBT: 16ms CLS:0.3601
+[2023-03-01 12:18:38] INFO: Testing url https://www.arukikata.co.jp iteration 2
+[2023-03-01 12:18:51] INFO: https://www.arukikata.co.jp TTFB: 326ms DOMContentLoaded: 682ms firstPaint: 468ms FCP: 468ms LCP: 706ms Load: 1.84s TBT: 14ms CLS:0.5610
+[2023-03-01 12:18:52] INFO: Testing url https://www.arukikata.co.jp iteration 3
+[2023-03-01 12:19:05] INFO: https://www.arukikata.co.jp TTFB: 335ms DOMContentLoaded: 739ms firstPaint: 533ms FCP: 533ms LCP: 1.28s Load: 2.21s TBT: 36ms CLS:0.4056
+[2023-03-01 12:19:05] INFO: https://www.arukikata.co.jp 118 requests, TTFB: 335ms (σ274.00ms 52.2%), firstPaint: 533ms (σ415.00ms 52.3%), FCP: 533ms (σ415.00ms 52.3%), DOMContentLoaded: 739ms (σ534.00ms 49.1%), LCP: 1.28s (σ490.00ms 37.8%), CLS: 0.4056 (σ0.09 19.4%), TBT: 16ms (σ10.00ms 45.2%), Load: 2.21s (σ384.00ms 16.9%) (3 runs)
+[2023-03-01 12:19:05] INFO: Wrote data to browsertime-results\www.arukikata.co.jp\2023-03-01T121823-0500
+[2023-03-01 12:19:07] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:19:10] INFO: Testing url https://www.arukikata.co.jp iteration 1
+[2023-03-01 12:19:23] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:19:27] INFO: https://www.arukikata.co.jp TTFB: 335ms DOMContentLoaded: 1.07s firstPaint: 1.05s FCP: 1.05s Load: 4.29s 
+[2023-03-01 12:19:30] INFO: Testing url https://www.arukikata.co.jp iteration 2
+[2023-03-01 12:19:43] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:19:47] INFO: https://www.arukikata.co.jp TTFB: 528ms DOMContentLoaded: 1.55s firstPaint: 1.40s FCP: 1.40s Load: 4.38s 
+[2023-03-01 12:19:50] INFO: Testing url https://www.arukikata.co.jp iteration 3
+[2023-03-01 12:20:03] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:20:06] INFO: https://www.arukikata.co.jp TTFB: 278ms DOMContentLoaded: 974ms firstPaint: 983ms FCP: 983ms Load: 4.03s 
+[2023-03-01 12:20:06] INFO: https://www.arukikata.co.jp 72 requests, TTFB: 335ms (σ107.00ms 28.1%), firstPaint: 1.05s (σ183.00ms 16.0%), FCP: 1.05s (σ182.00ms 15.9%), DOMContentLoaded: 1.07s (σ251.00ms 21.0%), Load: 4.29s (σ152.00ms 3.6%) (3 runs)
+[2023-03-01 12:20:06] INFO: Wrote data to browsertime-results\www.arukikata.co.jp\2023-03-01T121906-0500
+[2023-03-01 12:20:08] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:20:08] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:20:09] INFO: Testing url https://www.arukikata.co.jp iteration 1
+[2023-03-01 12:20:22] INFO: https://www.arukikata.co.jp TTFB: 773ms DOMContentLoaded: 1.19s firstPaint: 954ms FCP: 954ms LCP: 1.27s Load: 2.42s TBT: 11ms CLS:0.6660
+[2023-03-01 12:20:22] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:20:23] INFO: Testing url https://www.arukikata.co.jp iteration 2
+[2023-03-01 12:20:36] INFO: https://www.arukikata.co.jp TTFB: 1.07s DOMContentLoaded: 1.51s firstPaint: 1.29s FCP: 1.29s LCP: 1.63s Load: 2.70s TBT: 6ms CLS:0.3909
+[2023-03-01 12:20:36] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:20:37] INFO: Testing url https://www.arukikata.co.jp iteration 3
+[2023-03-01 12:20:52] INFO: https://www.arukikata.co.jp TTFB: 759ms DOMContentLoaded: 1.38s firstPaint: 1.14s FCP: 1.14s LCP: 2.15s Load: 3.25s TBT: 5ms CLS:0.5175
+[2023-03-01 12:20:52] INFO: https://www.arukikata.co.jp 118 requests, TTFB: 773ms (σ145.00ms 16.7%), firstPaint: 1.14s (σ138.00ms 12.2%), FCP: 1.14s (σ138.00ms 12.2%), DOMContentLoaded: 1.38s (σ131.00ms 9.6%), LCP: 1.63s (σ361.00ms 21.4%), CLS: 0.5175 (σ0.11 21.4%), TBT: 6ms (σ3.00ms 35.8%), Load: 2.70s (σ344.00ms 12.3%) (3 runs)
+[2023-03-01 12:20:52] INFO: Wrote data to browsertime-results\www.arukikata.co.jp\2023-03-01T122007-0500
+[2023-03-01 12:20:53] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-01 12:20:54] INFO: Testing url https://www.freeimage.host iteration 1
+[2023-03-01 12:21:07] INFO: https://www.freeimage.host TTFB: 1.51s DOMContentLoaded: 1.81s firstPaint: 1.68s FCP: 1.68s LCP: 1.86s Load: 2.32s TBT: 47ms CLS:0.2458
+[2023-03-01 12:21:08] INFO: Testing url https://www.freeimage.host iteration 2
+[2023-03-01 12:21:21] INFO: https://www.freeimage.host TTFB: 1.35s DOMContentLoaded: 1.72s firstPaint: 1.54s FCP: 1.54s LCP: 1.71s Load: 2.26s TBT: 43ms CLS:0.1534
+[2023-03-01 12:21:22] INFO: Testing url https://www.freeimage.host iteration 3
+[2023-03-01 12:21:35] INFO: https://www.freeimage.host TTFB: 1.60s DOMContentLoaded: 1.89s firstPaint: 1.76s FCP: 1.76s LCP: 1.83s Load: 2.47s TBT: 31ms CLS:0.1538
+[2023-03-01 12:21:35] INFO: https://www.freeimage.host 36 requests, TTFB: 1.51s (σ100.00ms 6.7%), firstPaint: 1.68s (σ90.00ms 5.4%), FCP: 1.68s (σ90.00ms 5.4%), DOMContentLoaded: 1.81s (σ71.00ms 3.9%), LCP: 1.83s (σ65.00ms 3.6%), CLS: 0.1538 (σ0.04 23.6%), TBT: 43ms (σ7.00ms 16.9%), Load: 2.32s (σ86.00ms 3.6%) (3 runs)
+[2023-03-01 12:21:35] INFO: Wrote data to browsertime-results\www.freeimage.host\2023-03-01T122053-0500
+[2023-03-01 12:21:37] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-01 12:21:40] INFO: Testing url https://www.freeimage.host iteration 1
+[2023-03-01 12:21:54] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:21:58] INFO: https://www.freeimage.host TTFB: 1.42s DOMContentLoaded: 2.92s firstPaint: 1.62s FCP: 1.62s Load: 5.75s 
+[2023-03-01 12:22:01] INFO: Testing url https://www.freeimage.host iteration 2
+[2023-03-01 12:22:15] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:22:19] INFO: https://www.freeimage.host TTFB: 1.54s DOMContentLoaded: 1.98s firstPaint: 1.90s FCP: 1.90s Load: 4.97s 
+[2023-03-01 12:22:22] INFO: Testing url https://www.freeimage.host iteration 3
+[2023-03-01 12:22:37] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-01 12:22:41] INFO: https://www.freeimage.host TTFB: 1.18s DOMContentLoaded: 2.11s firstPaint: 1.67s FCP: 1.58s Load: 4.76s 
+[2023-03-01 12:22:41] INFO: https://www.freeimage.host 81 requests, TTFB: 1.42s (σ151.00ms 11.0%), firstPaint: 1.67s (σ123.00ms 7.1%), FCP: 1.62s (σ142.00ms 8.4%), DOMContentLoaded: 2.11s (σ415.00ms 17.8%), Load: 4.97s (σ424.00ms 8.2%) (3 runs)
+[2023-03-01 12:22:41] INFO: Wrote data to browsertime-results\www.freeimage.host\2023-03-01T122136-0500
+[2023-03-01 12:22:42] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-01 12:22:42] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:22:57] INFO: edge failed to start, trying 2 more time(s): Failed to start edge in 15 seconds.
+[2023-03-01 12:22:57] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:23:12] INFO: edge failed to start, trying 1 more time(s): Failed to start edge in 15 seconds.
+[2023-03-01 12:23:12] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:23:27] INFO: edge failed to start, trying 0 more time(s): Failed to start edge in 15 seconds.
+[2023-03-01 12:26:41] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-01 12:26:42] INFO: Testing url https://www.freeimage.host iteration 2
