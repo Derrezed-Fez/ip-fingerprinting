@@ -2896,3 +2896,137 @@
 [2023-03-02 21:00:25] INFO: Waiting on har-export-trigger to collect the HAR
 [2023-03-02 21:00:31] INFO: https://www.wavebroadband.com TTFB: 757ms DOMContentLoaded: 4.97s firstPaint: 2.57s FCP: 2.93s Load: 6.13s 
 [2023-03-02 21:00:34] INFO: Testing url https://www.wavebroadband.com iteration 2
+[2023-03-02 21:00:50] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:00:56] INFO: https://www.wavebroadband.com TTFB: 844ms DOMContentLoaded: 5.56s firstPaint: 2.60s FCP: 2.92s Load: 7.07s 
+[2023-03-02 21:00:59] INFO: Testing url https://www.wavebroadband.com iteration 3
+[2023-03-02 21:01:15] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:01:20] INFO: https://www.wavebroadband.com TTFB: 707ms DOMContentLoaded: 3.06s firstPaint: 2.57s FCP: 2.77s Load: 6.60s 
+[2023-03-02 21:01:20] INFO: https://www.wavebroadband.com 398 requests, TTFB: 757ms (σ57.00ms 7.4%), firstPaint: 2.57s (σ16.00ms 0.6%), FCP: 2.92s (σ75.00ms 2.6%), DOMContentLoaded: 4.97s (σ1.06s 23.5%), Load: 6.60s (σ386.00ms 5.8%) (3 runs)
+[2023-03-02 21:01:20] INFO: Wrote data to browsertime-results\www.wavebroadband.com\2023-03-02T210007-0500
+[2023-03-02 21:01:21] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-02 21:01:21] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:01:22] INFO: Testing url https://www.wavebroadband.com iteration 1
+[2023-03-02 21:01:38] INFO: https://www.wavebroadband.com TTFB: 1.89s DOMContentLoaded: 4.12s firstPaint: 3.04s FCP: 3.04s LCP: 3.11s Load: 4.79s TBT: 275ms CLS:0.0242
+[2023-03-02 21:01:38] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:01:39] INFO: Testing url https://www.wavebroadband.com iteration 2
+[2023-03-02 21:01:55] INFO: https://www.wavebroadband.com TTFB: 1.94s DOMContentLoaded: 4.30s firstPaint: 3.15s FCP: 3.15s LCP: 3.43s Load: 4.76s TBT: 53ms CLS:0.0172
+[2023-03-02 21:01:55] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:01:56] INFO: Testing url https://www.wavebroadband.com iteration 3
+[2023-03-02 21:02:11] INFO: https://www.wavebroadband.com TTFB: 1.75s DOMContentLoaded: 3.71s firstPaint: 2.48s FCP: 2.48s LCP: 2.65s Load: 4.29s TBT: 46ms CLS:0.0165
+[2023-03-02 21:02:11] INFO: https://www.wavebroadband.com 379 requests, TTFB: 1.89s (σ80.00ms 4.3%), firstPaint: 3.04s (σ293.00ms 10.2%), FCP: 3.04s (σ293.00ms 10.2%), DOMContentLoaded: 4.12s (σ249.00ms 6.1%), LCP: 3.11s (σ322.00ms 10.5%), CLS: 0.0172 (σ0.00 17.9%), TBT: 53ms (σ106.00ms 85.3%), Load: 4.76s (σ229.00ms 5.0%) (3 runs)
+[2023-03-02 21:02:11] INFO: Wrote data to browsertime-results\www.wavebroadband.com\2023-03-02T210121-0500
+[2023-03-02 21:02:12] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-02 21:02:13] INFO: Testing url https://www.team.live iteration 1
+[2023-03-02 21:02:25] INFO: https://www.team.live TTFB: 732ms DOMContentLoaded: 748ms firstPaint: 786ms FCP: 786ms LCP: 786ms Load: 749ms 
+[2023-03-02 21:02:25] INFO: Testing url https://www.team.live iteration 2
+[2023-03-02 21:02:37] INFO: https://www.team.live TTFB: 489ms DOMContentLoaded: 497ms firstPaint: 508ms FCP: 508ms LCP: 508ms Load: 497ms 
+[2023-03-02 21:02:38] INFO: Testing url https://www.team.live iteration 3
+[2023-03-02 21:02:49] INFO: https://www.team.live TTFB: 490ms DOMContentLoaded: 508ms firstPaint: 537ms FCP: 537ms LCP: 537ms Load: 509ms 
+[2023-03-02 21:02:49] INFO: https://www.team.live 1 requests, TTFB: 490ms (σ114.00ms 20.0%), firstPaint: 537ms (σ125.00ms 20.4%), FCP: 537ms (σ125.00ms 20.4%), DOMContentLoaded: 508ms (σ116.00ms 19.8%), LCP: 537ms (σ125.00ms 20.4%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 509ms (σ116.00ms 19.8%) (3 runs)
+[2023-03-02 21:02:49] INFO: Wrote data to browsertime-results\www.team.live\2023-03-02T210212-0500
+[2023-03-02 21:02:50] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-02 21:02:53] INFO: Testing url https://www.team.live iteration 1
+[2023-03-02 21:03:03] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:03:04] INFO: https://www.team.live 
+[2023-03-02 21:03:08] INFO: Testing url https://www.team.live iteration 2
+[2023-03-02 21:03:18] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:03:21] INFO: https://www.team.live TTFB: 475ms DOMContentLoaded: 639ms firstPaint: 656ms FCP: 649ms Load: 642ms 
+[2023-03-02 21:03:24] INFO: Testing url https://www.team.live iteration 3
+[2023-03-02 21:03:34] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:03:35] INFO: https://www.team.live 
+[2023-03-02 21:03:35] INFO: https://www.team.live 1 requests, TTFB: 475ms, firstPaint: 656ms, FCP: 649ms, DOMContentLoaded: 639ms, Load: 642ms
+[2023-03-02 21:03:35] INFO: Wrote data to browsertime-results\www.team.live\2023-03-02T210250-0500
+[2023-03-02 21:03:36] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-02 21:03:36] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:03:36] INFO: Testing url https://www.team.live iteration 1
+[2023-03-02 21:03:48] INFO: https://www.team.live TTFB: 806ms DOMContentLoaded: 824ms firstPaint: 855ms FCP: 855ms LCP: 855ms Load: 825ms 
+[2023-03-02 21:03:48] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:03:49] INFO: Testing url https://www.team.live iteration 2
+[2023-03-02 21:04:00] INFO: https://www.team.live TTFB: 837ms DOMContentLoaded: 853ms firstPaint: 873ms FCP: 873ms LCP: 873ms Load: 853ms 
+[2023-03-02 21:04:00] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:04:01] INFO: Testing url https://www.team.live iteration 3
+[2023-03-02 21:04:13] INFO: https://www.team.live TTFB: 852ms DOMContentLoaded: 860ms firstPaint: 878ms FCP: 878ms LCP: 878ms Load: 860ms 
+[2023-03-02 21:04:13] INFO: https://www.team.live 1 requests, TTFB: 837ms (σ19.00ms 2.3%), firstPaint: 873ms (σ10.00ms 1.1%), FCP: 873ms (σ10.00ms 1.1%), DOMContentLoaded: 853ms (σ16.00ms 1.8%), LCP: 873ms (σ10.00ms 1.1%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 853ms (σ15.00ms 1.8%) (3 runs)
+[2023-03-02 21:04:13] INFO: Wrote data to browsertime-results\www.team.live\2023-03-02T210335-0500
+[2023-03-02 21:04:14] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-02 21:04:15] INFO: Testing url https://www.rudaslaska.com.pl iteration 1
+[2023-03-02 21:04:35] INFO: https://www.rudaslaska.com.pl TTFB: 4.26s DOMContentLoaded: 6.24s firstPaint: 6.00s FCP: 6.00s LCP: 6.53s Load: 9.13s TBT: 144ms CLS:0.7977
+[2023-03-02 21:04:36] INFO: Testing url https://www.rudaslaska.com.pl iteration 2
+[2023-03-02 21:04:56] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:04:58] INFO: https://www.rudaslaska.com.pl TTFB: 2.43s DOMContentLoaded: 4.22s firstPaint: 4.00s FCP: 4.00s LCP: 4.54s Load: 11.17s TBT: 150ms CLS:0.7798
+[2023-03-02 21:04:59] INFO: Testing url https://www.rudaslaska.com.pl iteration 3
+[2023-03-02 21:05:17] INFO: https://www.rudaslaska.com.pl TTFB: 2.64s DOMContentLoaded: 4.23s firstPaint: 4.22s FCP: 4.22s LCP: 7.19s Load: 6.37s TBT: 187ms CLS:0.6937
+[2023-03-02 21:05:17] INFO: https://www.rudaslaska.com.pl 179 requests, TTFB: 2.64s (σ816.00ms 26.3%), firstPaint: 4.22s (σ894.00ms 18.9%), FCP: 4.22s (σ894.00ms 18.9%), DOMContentLoaded: 4.23s (σ948.00ms 19.4%), LCP: 6.53s (σ1.13s 18.5%), CLS: 0.7798 (σ0.05 6.0%), TBT: 150ms (σ19.00ms 11.9%), Load: 9.13s (σ1.97s 22.1%) (3 runs)
+[2023-03-02 21:05:17] INFO: Wrote data to browsertime-results\www.rudaslaska.com.pl\2023-03-02T210414-0500
+[2023-03-02 21:05:18] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-02 21:05:21] INFO: Testing url https://www.rudaslaska.com.pl iteration 1
+[2023-03-02 21:05:37] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:05:41] INFO: https://www.rudaslaska.com.pl TTFB: 2.29s DOMContentLoaded: 4.02s firstPaint: 2.98s FCP: 3.93s Load: 7.53s 
+[2023-03-02 21:05:44] INFO: Testing url https://www.rudaslaska.com.pl iteration 2
+[2023-03-02 21:06:04] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:06:04] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:06:08] INFO: https://www.rudaslaska.com.pl TTFB: 2.02s DOMContentLoaded: 3.96s firstPaint: 2.80s FCP: 3.90s Load: 13.51s 
+[2023-03-02 21:06:11] INFO: Testing url https://www.rudaslaska.com.pl iteration 3
+[2023-03-02 21:06:27] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:06:31] INFO: https://www.rudaslaska.com.pl TTFB: 2.11s DOMContentLoaded: 4.08s firstPaint: 2.80s FCP: 4.00s Load: 6.78s 
+[2023-03-02 21:06:31] INFO: https://www.rudaslaska.com.pl 199 requests, TTFB: 2.11s (σ113.00ms 5.3%), firstPaint: 2.80s (σ87.00ms 3.0%), FCP: 3.93s (σ42.00ms 1.1%), DOMContentLoaded: 4.02s (σ50.00ms 1.3%), Load: 7.53s (σ3.01s 32.5%) (3 runs)
+[2023-03-02 21:06:31] INFO: Wrote data to browsertime-results\www.rudaslaska.com.pl\2023-03-02T210517-0500
+[2023-03-02 21:06:32] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-02 21:06:32] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:06:33] INFO: Testing url https://www.rudaslaska.com.pl iteration 1
+[2023-03-02 21:06:51] INFO: https://www.rudaslaska.com.pl TTFB: 2.81s DOMContentLoaded: 4.35s firstPaint: 4.34s FCP: 4.34s LCP: 7.24s Load: 6.44s TBT: 213ms CLS:0.9940
+[2023-03-02 21:06:51] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:06:52] INFO: Testing url https://www.rudaslaska.com.pl iteration 2
+[2023-03-02 21:07:11] INFO: https://www.rudaslaska.com.pl TTFB: 2.87s DOMContentLoaded: 4.65s firstPaint: 4.43s FCP: 4.43s LCP: 4.82s Load: 8.98s TBT: 138ms CLS:0.9205
+[2023-03-02 21:07:11] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:07:12] INFO: Testing url https://www.rudaslaska.com.pl iteration 3
+[2023-03-02 21:07:32] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:07:34] INFO: https://www.rudaslaska.com.pl TTFB: 3.84s DOMContentLoaded: 5.40s firstPaint: 5.39s FCP: 5.39s LCP: 6.39s TBT: 157ms CLS:0.9940
+[2023-03-02 21:07:34] INFO: https://www.rudaslaska.com.pl 187 requests, TTFB: 2.87s (σ473.00ms 14.9%), firstPaint: 4.43s (σ474.00ms 10.0%), FCP: 4.43s (σ474.00ms 10.0%), DOMContentLoaded: 4.65s (σ443.00ms 9.2%), LCP: 6.39s (σ1.00s 16.3%), CLS: 0.994 (σ0.03 3.6%), TBT: 157ms (σ32.00ms 18.8%), Load: 6.44s (σ3.78s 73.5%) (3 runs)
+[2023-03-02 21:07:34] INFO: Wrote data to browsertime-results\www.rudaslaska.com.pl\2023-03-02T210632-0500
+[2023-03-02 21:07:35] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-02 21:07:36] INFO: Testing url https://www.tresor.gov.bf iteration 1
+[2023-03-02 21:07:56] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:07:58] INFO: https://www.tresor.gov.bf TTFB: 2.36s DOMContentLoaded: 5.79s firstPaint: 5.70s FCP: 5.70s LCP: 6.10s TBT: 89ms CLS:0.0236
+[2023-03-02 21:07:59] INFO: Testing url https://www.tresor.gov.bf iteration 2
+[2023-03-02 21:08:19] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:08:21] INFO: https://www.tresor.gov.bf TTFB: 1.54s DOMContentLoaded: 3.30s firstPaint: 3.19s FCP: 3.19s LCP: 3.21s TBT: 73ms CLS:0.0243
+[2023-03-02 21:08:21] INFO: Testing url https://www.tresor.gov.bf iteration 3
+[2023-03-02 21:08:41] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:08:44] INFO: https://www.tresor.gov.bf TTFB: 1.78s DOMContentLoaded: 3.64s firstPaint: 3.64s FCP: 3.80s LCP: 3.80s TBT: 110ms CLS:0.0190
+[2023-03-02 21:08:44] INFO: https://www.tresor.gov.bf 143 requests, TTFB: 1.78s (σ343.00ms 18.1%), firstPaint: 3.64s (σ1.09s 26.2%), FCP: 3.80s (σ1.07s 25.3%), DOMContentLoaded: 3.64s (σ1.10s 26.0%), LCP: 3.80s (σ1.25s 28.6%), CLS: 0.0236 (σ0.00 10.6%), TBT: 89ms (σ15.00ms 16.7%), Load: 0ms (σ0.00ms 0%) (3 runs)
+[2023-03-02 21:08:44] INFO: Wrote data to browsertime-results\www.tresor.gov.bf\2023-03-02T210735-0500
+[2023-03-02 21:08:45] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-02 21:08:48] INFO: Testing url https://www.tresor.gov.bf iteration 1
+[2023-03-02 21:09:08] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:09:08] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:09:13] INFO: https://www.tresor.gov.bf TTFB: 1.47s DOMContentLoaded: 11.43s firstPaint: 2.20s FCP: 11.38s 
+[2023-03-02 21:09:16] INFO: Testing url https://www.tresor.gov.bf iteration 2
+[2023-03-02 21:09:36] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:09:36] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:09:40] INFO: https://www.tresor.gov.bf TTFB: 1.41s DOMContentLoaded: 10.58s firstPaint: 2.21s FCP: 10.53s 
+[2023-03-02 21:09:44] INFO: Testing url https://www.tresor.gov.bf iteration 3
+[2023-03-02 21:10:04] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:10:04] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-02 21:10:08] INFO: https://www.tresor.gov.bf TTFB: 1.39s DOMContentLoaded: 8.56s firstPaint: 2.17s FCP: 8.52s 
+[2023-03-02 21:10:08] INFO: https://www.tresor.gov.bf 200 requests, TTFB: 1.41s (σ37.00ms 2.6%), firstPaint: 2.20s (σ14.00ms 0.6%), FCP: 10.53s (σ1.20s 11.9%), DOMContentLoaded: 10.58s (σ1.21s 11.8%), Load: 0ms (σ0.00ms 0%) (3 runs)
+[2023-03-02 21:10:08] INFO: Wrote data to browsertime-results\www.tresor.gov.bf\2023-03-02T210844-0500
+[2023-03-02 21:10:09] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-02 21:10:09] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:10:10] INFO: Testing url https://www.tresor.gov.bf iteration 1
+[2023-03-02 21:10:30] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:10:32] INFO: https://www.tresor.gov.bf TTFB: 1.90s DOMContentLoaded: 3.67s firstPaint: 3.58s FCP: 3.58s LCP: 3.60s TBT: 74ms CLS:0.0243
+[2023-03-02 21:10:32] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:10:33] INFO: Testing url https://www.tresor.gov.bf iteration 2
+[2023-03-02 21:10:53] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:10:55] INFO: https://www.tresor.gov.bf TTFB: 2.03s DOMContentLoaded: 3.46s firstPaint: 3.46s FCP: 3.62s LCP: 3.88s TBT: 129ms CLS:0.0190
+[2023-03-02 21:10:55] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-02 21:10:56] INFO: Testing url https://www.tresor.gov.bf iteration 3
+[2023-03-02 21:11:16] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-02 21:11:18] INFO: https://www.tresor.gov.bf TTFB: 2.37s DOMContentLoaded: 4.03s firstPaint: 4.02s FCP: 4.02s LCP: 4.17s TBT: 225ms CLS:0.0192
+[2023-03-02 21:11:18] INFO: https://www.tresor.gov.bf 160 requests, TTFB: 2.03s (σ198.00ms 9.5%), firstPaint: 3.58s (σ239.00ms 6.5%), FCP: 3.62s (σ196.00ms 5.2%), DOMContentLoaded: 3.67s (σ234.00ms 6.3%), LCP: 3.88s (σ233.00ms 6.0%), CLS: 0.0192 (σ0.00 11.7%), TBT: 129ms (σ62.00ms 43.7%), Load: 0ms (σ0.00ms 0%) (3 runs)
+[2023-03-02 21:11:18] INFO: Wrote data to browsertime-results\www.tresor.gov.bf\2023-03-02T211009-0500
+[2023-03-02 21:11:19] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-02 21:11:20] INFO: Testing url https://www.sizeer.bg iteration 1
+[2023-03-02 21:11:32] INFO: https://www.sizeer.bg TTFB: 575ms DOMContentLoaded: 617ms firstPaint: 618ms FCP: 618ms LCP: 618ms Load: 617ms 
+[2023-03-02 21:11:32] INFO: Testing url https://www.sizeer.bg iteration 2
