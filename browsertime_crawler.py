@@ -2,15 +2,15 @@ import subprocess, csv, datetime, os
 logfile_name = 'data\\output\\' + datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + '_logfile.log'
 logfile = open(logfile_name, 'w+')
 def crawl_firefox(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_firefox.ps1", 'https://www.' + url], stdout=logfile, stderr=logfile)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\psych\\ip-fingerprinting\\crawl_firefox.ps1", 'https://www.' + url], stdout=logfile, stderr=logfile)
     p.communicate()
 
 def crawl_chrome(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_chrome.ps1", 'https://www.' + url], stdout=logfile, stderr=logfile)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\psych\\ip-fingerprinting\\crawl_chrome.ps1", 'https://www.' + url], stdout=logfile, stderr=logfile)
     p.communicate()
 
 def crawl_edge(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\Zane\\ip-fingerprinting\\crawl_edge.ps1", 'https://www.' + url], stdout=logfile, stderr=logfile)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\psych\\ip-fingerprinting\\crawl_edge.ps1", 'https://www.' + url], stdout=logfile, stderr=logfile)
     p.communicate()
 
 def crawl_safari(url):

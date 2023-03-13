@@ -15,7 +15,8 @@
 
 To run the tool in Windows:
 1. Make sure the domains CSV file is accurate of what you want to crawl in data/input.
-2. Run python3 browsertime_crawler.py in a terminal (don't close the terminal!)
-3. Monitor the output folder (<home-directory>:/AppData/Roaming/npm/browsertime-results)
-4. Each domain directory should have 3 entries (one for each browser). The JSON file contained inside will be labeled by browser.
-5. Run HAR parser (WIP) against each domain folder to extract the DNS requests and times to load. Need to parse each HAR file and transpose to create the same file structure as was in the original dataset.
+2. Run Powershell as administrator. Execute the command Set-ExecutionPolicy RemoteSigned and select Yes to All
+3. Run python3 browsertime_crawler.py in a terminal (don't close the terminal!)
+4. Monitor the output folder (<home-directory>:/AppData/Roaming/npm/browsertime-results)
+5. Each domain directory should have 3 entries (one for each browser). The JSON file contained inside will be labeled by browser.
+6. Run HAR parser (WIP) against each domain folder to extract the DNS requests and times to load. Need to parse each HAR file and transpose to create the same file structure as was in the original dataset.
