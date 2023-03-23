@@ -1,0 +1,215 @@
+[2023-03-23 14:36:07] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:36:08] INFO: Testing url https://www.khoshamoz.ir iteration 1
+[2023-03-23 14:36:23] INFO: https://www.khoshamoz.ir TTFB: 1.59s DOMContentLoaded: 3.29s firstPaint: 2.50s FCP: 2.50s LCP: 2.71s Load: 3.94s CLS:0.0417
+[2023-03-23 14:36:24] INFO: Testing url https://www.khoshamoz.ir iteration 2
+[2023-03-23 14:36:38] INFO: https://www.khoshamoz.ir TTFB: 1.48s DOMContentLoaded: 3.16s firstPaint: 2.33s FCP: 2.33s LCP: 2.69s Load: 3.55s CLS:0.0503
+[2023-03-23 14:36:39] INFO: Testing url https://www.khoshamoz.ir iteration 3
+[2023-03-23 14:36:54] INFO: https://www.khoshamoz.ir TTFB: 1.19s DOMContentLoaded: 2.82s firstPaint: 2.02s FCP: 2.02s LCP: 2.35s Load: 3.35s CLS:0.0417
+[2023-03-23 14:36:54] INFO: https://www.khoshamoz.ir 66 requests, TTFB: 1.48s (σ169.00ms 11.9%), firstPaint: 2.33s (σ200.00ms 8.8%), FCP: 2.33s (σ200.00ms 8.8%), DOMContentLoaded: 3.16s (σ200.00ms 6.5%), LCP: 2.69s (σ163.00ms 6.3%), CLS: 0.0417 (σ0.00 9.1%), TBT: 0ms (σ0.00ms 0%), Load: 3.55s (σ246.00ms 6.8%) (3 runs)
+[2023-03-23 14:36:54] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\khoshamoz.ir\Chrome\2023-03-23_14-36-06
+[2023-03-23 14:36:55] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 14:36:57] INFO: Testing url https://www.khoshamoz.ir iteration 1
+[2023-03-23 14:37:10] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:37:14] INFO: https://www.khoshamoz.ir TTFB: 1.30s DOMContentLoaded: 3.13s firstPaint: 2.52s FCP: 2.58s Load: 4.16s 
+[2023-03-23 14:37:17] INFO: Testing url https://www.khoshamoz.ir iteration 2
+[2023-03-23 14:37:30] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:37:33] INFO: https://www.khoshamoz.ir TTFB: 1.38s DOMContentLoaded: 3.35s firstPaint: 2.56s FCP: 2.80s Load: 4.29s 
+[2023-03-23 14:37:35] INFO: Testing url https://www.khoshamoz.ir iteration 3
+[2023-03-23 14:37:48] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:37:51] INFO: https://www.khoshamoz.ir TTFB: 1.37s DOMContentLoaded: 3.71s firstPaint: 2.43s FCP: 2.82s Load: 4.31s 
+[2023-03-23 14:37:51] INFO: https://www.khoshamoz.ir 67 requests, TTFB: 1.37s (σ37.00ms 2.7%), firstPaint: 2.52s (σ54.00ms 2.2%), FCP: 2.80s (σ105.00ms 3.9%), DOMContentLoaded: 3.35s (σ241.00ms 7.1%), Load: 4.29s (σ66.00ms 1.6%) (3 runs)
+[2023-03-23 14:37:51] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\khoshamoz.ir\Firefox\2023-03-23_14-36-54
+[2023-03-23 14:37:52] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 14:37:52] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:37:53] INFO: Testing url https://www.khoshamoz.ir iteration 1
+[2023-03-23 14:38:08] INFO: https://www.khoshamoz.ir TTFB: 1.27s DOMContentLoaded: 2.92s firstPaint: 2.07s FCP: 2.07s LCP: 2.32s Load: 3.44s CLS:0.0577
+[2023-03-23 14:38:08] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:38:09] INFO: Testing url https://www.khoshamoz.ir iteration 2
+[2023-03-23 14:38:23] INFO: https://www.khoshamoz.ir TTFB: 1.29s DOMContentLoaded: 2.95s firstPaint: 2.10s FCP: 2.10s LCP: 2.35s Load: 3.37s CLS:0.0573
+[2023-03-23 14:38:23] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:38:24] INFO: Testing url https://www.khoshamoz.ir iteration 3
+[2023-03-23 14:38:39] INFO: https://www.khoshamoz.ir TTFB: 1.25s DOMContentLoaded: 3.80s firstPaint: 2.84s FCP: 2.84s LCP: 3.18s Load: 4.30s CLS:0.0447
+[2023-03-23 14:38:39] INFO: https://www.khoshamoz.ir 66 requests, TTFB: 1.27s (σ14.00ms 1.1%), firstPaint: 2.10s (σ355.00ms 15.2%), FCP: 2.10s (σ355.00ms 15.2%), DOMContentLoaded: 2.95s (σ409.00ms 12.7%), LCP: 2.35s (σ398.00ms 15.2%), CLS: 0.0573 (σ0.01 11.4%), TBT: 0ms (σ0.00ms 0%), Load: 3.44s (σ421.00ms 11.4%) (3 runs)
+[2023-03-23 14:38:39] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\khoshamoz.ir\Edge\2023-03-23_14-37-51
+[2023-03-23 14:38:40] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:38:41] INFO: Testing url https://www.khoshamoz.ir iteration 1
+[2023-03-23 14:38:55] INFO: https://www.khoshamoz.ir TTFB: 1.19s DOMContentLoaded: 2.84s firstPaint: 2.02s FCP: 2.02s LCP: 2.24s Load: 3.39s CLS:0.0421
+[2023-03-23 14:38:56] INFO: Testing url https://www.khoshamoz.ir iteration 2
+[2023-03-23 14:39:11] INFO: https://www.khoshamoz.ir TTFB: 1.25s DOMContentLoaded: 2.90s firstPaint: 2.10s FCP: 2.10s LCP: 2.47s Load: 3.33s CLS:0.0352
+[2023-03-23 14:39:12] INFO: Testing url https://www.khoshamoz.ir iteration 3
+[2023-03-23 14:39:26] INFO: https://www.khoshamoz.ir TTFB: 1.30s DOMContentLoaded: 3.37s firstPaint: 2.51s FCP: 2.51s LCP: 2.73s Load: 3.78s CLS:0.0415
+[2023-03-23 14:39:26] INFO: https://www.khoshamoz.ir 66 requests, TTFB: 1.25s (σ46.00ms 3.7%), firstPaint: 2.10s (σ210.00ms 9.5%), FCP: 2.10s (σ210.00ms 9.5%), DOMContentLoaded: 2.90s (σ237.00ms 7.8%), LCP: 2.47s (σ201.00ms 8.1%), CLS: 0.0415 (σ0.00 7.9%), TBT: 0ms (σ0.00ms 0%), Load: 3.39s (σ200.00ms 5.7%) (3 runs)
+[2023-03-23 14:39:27] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\khoshamoz.ir\Brave\2023-03-23_14-38-39
+[2023-03-23 14:39:27] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:39:28] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 14:39:40] INFO: https://www.helpsaude.com TTFB: 357ms DOMContentLoaded: 566ms firstPaint: 562ms FCP: 562ms LCP: 622ms Load: 1.19s CLS:0.0004
+[2023-03-23 14:39:41] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 14:39:53] INFO: https://www.helpsaude.com TTFB: 152ms DOMContentLoaded: 328ms firstPaint: 310ms FCP: 310ms LCP: 372ms Load: 939ms CLS:0.0004
+[2023-03-23 14:39:54] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 14:40:10] INFO: https://www.helpsaude.com TTFB: 210ms DOMContentLoaded: 2.16s firstPaint: 2.15s FCP: 2.15s LCP: 2.80s Load: 3.79s CLS:0.0004
+[2023-03-23 14:40:10] INFO: https://www.helpsaude.com 66 requests, TTFB: 210ms (σ86.00ms 36.0%), firstPaint: 562ms (σ815.00ms 80.9%), FCP: 562ms (σ815.00ms 80.9%), DOMContentLoaded: 566ms (σ813.00ms 79.9%), LCP: 622ms (σ1.09s 86.2%), CLS: 0.0004 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.19s (σ1.29s 65.3%) (3 runs)
+[2023-03-23 14:40:10] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Chrome\2023-03-23_14-39-27
+[2023-03-23 14:40:16] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 14:40:23] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 14:40:41] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:40:47] INFO: https://www.helpsaude.com TTFB: 208ms DOMContentLoaded: 1.33s firstPaint: 1.31s FCP: 1.30s Load: 8.84s 
+[2023-03-23 14:40:50] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 14:41:07] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:41:15] INFO: https://www.helpsaude.com TTFB: 254ms DOMContentLoaded: 1.41s firstPaint: 1.35s FCP: 1.35s Load: 9.08s 
+[2023-03-23 14:41:18] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 14:41:34] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:41:39] INFO: https://www.helpsaude.com TTFB: 171ms DOMContentLoaded: 905ms firstPaint: 900ms FCP: 900ms Load: 7.82s 
+[2023-03-23 14:41:39] INFO: https://www.helpsaude.com 183 requests, TTFB: 208ms (σ34.00ms 16.1%), firstPaint: 1.31s (σ204.00ms 17.2%), FCP: 1.30s (σ201.00ms 17.0%), DOMContentLoaded: 1.33s (σ221.00ms 18.2%), Load: 8.84s (σ545.00ms 6.4%) (3 runs)
+[2023-03-23 14:41:39] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Firefox\2023-03-23_14-40-10
+[2023-03-23 14:41:40] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 14:41:40] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:41:41] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 14:41:53] INFO: https://www.helpsaude.com TTFB: 246ms DOMContentLoaded: 478ms firstPaint: 471ms FCP: 471ms LCP: 571ms Load: 1.25s CLS:0.0004
+[2023-03-23 14:41:53] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:41:53] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 14:42:05] INFO: https://www.helpsaude.com TTFB: 174ms DOMContentLoaded: 343ms firstPaint: 342ms FCP: 342ms LCP: 422ms Load: 940ms CLS:0.0004
+[2023-03-23 14:42:05] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:42:06] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 14:42:18] INFO: https://www.helpsaude.com TTFB: 182ms DOMContentLoaded: 364ms firstPaint: 362ms FCP: 362ms LCP: 440ms Load: 1.36s CLS:0.0004
+[2023-03-23 14:42:18] INFO: https://www.helpsaude.com 66 requests, TTFB: 182ms (σ32.00ms 16.1%), firstPaint: 362ms (σ57.00ms 14.5%), FCP: 362ms (σ57.00ms 14.5%), DOMContentLoaded: 364ms (σ59.00ms 15.0%), LCP: 440ms (σ66.00ms 13.9%), CLS: 0.0004 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.25s (σ179.00ms 15.1%) (3 runs)
+[2023-03-23 14:42:18] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Edge\2023-03-23_14-41-39
+[2023-03-23 14:42:19] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:42:19] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 14:42:31] INFO: https://www.helpsaude.com TTFB: 223ms DOMContentLoaded: 386ms firstPaint: 387ms FCP: 387ms LCP: 467ms Load: 967ms CLS:0.0004
+[2023-03-23 14:42:32] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 14:42:44] INFO: https://www.helpsaude.com TTFB: 151ms DOMContentLoaded: 330ms firstPaint: 324ms FCP: 324ms LCP: 403ms Load: 1.03s CLS:0.0004
+[2023-03-23 14:42:44] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 14:42:56] INFO: https://www.helpsaude.com TTFB: 219ms DOMContentLoaded: 392ms firstPaint: 385ms FCP: 385ms LCP: 484ms Load: 997ms CLS:0.0004
+[2023-03-23 14:42:56] INFO: https://www.helpsaude.com 67 requests, TTFB: 219ms (σ33.00ms 16.7%), firstPaint: 385ms (σ29.00ms 8.0%), FCP: 385ms (σ29.00ms 8.0%), DOMContentLoaded: 386ms (σ28.00ms 7.6%), LCP: 467ms (σ35.00ms 7.7%), CLS: 0.0004 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 997ms (σ27.00ms 2.7%) (3 runs)
+[2023-03-23 14:42:56] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Brave\2023-03-23_14-42-18
+[2023-03-23 14:42:57] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:42:58] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 14:43:11] INFO: https://www.pcwintech.com TTFB: 906ms DOMContentLoaded: 1.06s firstPaint: 1.07s FCP: 1.07s LCP: 1.07s Load: 1.68s CLS:0.1305
+[2023-03-23 14:43:12] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 14:43:24] INFO: https://www.pcwintech.com TTFB: 505ms DOMContentLoaded: 658ms firstPaint: 669ms FCP: 669ms LCP: 669ms Load: 1.26s CLS:0.1305
+[2023-03-23 14:43:24] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 14:43:38] INFO: https://www.pcwintech.com TTFB: 372ms DOMContentLoaded: 521ms firstPaint: 528ms FCP: 528ms LCP: 528ms Load: 1.64s CLS:0.1286
+[2023-03-23 14:43:38] INFO: https://www.pcwintech.com 32 requests, TTFB: 505ms (σ227.00ms 38.2%), firstPaint: 669ms (σ229.00ms 30.3%), FCP: 669ms (σ229.00ms 30.3%), DOMContentLoaded: 658ms (σ230.00ms 30.8%), LCP: 669ms (σ229.00ms 30.3%), CLS: 0.1305 (σ0.00 0.7%), TBT: 0ms (σ0.00ms 0%), Load: 1.64s (σ187.00ms 12.3%) (3 runs)
+[2023-03-23 14:43:38] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Chrome\2023-03-23_14-42-56
+[2023-03-23 14:43:39] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 14:43:41] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 14:43:56] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:44:01] INFO: https://www.pcwintech.com TTFB: 317ms DOMContentLoaded: 569ms firstPaint: 612ms FCP: 600ms Load: 6.76s 
+[2023-03-23 14:44:03] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 14:44:23] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:44:27] INFO: https://www.pcwintech.com TTFB: 3.16s DOMContentLoaded: 3.52s firstPaint: 3.60s FCP: 3.60s Load: 10.40s 
+[2023-03-23 14:44:29] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 14:44:44] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:44:48] INFO: https://www.pcwintech.com TTFB: 346ms DOMContentLoaded: 957ms firstPaint: 949ms FCP: 948ms Load: 6.20s 
+[2023-03-23 14:44:48] INFO: https://www.pcwintech.com 110 requests, TTFB: 346ms (σ1.33s 104.6%), firstPaint: 949ms (σ1.34s 77.7%), FCP: 948ms (σ1.34s 78.1%), DOMContentLoaded: 957ms (σ1.31s 77.8%), Load: 6.76s (σ1.86s 23.9%) (3 runs)
+[2023-03-23 14:44:48] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Firefox\2023-03-23_14-43-38
+[2023-03-23 14:44:49] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 14:44:49] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:44:51] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 14:45:04] INFO: https://www.pcwintech.com TTFB: 436ms DOMContentLoaded: 800ms firstPaint: 701ms FCP: 701ms LCP: 756ms Load: 2.07s TBT: 93ms CLS:0.1349
+[2023-03-23 14:45:04] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:45:05] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 14:45:18] INFO: https://www.pcwintech.com TTFB: 265ms DOMContentLoaded: 409ms firstPaint: 401ms FCP: 401ms LCP: 419ms Load: 1.58s CLS:0.1728
+[2023-03-23 14:45:18] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:45:19] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 14:45:32] INFO: https://www.pcwintech.com TTFB: 397ms DOMContentLoaded: 581ms firstPaint: 572ms FCP: 572ms LCP: 585ms Load: 2.09s CLS:0.1368
+[2023-03-23 14:45:32] INFO: https://www.pcwintech.com 43 requests, TTFB: 397ms (σ73.00ms 20.0%), firstPaint: 572ms (σ123.00ms 22.0%), FCP: 572ms (σ123.00ms 22.0%), DOMContentLoaded: 581ms (σ160.00ms 26.8%), LCP: 585ms (σ138.00ms 23.5%), CLS: 0.1368 (σ0.02 11.8%), TBT: 0ms (σ44.00ms 141.4%), Load: 2.07s (σ232.00ms 12.1%) (3 runs)
+[2023-03-23 14:45:32] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Edge\2023-03-23_14-44-48
+[2023-03-23 14:45:33] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:45:34] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 14:45:47] INFO: https://www.pcwintech.com TTFB: 234ms DOMContentLoaded: 381ms firstPaint: 386ms FCP: 386ms LCP: 386ms Load: 1.54s CLS:0.1305
+[2023-03-23 14:45:48] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 14:46:00] INFO: https://www.pcwintech.com TTFB: 328ms DOMContentLoaded: 484ms firstPaint: 488ms FCP: 488ms LCP: 488ms Load: 1.06s CLS:0.1305
+[2023-03-23 14:46:00] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 14:46:12] INFO: https://www.pcwintech.com TTFB: 379ms DOMContentLoaded: 521ms firstPaint: 526ms FCP: 526ms LCP: 526ms Load: 1.09s CLS:0.1305
+[2023-03-23 14:46:12] INFO: https://www.pcwintech.com 48 requests, TTFB: 328ms (σ60.00ms 19.1%), firstPaint: 488ms (σ59.00ms 12.7%), FCP: 488ms (σ59.00ms 12.7%), DOMContentLoaded: 484ms (σ59.00ms 12.8%), LCP: 488ms (σ59.00ms 12.7%), CLS: 0.1305 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.09s (σ219.00ms 17.7%) (3 runs)
+[2023-03-23 14:46:12] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Brave\2023-03-23_14-45-32
+[2023-03-23 14:46:13] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:46:14] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 14:46:29] INFO: https://www.nwfdailynews.com TTFB: 258ms DOMContentLoaded: 423ms firstPaint: 428ms FCP: 428ms LCP: 435ms Load: 3.15s TBT: 248ms CLS:0.0948
+[2023-03-23 14:46:29] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 14:46:45] INFO: https://www.nwfdailynews.com TTFB: 224ms DOMContentLoaded: 354ms firstPaint: 444ms FCP: 444ms LCP: 444ms Load: 4.53s TBT: 5ms CLS:0.0948
+[2023-03-23 14:46:45] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 14:47:02] INFO: https://www.nwfdailynews.com TTFB: 181ms DOMContentLoaded: 723ms firstPaint: 605ms FCP: 605ms LCP: 741ms Load: 4.57s TBT: 1.05s CLS:0.0948
+[2023-03-23 14:47:02] INFO: https://www.nwfdailynews.com 359 requests, TTFB: 224ms (σ32.00ms 14.3%), firstPaint: 444ms (σ80.00ms 16.2%), FCP: 444ms (σ80.00ms 16.2%), DOMContentLoaded: 423ms (σ160.00ms 32.0%), LCP: 444ms (σ142.00ms 26.3%), CLS: 0.0948 (σ0.00 0%), TBT: 248ms (σ446.00ms 102.7%), Load: 4.53s (σ661.00ms 16.2%) (3 runs)
+[2023-03-23 14:47:02] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Chrome\2023-03-23_14-46-12
+[2023-03-23 14:47:03] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 14:47:07] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 14:47:27] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 14:47:31] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:47:41] INFO: https://www.nwfdailynews.com TTFB: 710ms DOMContentLoaded: 2.36s firstPaint: 2.31s FCP: 2.31s 
+[2023-03-23 14:47:45] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 14:48:05] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 14:48:08] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:48:26] INFO: https://www.nwfdailynews.com TTFB: 213ms DOMContentLoaded: 2.27s firstPaint: 2.12s FCP: 2.09s Load: 28.86s 
+[2023-03-23 14:48:28] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 14:48:48] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 14:48:50] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:49:01] INFO: https://www.nwfdailynews.com TTFB: 346ms DOMContentLoaded: 926ms firstPaint: 920ms FCP: 916ms 
+[2023-03-23 14:49:01] INFO: https://www.nwfdailynews.com 426 requests, TTFB: 346ms (σ210.00ms 49.7%), firstPaint: 2.12s (σ616.00ms 34.5%), FCP: 2.09s (σ613.00ms 34.6%), DOMContentLoaded: 2.27s (σ654.00ms 35.4%), Load: 0ms (σ13.61s 141.4%) (3 runs)
+[2023-03-23 14:49:01] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Firefox\2023-03-23_14-47-03
+[2023-03-23 14:49:02] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 14:49:02] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:49:03] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 14:49:16] INFO: https://www.nwfdailynews.com TTFB: 139ms DOMContentLoaded: 332ms firstPaint: 334ms FCP: 334ms LCP: 434ms Load: 2.42s TBT: 410ms CLS:0.0948
+[2023-03-23 14:49:16] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:49:17] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 14:49:31] INFO: https://www.nwfdailynews.com TTFB: 152ms DOMContentLoaded: 289ms firstPaint: 300ms FCP: 300ms LCP: 365ms Load: 2.07s TBT: 45ms CLS:0.0948
+[2023-03-23 14:49:31] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:49:31] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 14:49:45] INFO: https://www.nwfdailynews.com TTFB: 125ms DOMContentLoaded: 261ms firstPaint: 267ms FCP: 267ms LCP: 284ms Load: 1.87s TBT: 17ms CLS:0.0948
+[2023-03-23 14:49:45] INFO: https://www.nwfdailynews.com 364 requests, TTFB: 139ms (σ11.00ms 8.0%), firstPaint: 300ms (σ27.00ms 9.1%), FCP: 300ms (σ27.00ms 9.1%), DOMContentLoaded: 289ms (σ29.00ms 9.9%), LCP: 365ms (σ61.00ms 17.0%), CLS: 0.0948 (σ0.00 0%), TBT: 45ms (σ179.00ms 113.8%), Load: 2.07s (σ229.00ms 10.8%) (3 runs)
+[2023-03-23 14:49:45] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Edge\2023-03-23_14-49-01
+[2023-03-23 14:49:46] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:49:47] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 14:50:01] INFO: https://www.nwfdailynews.com TTFB: 132ms DOMContentLoaded: 261ms firstPaint: 284ms FCP: 284ms LCP: 284ms Load: 2.15s TBT: 26ms CLS:0.0948
+[2023-03-23 14:50:01] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 14:50:15] INFO: https://www.nwfdailynews.com TTFB: 133ms DOMContentLoaded: 321ms firstPaint: 329ms FCP: 329ms LCP: 333ms Load: 2.50s TBT: 183ms CLS:0.0948
+[2023-03-23 14:50:15] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 14:50:29] INFO: https://www.nwfdailynews.com TTFB: 125ms DOMContentLoaded: 255ms firstPaint: 282ms FCP: 282ms LCP: 282ms Load: 2.12s TBT: 4ms CLS:0.0948
+[2023-03-23 14:50:29] INFO: https://www.nwfdailynews.com 356 requests, TTFB: 132ms (σ4.00ms 2.7%), firstPaint: 284ms (σ22.00ms 7.3%), FCP: 284ms (σ22.00ms 7.3%), DOMContentLoaded: 261ms (σ30.00ms 10.7%), LCP: 284ms (σ24.00ms 7.9%), CLS: 0.0948 (σ0.00 0%), TBT: 26ms (σ80.00ms 112.3%), Load: 2.15s (σ173.00ms 7.6%) (3 runs)
+[2023-03-23 14:50:29] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Brave\2023-03-23_14-49-45
+[2023-03-23 14:50:30] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:50:31] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 14:50:43] INFO: https://www.abhirupmukherjee.com TTFB: 529ms DOMContentLoaded: 820ms firstPaint: 754ms FCP: 754ms LCP: 884ms Load: 963ms CLS:0.4067
+[2023-03-23 14:50:44] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 14:50:55] INFO: https://www.abhirupmukherjee.com TTFB: 229ms DOMContentLoaded: 508ms firstPaint: 451ms FCP: 451ms LCP: 600ms Load: 692ms CLS:0.4067
+[2023-03-23 14:50:56] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 14:51:08] INFO: https://www.abhirupmukherjee.com TTFB: 263ms DOMContentLoaded: 590ms firstPaint: 523ms FCP: 523ms LCP: 652ms Load: 760ms CLS:0.4067
+[2023-03-23 14:51:08] INFO: https://www.abhirupmukherjee.com 35 requests, TTFB: 263ms (σ134.00ms 39.4%), firstPaint: 523ms (σ129.00ms 22.4%), FCP: 523ms (σ129.00ms 22.4%), DOMContentLoaded: 590ms (σ132.00ms 20.7%), LCP: 652ms (σ123.00ms 17.3%), CLS: 0.4067 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 760ms (σ115.00ms 14.3%) (3 runs)
+[2023-03-23 14:51:08] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\abhirupmukherjee.com\Chrome\2023-03-23_14-50-29
+[2023-03-23 14:51:09] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 14:51:12] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 14:51:25] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:51:29] INFO: https://www.abhirupmukherjee.com TTFB: 494ms DOMContentLoaded: 3.18s firstPaint: 3.10s FCP: 3.08s Load: 4.97s 
+[2023-03-23 14:51:31] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 14:51:43] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:51:46] INFO: https://www.abhirupmukherjee.com TTFB: 457ms DOMContentLoaded: 1.73s firstPaint: 1.58s FCP: 1.52s Load: 2.78s 
+[2023-03-23 14:51:48] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 14:51:59] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 14:52:03] INFO: https://www.abhirupmukherjee.com TTFB: 414ms DOMContentLoaded: 1.29s firstPaint: 1.22s FCP: 1.20s Load: 2.55s 
+[2023-03-23 14:52:03] INFO: https://www.abhirupmukherjee.com 39 requests, TTFB: 457ms (σ33.00ms 7.2%), firstPaint: 1.58s (σ814.00ms 41.4%), FCP: 1.52s (σ824.00ms 42.6%), DOMContentLoaded: 1.73s (σ805.00ms 39.0%), Load: 2.78s (σ1.09s 31.8%) (3 runs)
+[2023-03-23 14:52:03] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\abhirupmukherjee.com\Firefox\2023-03-23_14-51-08
+[2023-03-23 14:52:05] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 14:52:05] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:52:05] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 14:52:17] INFO: https://www.abhirupmukherjee.com TTFB: 272ms DOMContentLoaded: 612ms firstPaint: 510ms FCP: 510ms LCP: 663ms Load: 781ms CLS:0.4067
+[2023-03-23 14:52:17] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:52:18] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 14:52:30] INFO: https://www.abhirupmukherjee.com TTFB: 413ms DOMContentLoaded: 689ms firstPaint: 606ms FCP: 606ms LCP: 756ms Load: 849ms CLS:0.4067
+[2023-03-23 14:52:30] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 14:52:31] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 14:52:42] INFO: https://www.abhirupmukherjee.com TTFB: 263ms DOMContentLoaded: 608ms firstPaint: 488ms FCP: 488ms LCP: 697ms Load: 759ms CLS:0.4067
+[2023-03-23 14:52:42] INFO: https://www.abhirupmukherjee.com 35 requests, TTFB: 272ms (σ69.00ms 21.7%), firstPaint: 510ms (σ51.00ms 9.6%), FCP: 510ms (σ51.00ms 9.6%), DOMContentLoaded: 612ms (σ37.00ms 5.9%), LCP: 697ms (σ38.00ms 5.4%), CLS: 0.4067 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 781ms (σ38.00ms 4.8%) (3 runs)
+[2023-03-23 14:52:43] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\abhirupmukherjee.com\Edge\2023-03-23_14-52-03
+[2023-03-23 14:52:43] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:52:44] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 14:52:56] INFO: https://www.abhirupmukherjee.com TTFB: 173ms DOMContentLoaded: 449ms firstPaint: 389ms FCP: 389ms LCP: 505ms Load: 600ms CLS:0.4067
+[2023-03-23 14:52:57] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 14:53:09] INFO: https://www.abhirupmukherjee.com TTFB: 195ms DOMContentLoaded: 465ms firstPaint: 418ms FCP: 418ms LCP: 554ms Load: 608ms CLS:0.4067
+[2023-03-23 14:53:09] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 14:53:21] INFO: https://www.abhirupmukherjee.com TTFB: 188ms DOMContentLoaded: 454ms firstPaint: 402ms FCP: 402ms LCP: 506ms Load: 592ms CLS:0.4067
+[2023-03-23 14:53:21] INFO: https://www.abhirupmukherjee.com 35 requests, TTFB: 188ms (σ9.00ms 5.0%), firstPaint: 402ms (σ12.00ms 2.9%), FCP: 402ms (σ12.00ms 2.9%), DOMContentLoaded: 454ms (σ7.00ms 1.5%), LCP: 506ms (σ23.00ms 4.4%), CLS: 0.4067 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 600ms (σ7.00ms 1.1%) (3 runs)
+[2023-03-23 14:53:21] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\abhirupmukherjee.com\Brave\2023-03-23_14-52-43
+[2023-03-23 14:53:22] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 14:53:23] INFO: Testing url https://www.thaqalain.ir iteration 1
