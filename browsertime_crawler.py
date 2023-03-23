@@ -3,19 +3,19 @@ logfile_name = 'data\\output\\domains_2501-5000\\' + datetime.datetime.now().str
 logfile = open(logfile_name, 'w+')
 
 def crawl_firefox(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\ip-fingerprinting\\crawl_firefox.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\Documents\\GitHub\\ip-fingerprinting\\crawl_firefox.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
     p.communicate()
 
 def crawl_chrome(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\ip-fingerprinting\\crawl_chrome.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\Documents\\GitHub\\ip-fingerprinting\\crawl_chrome.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
     p.communicate()
 
 def crawl_edge(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\ip-fingerprinting\\crawl_edge.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\Documents\\GitHub\\ip-fingerprinting\\crawl_edge.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
     p.communicate()
 
 def crawl_brave(url):
-    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\ip-fingerprinting\\crawl_brave.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
+    p = subprocess.Popen(["powershell.exe", "C:\\Users\\17862\\Documents\\GitHub\\ip-fingerprinting\\crawl_brave.ps1", 'https://www.' + url, url, datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")], stdout=logfile, stderr=logfile)
     p.communicate()
 
 

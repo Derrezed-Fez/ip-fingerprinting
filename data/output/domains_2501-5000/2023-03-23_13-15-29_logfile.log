@@ -1,0 +1,2187 @@
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.khosham ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.khosha ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.khoshamoz ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.khoshamo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.helpsau ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.helpsa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.helpsaude ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.helpsaud ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.pcwinte ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.pcwint ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.pcwintech ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.pcwintec ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.nwfdail ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.nwfdai ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.nwfdailyn ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.nwfdaily ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.abhirup ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.abhiru ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.abhirupmu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.abhirupm ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.thaqala ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.thaqal ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.thaqalain ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.thaqalai ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.educoin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.educoi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.educoins. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.educoins ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.lingxin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.lingxi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.lingxing. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.lingxing ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.summit. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.summit ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.summit.ne ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.summit.n ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.changin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.changi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.changing- ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.changing ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.simplis ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.simpli ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.simplisti ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.simplist ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.assembl ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.assemb ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.assemblar ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.assembla ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.mcdonal ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.mcdona ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.mcdonalds ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.mcdonald ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.fci.gov ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.fci.go ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.fci.gov.i ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.fci.gov. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.tob.ru  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.tob.ru ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.tob.ru to ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.tob.ru t ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.experts ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.expert ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.expertscu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.expertsc ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.takarat ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.takara ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.takaratom ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.takarato ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.ipercer ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.iperce ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.iperceram ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.ipercera ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.chiyoho ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.chiyoh ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.chiyohoin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.chiyohoi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.quanter ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.quante ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.quanterix ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.quanteri ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.slowtwi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.slowtw ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.slowtwitc ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.slowtwit ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.exxonmo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.exxonm ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.exxonmobi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.exxonmob ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.animete ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.animet ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.animetenk ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.animeten ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.keeplin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.keepli ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.keeplinks ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.keeplink ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.autoclu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.autocl ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.autoclub0 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.autoclub ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.j2ski.c ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.j2ski. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.j2ski.com ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.j2ski.co ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.allcarz ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.allcar ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.allcarz.r ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.allcarz. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.yournav ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.yourna ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.yournavi. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.yournavi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.e6bx.co ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.e6bx.c ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.e6bx.com  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.e6bx.com ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.mfbinfo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.mfbinf ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.mfbinfo.c ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.mfbinfo. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.roundcu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.roundc ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.roundcube ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.roundcub ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.thinkli ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.thinkl ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.thinklinq ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.thinklin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.orbeonp ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.orbeon ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.orbeonpro ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.orbeonpr ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.southde ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.southd ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.southdenv ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.southden ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.autofun ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.autofu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.autofunds ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.autofund ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.localfl ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.localf ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.localflin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.localfli ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.saotruc ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.saotru ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.saotruc.v ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.saotruc. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.ntbna.g ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.ntbna. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.ntbna.gov ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.ntbna.go ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.safepho ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.safeph ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.safephone ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.safephon ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.dagensh ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.dagens ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.dagenshan ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.dagensha ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.ppt.ru  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.ppt.ru ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.ppt.ru pp ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.ppt.ru p ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.zombiel ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.zombie ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.zombielan ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.zombiela ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.hacking ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.hackin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.hackingfl ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.hackingf ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.weather ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.weathe ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.weatherby ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.weatherb ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.gamersd ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.gamers ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.gamersdec ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.gamersde ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.rsmat.n ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.rsmat. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.rsmat.net ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.rsmat.ne ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.sportsu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.sports ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.sportsup. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.sportsup ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.malaysi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.malays ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.malaysian ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.malaysia ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.stockro ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.stockr ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.stockroom ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.stockroo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.biolovi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.biolov ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.biolovisi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.biolovis ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.passmar ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.passma ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.passmark. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.passmark ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.searchv ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.search ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.searchval ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.searchva ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.photofi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.photof ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.photofina ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.photofin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.mangagu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.mangag ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.mangaguru ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.mangagur ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.gameref ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.gamere ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.gamerefin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.gamerefi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.marinij ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.marini ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.marinij.c ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.marinij. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.wpevere ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.wpever ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.wpeverest ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.wpeveres ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.dici.fr ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.dici.f ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.dici.fr d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.dici.fr  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.podbox. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.podbox ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.podbox.ir ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.podbox.i ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.lumpsum ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.lumpsu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.lumpsum.i ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_brave.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_brave.ps1 https://www.lumpsum. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...crawl_brave.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_chrome.ps1 https://www.fbm.ru  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...rawl_chrome.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1' is 
+not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or 
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_firefox.ps1 https://www.fbm.ru ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...awl_firefox.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 : The term 'C:\Users\17862\ip-fingerprinting\crawl_edge.ps1' is not 
+recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if 
+a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\17862\ip-fingerprinting\crawl_edge.ps1 https://www.fbm.ru fb ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\17862\...\crawl_edge.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
