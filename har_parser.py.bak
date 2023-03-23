@@ -20,8 +20,6 @@ def calculate_basic_domain_based_fingerprint(dir:str, domain:str):
                 browser = 'chrome'
             elif 'firefox' in file:
                 browser = 'firefox'
-            elif 'brave' in file:
-                browser = 'brave'
         if '.har' in file:
             with open(os.path.join(dir, file), 'r', encoding='utf-8') as f:
                 har_parser = HarParser(json.loads(f.read()))
@@ -64,8 +62,6 @@ def network_trace_domain(dir, domain):
                 browser = 'chrome'
             elif 'firefox' in file:
                 browser = 'firefox'
-            elif 'brave' in file:
-                browser = 'brave'
         if '.har' in file:
             with open(os.path.join(dir, file), 'r', encoding='utf-8') as f:
                 har_parser = HarParser(json.loads(f.read()))
@@ -82,10 +78,10 @@ def network_trace_domain(dir, domain):
         f.write(str(connections) + '\n')
 
 def generate_basic_ip_fingerprints():
-    chrome_basic_ip_fingerprints, firefox_basic_ip_fingerprints, edge_basic_ip_fingerprints, brave_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
-        open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'brave_basic_ip_fingerprints'), 'w') 
+    chrome_basic_ip_fingerprints, firefox_basic_ip_fingerprints, edge_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
+        open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w')
     for dir in os.listdir(LOG_FILEPATH):
-        if '.log' not in dir and 'fingerprints' not in dir:3
+        if '.log' not in dir and 'fingerprints' not in dir:
             for inner_dir in os.listdir(os.path.join(LOG_FILEPATH, dir)):
                 browser, fingerprint = calculate_basic_domain_based_fingerprint(os.path.join(LOG_FILEPATH, dir, inner_dir), dir)
                 if fingerprint is not None:
@@ -95,12 +91,9 @@ def generate_basic_ip_fingerprints():
                         firefox_basic_ip_fingerprints.write(fingerprint + '\n')
                     if 'edge' in browser:
                         edge_basic_ip_fingerprints.write(fingerprint + '\n')
-                    if 'brave' in browser:
-                        brave_basic_ip_fingerprints.write(fingerprint + '\n')     
     chrome_basic_ip_fingerprints.close()
     firefox_basic_ip_fingerprints.close()
     edge_basic_ip_fingerprints.close()
-    brave_basic_ip_fingerprints.close()
 
 def generate_network_traces():
     for dir in os.listdir(LOG_FILEPATH):
