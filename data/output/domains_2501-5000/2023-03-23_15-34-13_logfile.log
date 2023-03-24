@@ -1,0 +1,1514 @@
+[2023-03-23 15:34:14] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:34:14] INFO: Testing url https://www.khoshamoz.ir iteration 1
+[2023-03-23 15:34:32] INFO: https://www.khoshamoz.ir TTFB: 4.94s DOMContentLoaded: 6.65s firstPaint: 5.83s FCP: 5.83s LCP: 6.14s Load: 7.40s CLS:0.0417
+[2023-03-23 15:34:33] INFO: Testing url https://www.khoshamoz.ir iteration 2
+[2023-03-23 15:34:48] INFO: https://www.khoshamoz.ir TTFB: 2.19s DOMContentLoaded: 3.88s firstPaint: 3.06s FCP: 3.06s LCP: 3.37s Load: 4.34s CLS:0.0351
+[2023-03-23 15:34:49] INFO: Testing url https://www.khoshamoz.ir iteration 3
+[2023-03-23 15:35:04] INFO: https://www.khoshamoz.ir TTFB: 2.33s DOMContentLoaded: 3.98s firstPaint: 3.19s FCP: 3.19s LCP: 3.46s Load: 4.29s CLS:0.0291
+[2023-03-23 15:35:04] INFO: https://www.khoshamoz.ir 66 requests, TTFB: 2.33s (σ1.26s 40.0%), firstPaint: 3.19s (σ1.28s 31.7%), FCP: 3.19s (σ1.28s 31.7%), DOMContentLoaded: 3.98s (σ1.28s 26.5%), LCP: 3.46s (σ1.28s 29.7%), CLS: 0.0351 (σ0.01 14.6%), TBT: 0ms (σ0.00ms 0%), Load: 4.34s (σ1.45s 27.2%) (3 runs)
+[2023-03-23 15:35:04] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\khoshamoz.ir\Chrome\2023-03-23_15-34-13
+[2023-03-23 15:35:05] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 15:35:08] INFO: Testing url https://www.khoshamoz.ir iteration 1
+[2023-03-23 15:35:20] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:35:26] INFO: https://www.khoshamoz.ir TTFB: 1.64s DOMContentLoaded: 3.71s firstPaint: 2.57s FCP: 2.90s Load: 4.26s 
+[2023-03-23 15:35:29] INFO: Testing url https://www.khoshamoz.ir iteration 2
+[2023-03-23 15:35:44] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:35:49] INFO: https://www.khoshamoz.ir TTFB: 3.08s DOMContentLoaded: 5.69s firstPaint: 4.50s FCP: 4.76s Load: 6.27s 
+[2023-03-23 15:35:52] INFO: Testing url https://www.khoshamoz.ir iteration 3
+[2023-03-23 15:36:05] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:36:10] INFO: https://www.khoshamoz.ir TTFB: 1.33s DOMContentLoaded: 2.85s firstPaint: 2.17s FCP: 2.40s Load: 3.71s 
+[2023-03-23 15:36:10] INFO: https://www.khoshamoz.ir 67 requests, TTFB: 1.64s (σ763.00ms 37.9%), firstPaint: 2.57s (σ1.02s 33.1%), FCP: 2.90s (σ1.02s 30.4%), DOMContentLoaded: 3.71s (σ1.19s 29.1%), Load: 4.26s (σ1.10s 23.1%) (3 runs)
+[2023-03-23 15:36:10] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\khoshamoz.ir\Firefox\2023-03-23_15-35-04
+[2023-03-23 15:36:11] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 15:36:11] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:36:12] INFO: Testing url https://www.khoshamoz.ir iteration 1
+[2023-03-23 15:36:28] INFO: https://www.khoshamoz.ir TTFB: 1.46s DOMContentLoaded: 3.27s firstPaint: 2.45s FCP: 2.45s LCP: 2.71s Load: 4.13s CLS:0.0571
+[2023-03-23 15:36:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:36:28] INFO: Testing url https://www.khoshamoz.ir iteration 2
+[2023-03-23 15:36:44] INFO: https://www.khoshamoz.ir TTFB: 1.72s DOMContentLoaded: 3.40s firstPaint: 2.59s FCP: 2.59s LCP: 2.84s Load: 3.98s TBT: 3ms CLS:0.0447
+[2023-03-23 15:36:44] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:36:44] INFO: Testing url https://www.khoshamoz.ir iteration 3
+[2023-03-23 15:37:00] INFO: https://www.khoshamoz.ir TTFB: 1.57s DOMContentLoaded: 3.40s firstPaint: 2.60s FCP: 2.60s LCP: 2.85s Load: 3.82s CLS:0.0447
+[2023-03-23 15:37:00] INFO: https://www.khoshamoz.ir 66 requests, TTFB: 1.57s (σ109.00ms 6.9%), firstPaint: 2.59s (σ66.00ms 2.6%), FCP: 2.59s (σ66.00ms 2.6%), DOMContentLoaded: 3.40s (σ62.00ms 1.8%), LCP: 2.84s (σ63.00ms 2.2%), CLS: 0.0447 (σ0.01 12.0%), TBT: 0ms (σ1.00ms 141.4%), Load: 3.98s (σ127.00ms 3.2%) (3 runs)
+[2023-03-23 15:37:00] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\khoshamoz.ir\Edge\2023-03-23_15-36-10
+browsertime.js [options] <url>/<scriptFile>
+
+timeouts
+      --timeouts.browserStart                      Timeout when waiting for browser to start, in milliseconds  [number] [default: 60000]
+      --timeouts.pageLoad                          Timeout when waiting for url to load, in milliseconds  [number] [default: 300000]
+      --timeouts.script                            Timeout when running browser scripts, in milliseconds  [number] [default: 120000]
+      --timeouts.pageCompleteCheck, --maxLoadTime  Timeout when waiting for page to complete loading, in milliseconds  [number] [default: 120000]
+
+chrome
+      --chrome.args                                              Extra command line arguments to pass to the Chrome process (e.g. --no-sandbox). To add multiple arguments to Chrome, repeat --chrome.args once per argument.
+      --chrome.binaryPath                                        Path to custom Chrome binary (e.g. Chrome Canary). On OS X, the path should be to the binary inside the app bundle, e.g. "/Applications/Google Chrome Canary.app/Contents/MacOS/Google Chrome Canary"
+      --chrome.chromedriverPath                                  Path to custom ChromeDriver binary. Make sure to use a ChromeDriver version that's compatible with the version of Chrome you're using
+      --chrome.chromedriverPort                                  Specify "--port" args for chromedriver prcocess  [number]
+      --chrome.mobileEmulation.deviceName                        Name of device to emulate. Works only standalone (see list in Chrome DevTools, but add phone like 'iPhone 6'). This will override your userAgent string.
+      --chrome.mobileEmulation.width                             Width in pixels of emulated mobile screen (e.g. 360)  [number]
+      --chrome.mobileEmulation.height                            Height in pixels of emulated mobile screen (e.g. 640)  [number]
+      --chrome.mobileEmulation.pixelRatio                        Pixel ratio of emulated mobile screen (e.g. 2.0)
+      --chrome.android.package                                   Run Chrome on your Android device. Set to com.android.chrome for default Chrome version. You need to have adb installed to make this work.
+      --chrome.android.activity                                  Name of the Activity hosting the WebView.
+      --chrome.android.process                                   Process name of the Activity hosting the WebView. If not given, the process name is assumed to be the same as chrome.android.package.
+      --chrome.android.deviceSerial                              Choose which device to use. If you do not set it, first device will be used.
+      --chrome.traceCategories                                   A comma separated list of Tracing event categories to include in the Trace log. Default no trace categories is collected.  [string]
+      --chrome.traceCategory                                     Add a trace category to the default ones. Use --chrome.traceCategory multiple times if you want to add multiple categories. Example: --chrome.traceCategory disabled-by-default-v8.cpu_profiler  [string]
+      --chrome.enableTraceScreenshots, --enableTraceScreenshots  Include screenshots in the trace log (enabling the trace category disabled-by-default-devtools.screenshot).  [boolean]
+      --chrome.enableChromeDriverLog                             Log Chromedriver communication to a log file.  [boolean]
+      --chrome.enableVerboseChromeDriverLog                      Log verboose Chromedriver communication to a log file.  [boolean]
+      --chrome.timeline, --chrome.trace                          Collect the timeline data. Drag and drop the JSON in your Chrome detvools timeline panel or check out the CPU metrics in the Browsertime.json  [boolean]
+      --chrome.collectPerfLog                                    Collect performance log from Chrome with Page and Network events and save to disk.  [boolean]
+      --chrome.collectNetLog                                     Collect network log from Chrome and save to disk.  [boolean]
+      --chrome.netLogCaptureMode                                 Choose capture mode for Chromes netlog.  [choices: "Default", "IncludeSensitive", "Everything"] [default: "IncludeSensitive"]
+      --chrome.collectConsoleLog                                 Collect Chromes console log and save to disk.  [boolean]
+      --chrome.appendToUserAgent                                 Append to the user agent.  [string]
+      --chrome.noDefaultOptions                                  Prevent Browsertime from setting its default options for Chrome  [boolean]
+      --chrome.cleanUserDataDir                                  If you use --user-data-dir as an argument to Chrome and want to clean that directory between each iteration you should use --chrome.cleanUserDataDir true.  [boolean]
+      --chrome.CPUThrottlingRate                                 Enables CPU throttling to emulate slow CPUs. Throttling rate as a slowdown factor (1 is no throttle, 2 is 2x slowdown, etc)  [number]
+      --chrome.includeResponseBodies                             Include response bodies in the HAR file.  [choices: "none", "all", "html"] [default: "none"]
+      --chrome.cdp.performance                                   Collect Chrome perfromance metrics from Chrome DevTools Protocol  [boolean] [default: true]
+      --chrome.blockDomainsExcept, --blockDomainsExcept          Block all domains except this domain. Use it multiple time to keep multiple domains. You can also wildcard domains like *.sitespeed.io. Use this when you wanna block out all third parties.
+      --chrome.ignoreCertificateErrors                           Make Chrome ignore certificate errors.  Defaults to true.  [boolean] [default: true]
+
+android
+      --android.powerTesting, --androidPower                                                       Enables android power testing - charging must be disabled for this.(You have to disable charging yourself for this - it depends on the phone model).  [boolean]
+      --android.ignoreShutdownFailures, --ignoreShutdownFailures                                   If set, shutdown failures will be ignored on Android.  [boolean] [default: false]
+      --android.rooted, --androidRooted                                                            If your phone is rooted you can use this to set it up following Mozillas best practice for stable metrics.  [boolean] [default: false]
+      --android.batteryTemperatureLimit, --androidBatteryTemperatureLimit                          Do the battery temperature need to be below a specific limit before we start the test?
+      --android.batteryTemperatureWaitTimeInSeconds, --androidBatteryTemperatureWaitTimeInSeconds  How long time to wait (in seconds) if the androidBatteryTemperatureWaitTimeInSeconds is not met before the next try  [default: 120]
+      --android.batteryTemperatureReboot, --androidBatteryTemperatureReboot                        If your phone does not get the minimum temperature aftet the wait time, reboot the phone.  [boolean] [default: false]
+      --android.pretestPowerPress, --androidPretestPowerPress                                      Press the power button on the phone before a test starts.  [boolean] [default: false]
+      --android.pretestPressHomeButton, --androidPretestPressHomeButton                            Press the home button on the phone before a test starts.  [boolean] [default: false]
+      --android.verifyNetwork, --androidVerifyNetwork                                              Before a test start, verify that the device has a Internet connection by pinging 8.8.8.8 (or a configurable domain with --androidPingAddress)  [boolean] [default: false]
+      --android.gnirehtet, --gnirehtet                                                             Start gnirehtet and reverse tethering the traffic from your Android phone.  [boolean] [default: false]
+
+firefox
+      --firefox.binaryPath                      Path to custom Firefox binary (e.g. Firefox Nightly). On OS X, the path should be to the binary inside the app bundle, e.g. /Applications/Firefox.app/Contents/MacOS/firefox-bin
+      --firefox.geckodriverPath                 Path to custom geckodriver binary. Make sure to use a geckodriver version that's compatible with the version of Firefox (Gecko) you're using
+      --firefox.geckodriverArgs                 Flags passed in to Geckodriver see https://firefox-source-docs.mozilla.org/testing/geckodriver/Flags.html. Use it like --firefox.geckodriverArgs="--marionette-port"  --firefox.geckodriverArgs=1027  [string]
+      --firefox.appendToUserAgent               Append to the user agent.  [string]
+      --firefox.nightly                         Use Firefox Nightly. Works on OS X. For Linux you need to set the binary path.  [boolean]
+      --firefox.beta                            Use Firefox Beta. Works on OS X. For Linux you need to set the binary path.  [boolean]
+      --firefox.developer                       Use Firefox Developer. Works on OS X. For Linux you need to set the binary path.  [boolean]
+      --firefox.preference                      Extra command line arguments to pass Firefox preferences by the format key:value To add multiple preferences, repeat --firefox.preference once per argument.
+      --firefox.args                            Extra command line arguments to pass to the Firefox process (e.g. --MOZ_LOG). To add multiple arguments to Firefox, repeat --firefox.args once per argument.
+      --firefox.includeResponseBodies           Include response bodies in HAR  [choices: "none", "all", "html"] [default: "none"]
+      --firefox.appconstants                    Include Firefox AppConstants information in the results  [boolean] [default: false]
+      --firefox.acceptInsecureCerts             Accept insecure certs  [boolean]
+      --firefox.windowRecorder                  Use the internal compositor-based Firefox window recorder to emit PNG files for each frame that is a meaningful change.  The PNG output will further be merged into a variable frame rate video for analysis. Use this instead of ffmpeg to record a video (you still need the --video flag).  [boolean] [default: false]
+      --firefox.memoryReport                    Measure firefox resident memory after each iteration.  [boolean] [default: false]
+      --firefox.memoryReportParams.minizeFirst  Force a collection before dumping and measuring the memory report.  [boolean] [default: false]
+      --firefox.geckoProfiler                   Collect a profile using the internal gecko profiler  [boolean] [default: false]
+      --firefox.geckoProfilerParams.features    Enabled features during gecko profiling  [string] [default: "js,stackwalk,leaf"]
+      --firefox.geckoProfilerParams.threads     Threads to profile.  [string] [default: "GeckoMain,Compositor,Renderer"]
+      --firefox.geckoProfilerParams.interval    Sampling interval in ms.  Defaults to 1 on desktop, and 4 on android.  [number]
+      --firefox.geckoProfilerParams.bufferSize  Buffer size in elements. Default is ~90MB.  [number] [default: 13107200]
+      --firefox.perfStats                       Collect gecko performance statistics as measured internally by the firefox browser. See https://searchfox.org/mozilla-central/source/tools/performance/PerfStats.h#24-33  [boolean] [default: false]
+      --firefox.perfStatsParams.mask            Mask to decide which features to enable  [number] [default: 4294967295]
+      --firefox.collectMozLog                   Collect the MOZ HTTP log (by default). See --firefox.setMozLog if you need to specify the logs you wish to gather.  [boolean]
+      --firefox.setMozLog                       Use in conjunction with firefox.collectMozLog to set MOZ_LOG to something specific. Without this, the HTTP logs will be collected by default  [default: "timestamp,nsHttp:5,cache2:5,nsSocketTransport:5,nsHostResolver:5"]
+      --firefox.disableBrowsertimeExtension     Disable installing the browsertime extension.  [boolean]
+      --firefox.noDefaultPrefs                  Prevents browsertime from setting its default preferences.  [boolean] [default: false]
+      --firefox.disableSafeBrowsing             Disable safebrowsing.  [boolean] [default: true]
+      --firefox.disableTrackingProtection       Disable Tracking Protection.  [boolean] [default: true]
+      --firefox.android.package                 Run Firefox or a GeckoView-consuming App on your Android device. Set to org.mozilla.geckoview_example for default Firefox version. You need to have adb installed to make this work.
+      --firefox.android.activity                Name of the Activity hosting the GeckoView.
+      --firefox.android.deviceSerial            Choose which device to use. If you do not set it, first device will be used.
+      --firefox.android.intentArgument          Configure how the Android intent is launched.  Passed through to `adb shell am start ...`; follow the format at https://developer.android.com/studio/command-line/adb#IntentSpec. To add multiple arguments, repeat --firefox.android.intentArgument once per argument.
+      --firefox.profileTemplate                 Profile template directory that will be cloned and used as the base of each profile each instance of Firefox is launched against.  Use this to pre-populate databases with certificates, tracking protection lists, etc.
+
+selenium
+      --selenium.url  URL to a running Selenium server (e.g. to run a browser on another machine).
+
+video
+      --videoParams.framerate          Frames per second  [default: 30]
+      --videoParams.crf                Constant rate factor see https://trac.ffmpeg.org/wiki/Encode/H.264#crf  [default: 23]
+      --videoParams.addTimer           Add timer and metrics to the video.  [boolean] [default: true]
+      --videoParams.debug              Turn on debug to record a video with all pre/post and scripts/URLS you test in one iteration. Visual Metrics will then automatically be disabled.  [boolean] [default: false]
+      --videoParams.keepOriginalVideo  Keep the original video. Use it when you have a Visual Metrics bug and want to create an issue at GitHub  [boolean] [default: false]
+      --videoParams.thumbsize          The maximum size of the thumbnail in the filmstrip. Default is 400 pixels in either direction. If videoParams.filmstripFullSize is used that setting overrides this.  [default: 400]
+      --videoParams.filmstripFullSize  Keep original sized screenshots. Will make the run take longer time  [boolean] [default: false]
+      --videoParams.filmstripQuality   The quality of the filmstrip screenshots. 0-100.  [default: 75]
+      --videoParams.createFilmstrip    Create filmstrip screenshots.  [boolean] [default: true]
+      --videoParams.nice               Use nice when running FFMPEG during the run. A value from -20 to 19  https://linux.die.net/man/1/nice  [default: 0]
+      --videoParams.convert            Convert the original video to a viewable format (for most video players). Turn that off to make a faster run.  [boolean] [default: true]
+      --videoParams.threads            Number of threads to use for video recording. Default is determined by ffmpeg.  [default: 0]
+
+edge
+      --edge.edgedriverPath  Path to custom msedgedriver version (need to match your Egde version).
+      --edge.binaryPath      Path to custom Edge binary
+
+safari
+      --safari.ios                   Use Safari on iOS. You need to choose browser Safari and iOS to run on iOS.  [boolean] [default: false]
+      --safari.deviceName            Set the device name. Device names for connected devices are shown in iTunes.
+      --safari.deviceUDID            Set the device UDID. If Xcode is installed, UDIDs for connected devices are available via the output of "xcrun simctl list devices" and in the Device and Simulators window (accessed in Xcode via "Window > Devices and Simulators")
+      --safari.deviceType            Set the device type. If the value of safari:deviceType is `iPhone`, safaridriver will only create a session using an iPhone device or iPhone simulator. If the value of safari:deviceType is `iPad`, safaridriver will only create a session using an iPad device or iPad simulator.
+      --safari.useTechnologyPreview  Use Safari Technology Preview  [boolean] [default: false]
+      --safari.diagnose              When filing a bug report against safaridriver, it is highly recommended that you capture and include diagnostics generated by safaridriver. Diagnostic files are saved to ~/Library/Logs/com.apple.WebDriver/
+      --safari.useSimulator          If the value of useSimulator is true, safaridriver will only use iOS Simulator hosts. If the value of safari:useSimulator is false, safaridriver will not use iOS Simulator hosts. NOTE: An Xcode installation is required in order to run WebDriver tests on iOS Simulator hosts.  [boolean] [default: false]
+
+Screenshot
+      --screenshot                             Save one screenshot per iteration.  [boolean] [default: false]
+      --screenshotLCP                          Save one screenshot per iteration that shows the largest contentful paint element (if the browser supports LCP).  [boolean] [default: false]
+      --screenshotLS                           Save one screenshot per iteration that shows the layout shift elements (if the browser supports layout shift).  [boolean] [default: false]
+      --screenshotParams.type                  Set the file type of the screenshot  [choices: "png", "jpg"] [default: "jpg"]
+      --screenshotParams.png.compressionLevel  zlib compression level  [default: 6]
+      --screenshotParams.jpg.quality           Quality of the JPEG screenshot. 1-100  [default: 80]
+      --screenshotParams.maxSize               The max size of the screenshot (width and height).  [default: 2000]
+
+proxy
+      --proxy.pac     Proxy auto-configuration (URL)  [string]
+      --proxy.ftp     Ftp proxy (host:port)  [string]
+      --proxy.http    Http proxy (host:port)  [string]
+      --proxy.https   Https proxy (host:port)  [string]
+      --proxy.bypass  Comma separated list of hosts to connect to directly, bypassing other proxies for that host  [string]
+
+connectivity
+  -c, --connectivity.profile                              The connectivity profile.  [choices: "4g", "3g", "3gfast", "3gslow", "3gem", "2g", "cable", "native", "custom"] [default: "native"]
+      --connectivity.down, --connectivity.downstreamKbps  This option requires --connectivity.profile be set to "custom".
+      --connectivity.up, --connectivity.upstreamKbps      This option requires --connectivity.profile be set to "custom".
+      --connectivity.rtt, --connectivity.latency          This option requires --connectivity.profile be set to "custom".
+      --connectivity.variance                             This option requires --connectivity.engine be set to "throttle". It will add a variance to the rtt between each run. --connectivity.variance 2 means it will run with a random variance of max 2% between runs.
+      --connectivity.alias                                Give your connectivity profile a custom name
+      --connectivity.engine                               The engine for connectivity. Throttle works on Mac and tc based Linux. For mobile you can use Humble if you have a Humble setup. Use external if you set the connectivity outside of Browsertime. The best way do to this is described in https://github.com/sitespeedio/browsertime#connectivity.  [choices: "external", "throttle", "humble"] [default: "external"]
+      --connectivity.throttle.localhost                   Add latency/delay on localhost. Perfect for testing with WebPageReplay  [boolean] [default: false]
+      --connectivity.humble.url                           The path to your Humble instance. For example http://raspberrypi:3000  [string]
+
+debug
+      --debug  Run Browsertime in debug mode.  [boolean] [default: false]
+
+Options:
+      --cpu                                        Easy way to enable both chrome.timeline for Chrome and geckoProfile for Firefox  [boolean]
+      --video                                      Record a video and store the video. Set it to false to remove the video that is created by turning on visualMetrics. To remove fully turn off video recordings, make sure to set video and visualMetrics to false. Requires FFMpeg to be installed.  [boolean]
+      --visualMetrics                              Collect Visual Metrics like First Visual Change, SpeedIndex, Perceptual Speed Index and Last Visual Change. Requires FFMpeg and Python dependencies  [boolean]
+      --visualElements, --visuaElements            Collect Visual Metrics from elements. Works only with --visualMetrics turned on. By default you will get visual metrics from the largest image within the view port and the largest h1. You can also configure to pickup your own defined elements with --scriptInput.visualElements  [boolean]
+      --visualMetricsPerceptual                    Collect Perceptual Speed Index when you run --visualMetrics.  [boolean]
+      --visualMetricsContentful                    Collect Contentful Speed Index when you run --visualMetrics.  [boolean]
+      --visualMetricsPortable                      Use the portable visual-metrics processing script (no ImageMagick dependencies).  [boolean] [default: true]
+      --scriptInput.visualElements                 Include specific elements in visual elements. Give the element a name and select it with document.body.querySelector. Use like this: --scriptInput.visualElements name:domSelector see https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors. Add multiple instances to measure multiple elements. Visual Metrics will use these elements and calculate when they are visible and fully rendered.
+      --scriptInput.longTask, --minLongTaskLength  Set the minimum length of a task to be categorised as a CPU Long Task. It can never be smaller than 50. The value is in ms and only works in Chromium browsers at the moment.  [number] [default: 50]
+  -b, --browser                                    Specify browser. Safari only works on OS X/iOS. Edge only work on OS that supports Edge.  [choices: "chrome", "firefox", "edge", "safari"] [default: "chrome"]
+      --android                                    Short key to use Android. Defaults to use com.android.chrome unless --browser is specified.  [boolean] [default: false]
+      --processStartTime                           Capture browser process start time (in milliseconds). Android only for now.  [boolean] [default: false]
+      --pageCompleteCheck                          Supply a JavaScript (inline or JavaScript file) that decides when the browser is finished loading the page and can start to collect metrics. The JavaScript snippet is repeatedly queried to see if page has completed loading (indicated by the script returning true). Use it to fetch timings happening after the loadEventEnd. By default the tests ends 2 seconds after loadEventEnd. Also checkout --pageCompleteCheckInactivity and --pageCompleteCheckPollTimeout
+      --pageCompleteWaitTime                       How long time you want to wait for your pageComplteteCheck to finish, after it is signaled to closed. Extra parameter passed on to your pageCompleteCheck.  [default: 8000]
+      --pageCompleteCheckInactivity                Alternative way to choose when to end your test. This will wait for 2 seconds of inactivity that happens after loadEventEnd.  [boolean] [default: false]
+      --pageCompleteCheckPollTimeout               The time in ms to wait for running the page complete check the next time.  [number] [default: 1500]
+      --pageCompleteCheckStartWait                 The time in ms to wait for running the page complete check for the first time. Use this when you have a pageLoadStrategy set to none  [number] [default: 5000]
+      --pageLoadStrategy                           Set the strategy to waiting for document readiness after a navigation event. After the strategy is ready, your pageCompleteCheck will start runninhg.  [string] [choices: "eager", "none", "normal"] [default: "none"]
+  -n, --iterations                                 Number of times to test the url (restarting the browser between each test)  [number] [default: 3]
+      --prettyPrint                                Enable to print json/har with spaces and indentation. Larger files, but easier on the eye.  [boolean] [default: false]
+      --delay                                      Delay between runs, in milliseconds  [number] [default: 0]
+      --timeToSettle                               Extra time added for the browser to settle before starting to test a URL. This delay happens after the browser was opened and before the navigation to the URL  [number] [default: 0]
+      --webdriverPageload                          Use webdriver.get to initialize the page load instead of window.location.  [boolean] [default: false]
+  -r, --requestheader                              Request header that will be added to the request. Add multiple instances to add multiple request headers. Works for Firefox and Chrome. Use the following format key:value
+      --cookie                                     Cookie that will be added to the request. Add multiple instances to add multiple request cookies. Works for Firefox and Chrome. Use the following format cookieName=cookieValue
+      --injectJs                                   Inject JavaScript into the current page at document_start. Works for Firefox and Chrome. More info: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/contentScripts
+      --block                                      Domain to block or URL or URL pattern to block. If you use Chrome you can also use --blockDomainsExcept (that is more performant). Works in Chrome/Edge. For Firefox you can only block domains.
+      --percentiles                                The percentile values within the data browsertime will calculate and report. This argument uses Yargs arrays and you you to set them correctly it is recommended to use a configuraration file instead.  [array] [default: [0,10,90,99,100]]
+      --decimals                                   The decimal points browsertime statistics round to.  [number] [default: 0]
+      --iqr                                        Use IQR, or Inter Quartile Range filtering filters data based on the spread of the data. See  https://en.wikipedia.org/wiki/Interquartile_range. In some cases, IQR filtering may not filter out anything. This can happen if the acceptable range is wider than the bounds of your dataset.  [boolean] [default: false]
+      --cacheClearRaw                              Use internal browser functionality to clear browser cache between runs instead of only using Selenium.  [boolean] [default: false]
+      --basicAuth                                  Use it if your server is behind Basic Auth. Format: username@password (Only Chrome and Firefox at the moment).
+      --preScript, --setUp                         Selenium script(s) to run before you test your URL/script. They will run outside of the analyse phase. Note that --preScript can be passed multiple times.
+      --postScript, --tearDown                     Selenium script(s) to run after you test your URL. They will run outside of the analyse phase. Note that --postScript can be passed multiple times.
+      --script                                     Add custom Javascript to run after the page has finished loading to collect metrics. If a single js file is specified, it will be included in the category named "custom" in the output json. Pass a folder to include all .js scripts in the folder, and have the folder name be the category. Note that --script can be passed multiple times.
+      --userAgent                                  Override user agent
+      --appendToUserAgent                          Append a String to the user agent. Works in Chrome/Edge and Firefox.
+  -q, --silent                                     Only output info in the logs, not to the console. Enter twice to suppress summary line.  [count]
+  -o, --output                                     Specify file name for Browsertime data (ex: 'browsertime'). Unless specified, file will be named browsertime.json
+      --har                                        Specify file name for .har file (ex: 'browsertime'). Unless specified, file will be named browsertime.har
+      --skipHar                                    Pass --skipHar to not collect a HAR file.  [boolean]
+      --gzipHar                                    Pass --gzipHar to gzip the HAR file  [boolean]
+      --config                                     Path to JSON config file. You can also use a .browsertime.json file that will automatically be found by Browsertime using find-up.
+      --viewPort                                   Size of browser window WIDTHxHEIGHT or "maximize". Note that "maximize" is ignored for xvfb.
+      --resultDir                                  Set result directory for the files produced by Browsertime
+      --useSameDir                                 Store all files in the same structure and do not use the path structure released in 4.0. Use this only if you are testing ONE URL.
+      --xvfb                                       Start xvfb before the browser is started  [boolean] [default: false]
+      --xvfbParams.display                         The display used for xvfb  [default: 99]
+      --tcpdump                                    Collect a tcpdump for each tested URL.  [boolean] [default: false]
+      --tcpdumpPacketBuffered                      Use together with --tcpdump to save each packet directly to the file, instead of buffering.  [boolean] [default: false]
+      --urlAlias                                   Use an alias for the URL. You need to pass on the same amount of alias as URLs. The alias is used as the name of the URL and used for filepath. Pass on multiple --urlAlias for multiple alias/URLs. You can also add alias direct in your script.  [string]
+      --preURL, --warmLoad                         A URL that will be accessed first by the browser before the URL that you wanna analyze. Use it to fill the browser cache.
+      --preURLDelay, --warmLoadDealy               Delay between preURL and the URL you want to test (in milliseconds)  [default: 1500]
+      --userTimingWhitelist                        All userTimings are captured by default this option takes a regex that will whitelist which userTimings to capture in the results.
+      --headless                                   Run the browser in headless mode. Works for Firefox and Chrome.  [boolean] [default: false]
+      --flushDNS                                   Flush DNS between runs, works on Mac OS and Linux. Your user needs sudo rights to be able to flush the DNS.  [boolean] [default: false]
+      --extension                                  Path to a WebExtension to be installed in the browser. Note that --extension can be passed multiple times.
+      --spa                                        Convenient parameter to use if you test a SPA application: will automatically wait for X seconds after last network activity and use hash in file names. Read more: https://www.sitespeed.io/documentation/sitespeed.io/spa/  [boolean] [default: false]
+      --cjs                                        Load scripting files that ends with .js as common js. Default (false) loads files as esmodules.  [boolean] [default: false]
+      --browserRestartTries                        If the browser fails to start, you can retry to start it this amount of times.  [number] [default: 3]
+      --preWarmServer                              Do pre test requests to the URL(s) that you want to test that is not measured. Do that to make sure your web server is ready to serve. The pre test requests is done with another browser instance that is closed after pre testing is done.  [boolean] [default: false]
+      --preWarmServerWaitTime                      The wait time before you start the real testing after your pre-cache request.  [number] [default: 5000]
+  -h, --help                                       Show help  [boolean]
+  -V, --version                                    Show version number  [boolean]
+
+Invalid values:
+  Argument: browser, Given: "brave", Choices: "chrome", "firefox", "edge", "safari"
+[2023-03-23 15:37:02] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:37:03] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 15:37:15] INFO: https://www.helpsaude.com TTFB: 304ms DOMContentLoaded: 536ms firstPaint: 530ms FCP: 530ms LCP: 627ms Load: 1.32s CLS:0.0004
+[2023-03-23 15:37:16] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 15:37:28] INFO: https://www.helpsaude.com TTFB: 153ms DOMContentLoaded: 353ms firstPaint: 346ms FCP: 346ms LCP: 395ms Load: 1.04s CLS:0.0004
+[2023-03-23 15:37:29] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 15:37:43] INFO: https://www.helpsaude.com TTFB: 180ms DOMContentLoaded: 433ms firstPaint: 434ms FCP: 434ms LCP: 490ms Load: 1.56s CLS:0.0004
+[2023-03-23 15:37:43] INFO: https://www.helpsaude.com 67 requests, TTFB: 180ms (σ66.00ms 31.0%), firstPaint: 434ms (σ75.00ms 17.2%), FCP: 434ms (σ75.00ms 17.2%), DOMContentLoaded: 433ms (σ75.00ms 17.0%), LCP: 490ms (σ95.00ms 18.9%), CLS: 0.0004 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.32s (σ211.00ms 16.2%) (3 runs)
+[2023-03-23 15:37:43] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Chrome\2023-03-23_15-37-01
+[2023-03-23 15:37:44] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 15:37:46] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 15:38:01] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:38:08] INFO: https://www.helpsaude.com TTFB: 321ms DOMContentLoaded: 729ms firstPaint: 717ms FCP: 716ms Load: 5.32s 
+[2023-03-23 15:38:10] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 15:38:25] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:38:32] INFO: https://www.helpsaude.com TTFB: 346ms DOMContentLoaded: 802ms firstPaint: 733ms FCP: 733ms Load: 5.24s 
+[2023-03-23 15:38:34] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 15:38:49] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:38:56] INFO: https://www.helpsaude.com TTFB: 457ms DOMContentLoaded: 826ms firstPaint: 818ms FCP: 816ms Load: 6.23s 
+[2023-03-23 15:38:56] INFO: https://www.helpsaude.com 169 requests, TTFB: 346ms (σ59.00ms 15.8%), firstPaint: 733ms (σ44.00ms 5.9%), FCP: 733ms (σ44.00ms 5.8%), DOMContentLoaded: 802ms (σ41.00ms 5.3%), Load: 5.32s (σ448.00ms 8.0%) (3 runs)
+[2023-03-23 15:38:56] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Firefox\2023-03-23_15-37-43
+[2023-03-23 15:38:58] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 15:38:58] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:38:58] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 15:39:11] INFO: https://www.helpsaude.com TTFB: 177ms DOMContentLoaded: 401ms firstPaint: 381ms FCP: 381ms LCP: 494ms Load: 1.04s CLS:0.0004
+[2023-03-23 15:39:11] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:39:11] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 15:39:24] INFO: https://www.helpsaude.com TTFB: 172ms DOMContentLoaded: 443ms firstPaint: 423ms FCP: 423ms LCP: 522ms Load: 1.17s CLS:0.0004
+[2023-03-23 15:39:24] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:39:24] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 15:39:37] INFO: https://www.helpsaude.com TTFB: 236ms DOMContentLoaded: 469ms firstPaint: 426ms FCP: 426ms LCP: 480ms Load: 1.09s CLS:0.0004
+[2023-03-23 15:39:37] INFO: https://www.helpsaude.com 66 requests, TTFB: 177ms (σ29.00ms 14.9%), firstPaint: 423ms (σ21.00ms 5.0%), FCP: 423ms (σ21.00ms 5.0%), DOMContentLoaded: 443ms (σ28.00ms 6.4%), LCP: 494ms (σ17.00ms 3.5%), CLS: 0.0004 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.09s (σ53.00ms 4.8%) (3 runs)
+[2023-03-23 15:39:37] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Edge\2023-03-23_15-38-57
+[2023-03-23 15:39:38] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:39:39] INFO: Testing url https://www.helpsaude.com iteration 1
+[2023-03-23 15:39:51] INFO: https://www.helpsaude.com TTFB: 157ms DOMContentLoaded: 551ms firstPaint: 545ms FCP: 545ms LCP: 567ms Load: 1.21s TBT: 2ms CLS:0.0004
+[2023-03-23 15:39:52] INFO: Testing url https://www.helpsaude.com iteration 2
+[2023-03-23 15:40:04] INFO: https://www.helpsaude.com TTFB: 133ms DOMContentLoaded: 357ms firstPaint: 358ms FCP: 358ms LCP: 406ms Load: 951ms CLS:0.0004
+[2023-03-23 15:40:05] INFO: Testing url https://www.helpsaude.com iteration 3
+[2023-03-23 15:40:17] INFO: https://www.helpsaude.com TTFB: 390ms DOMContentLoaded: 612ms firstPaint: 590ms FCP: 590ms LCP: 632ms Load: 1.24s CLS:0.0004
+[2023-03-23 15:40:17] INFO: https://www.helpsaude.com 66 requests, TTFB: 157ms (σ116.00ms 51.1%), firstPaint: 545ms (σ100.00ms 20.2%), FCP: 545ms (σ100.00ms 20.2%), DOMContentLoaded: 551ms (σ109.00ms 21.5%), LCP: 567ms (σ95.00ms 17.8%), CLS: 0.0004 (σ0.00 0%), TBT: 0ms (σ1.00ms 141.4%), Load: 1.21s (σ131.00ms 11.5%) (3 runs)
+[2023-03-23 15:40:17] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\helpsaude.com\Brave\2023-03-23_15-39-37
+[2023-03-23 15:40:19] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:40:19] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 15:40:33] INFO: https://www.pcwintech.com TTFB: 978ms DOMContentLoaded: 1.17s firstPaint: 1.18s FCP: 1.18s LCP: 1.18s Load: 1.82s CLS:0.1286
+[2023-03-23 15:40:34] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 15:40:46] INFO: https://www.pcwintech.com TTFB: 261ms DOMContentLoaded: 432ms firstPaint: 438ms FCP: 438ms LCP: 438ms Load: 1.08s CLS:0.1305
+[2023-03-23 15:40:47] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 15:40:59] INFO: https://www.pcwintech.com TTFB: 247ms DOMContentLoaded: 415ms firstPaint: 422ms FCP: 422ms LCP: 422ms Load: 964ms CLS:0.1305
+[2023-03-23 15:40:59] INFO: https://www.pcwintech.com 32 requests, TTFB: 261ms (σ341.00ms 68.9%), firstPaint: 438ms (σ355.00ms 52.2%), FCP: 438ms (σ355.00ms 52.2%), DOMContentLoaded: 432ms (σ353.00ms 52.4%), LCP: 438ms (σ355.00ms 52.2%), CLS: 0.1305 (σ0.00 0.7%), TBT: 0ms (σ0.00ms 0%), Load: 1.08s (σ381.00ms 29.5%) (3 runs)
+[2023-03-23 15:40:59] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Chrome\2023-03-23_15-40-18
+[2023-03-23 15:41:00] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 15:41:03] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 15:41:17] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:41:24] INFO: https://www.pcwintech.com TTFB: 334ms DOMContentLoaded: 627ms firstPaint: 701ms FCP: 700ms Load: 6.11s 
+[2023-03-23 15:41:26] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 15:41:41] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:41:47] INFO: https://www.pcwintech.com TTFB: 242ms DOMContentLoaded: 629ms firstPaint: 708ms FCP: 700ms Load: 6.62s 
+[2023-03-23 15:41:49] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 15:42:05] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:42:12] INFO: https://www.pcwintech.com TTFB: 594ms DOMContentLoaded: 882ms firstPaint: 969ms FCP: 966ms Load: 6.15s 
+[2023-03-23 15:42:12] INFO: https://www.pcwintech.com 114 requests, TTFB: 334ms (σ149.00ms 38.2%), firstPaint: 708ms (σ125.00ms 15.7%), FCP: 700ms (σ125.00ms 15.9%), DOMContentLoaded: 629ms (σ120.00ms 16.8%), Load: 6.15s (σ233.00ms 3.7%) (3 runs)
+[2023-03-23 15:42:12] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Firefox\2023-03-23_15-40-59
+[2023-03-23 15:42:13] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 15:42:13] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:42:14] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 15:42:28] INFO: https://www.pcwintech.com TTFB: 326ms DOMContentLoaded: 507ms firstPaint: 486ms FCP: 486ms LCP: 501ms Load: 1.67s CLS:0.1368
+[2023-03-23 15:42:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:42:29] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 15:42:41] INFO: https://www.pcwintech.com TTFB: 283ms DOMContentLoaded: 464ms firstPaint: 441ms FCP: 441ms LCP: 448ms Load: 1.05s CLS:0.1368
+[2023-03-23 15:42:41] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:42:42] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 15:42:54] INFO: https://www.pcwintech.com TTFB: 586ms DOMContentLoaded: 765ms firstPaint: 756ms FCP: 756ms LCP: 769ms Load: 1.43s CLS:0.1368
+[2023-03-23 15:42:54] INFO: https://www.pcwintech.com 42 requests, TTFB: 326ms (σ134.00ms 33.6%), firstPaint: 486ms (σ139.00ms 24.8%), FCP: 486ms (σ139.00ms 24.8%), DOMContentLoaded: 507ms (σ133.00ms 23.0%), LCP: 501ms (σ141.00ms 24.5%), CLS: 0.1368 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.43s (σ258.00ms 18.6%) (3 runs)
+[2023-03-23 15:42:54] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Edge\2023-03-23_15-42-12
+[2023-03-23 15:42:55] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:42:56] INFO: Testing url https://www.pcwintech.com iteration 1
+[2023-03-23 15:43:08] INFO: https://www.pcwintech.com TTFB: 274ms DOMContentLoaded: 440ms firstPaint: 449ms FCP: 449ms LCP: 449ms Load: 1.08s CLS:0.1305
+[2023-03-23 15:43:09] INFO: Testing url https://www.pcwintech.com iteration 2
+[2023-03-23 15:43:21] INFO: https://www.pcwintech.com TTFB: 274ms DOMContentLoaded: 445ms firstPaint: 453ms FCP: 453ms LCP: 453ms Load: 1.06s CLS:0.1286
+[2023-03-23 15:43:22] INFO: Testing url https://www.pcwintech.com iteration 3
+[2023-03-23 15:43:34] INFO: https://www.pcwintech.com TTFB: 308ms DOMContentLoaded: 478ms firstPaint: 486ms FCP: 486ms LCP: 486ms Load: 1.11s CLS:0.1305
+[2023-03-23 15:43:34] INFO: https://www.pcwintech.com 32 requests, TTFB: 274ms (σ16.00ms 5.6%), firstPaint: 453ms (σ17.00ms 3.6%), FCP: 453ms (σ17.00ms 3.6%), DOMContentLoaded: 445ms (σ17.00ms 3.7%), LCP: 453ms (σ17.00ms 3.6%), CLS: 0.1305 (σ0.00 0.7%), TBT: 0ms (σ0.00ms 0%), Load: 1.08s (σ23.00ms 2.1%) (3 runs)
+[2023-03-23 15:43:34] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\pcwintech.com\Brave\2023-03-23_15-42-54
+[2023-03-23 15:43:35] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:43:36] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 15:43:56] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 15:44:00] INFO: https://www.nwfdailynews.com TTFB: 199ms DOMContentLoaded: 362ms firstPaint: 383ms FCP: 383ms LCP: 383ms Load: 17.02s TBT: 102ms CLS:0.0948
+[2023-03-23 15:44:00] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 15:44:14] INFO: https://www.nwfdailynews.com TTFB: 174ms DOMContentLoaded: 329ms firstPaint: 350ms FCP: 350ms LCP: 350ms Load: 2.26s TBT: 68ms CLS:0.0948
+[2023-03-23 15:44:15] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 15:44:31] INFO: https://www.nwfdailynews.com TTFB: 232ms DOMContentLoaded: 391ms firstPaint: 413ms FCP: 413ms LCP: 436ms Load: 3.85s TBT: 75ms CLS:0.0948
+[2023-03-23 15:44:31] INFO: https://www.nwfdailynews.com 369 requests, TTFB: 199ms (σ24.00ms 11.8%), firstPaint: 383ms (σ26.00ms 6.7%), FCP: 383ms (σ26.00ms 6.7%), DOMContentLoaded: 362ms (σ25.00ms 7.0%), LCP: 383ms (σ35.00ms 9.1%), CLS: 0.0948 (σ0.00 0%), TBT: 75ms (σ15.00ms 17.9%), Load: 3.85s (σ6.62s 85.8%) (3 runs)
+[2023-03-23 15:44:31] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Chrome\2023-03-23_15-43-34
+[2023-03-23 15:44:32] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 15:44:35] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 15:44:55] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 15:44:56] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:45:09] INFO: https://www.nwfdailynews.com TTFB: 309ms DOMContentLoaded: 673ms firstPaint: 633ms FCP: 622ms Load: 19.66s 
+[2023-03-23 15:45:12] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 15:45:32] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 15:45:34] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:45:57] INFO: https://www.nwfdailynews.com TTFB: 171ms DOMContentLoaded: 512ms firstPaint: 477ms FCP: 473ms Load: 23.53s 
+[2023-03-23 15:45:59] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 15:46:19] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 15:46:20] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:46:33] INFO: https://www.nwfdailynews.com TTFB: 331ms DOMContentLoaded: 644ms firstPaint: 652ms FCP: 650ms Load: 19.59s 
+[2023-03-23 15:46:33] INFO: https://www.nwfdailynews.com 441 requests, TTFB: 309ms (σ71.00ms 26.2%), firstPaint: 633ms (σ78.00ms 13.3%), FCP: 622ms (σ78.00ms 13.4%), DOMContentLoaded: 644ms (σ70.00ms 11.5%), Load: 19.66s (σ1.84s 8.8%) (3 runs)
+[2023-03-23 15:46:33] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Firefox\2023-03-23_15-44-31
+[2023-03-23 15:46:34] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 15:46:34] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:46:35] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 15:46:49] INFO: https://www.nwfdailynews.com TTFB: 160ms DOMContentLoaded: 323ms firstPaint: 333ms FCP: 333ms LCP: 353ms Load: 2.28s TBT: 61ms CLS:0.0948
+[2023-03-23 15:46:49] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:46:50] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 15:47:04] INFO: https://www.nwfdailynews.com TTFB: 168ms DOMContentLoaded: 350ms firstPaint: 348ms FCP: 348ms LCP: 371ms Load: 2.42s TBT: 102ms 
+[2023-03-23 15:47:04] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:47:05] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 15:47:25] INFO: https://www.nwfdailynews.com TTFB: 171ms DOMContentLoaded: 346ms firstPaint: 346ms FCP: 346ms LCP: 355ms Load: 8.12s TBT: 69ms CLS:0.0948
+[2023-03-23 15:47:25] INFO: https://www.nwfdailynews.com 369 requests, TTFB: 168ms (σ5.00ms 2.8%), firstPaint: 346ms (σ7.00ms 1.9%), FCP: 346ms (σ7.00ms 1.9%), DOMContentLoaded: 346ms (σ12.00ms 3.5%), LCP: 355ms (σ8.00ms 2.2%), CLS: 0.0948 (σ0.04 70.7%), TBT: 69ms (σ18.00ms 22.9%), Load: 2.42s (σ2.72s 63.6%) (3 runs)
+[2023-03-23 15:47:26] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Edge\2023-03-23_15-46-33
+[2023-03-23 15:47:27] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:47:28] INFO: Testing url https://www.nwfdailynews.com iteration 1
+[2023-03-23 15:47:46] INFO: https://www.nwfdailynews.com TTFB: 126ms DOMContentLoaded: 281ms firstPaint: 304ms FCP: 304ms LCP: 304ms Load: 7.39s TBT: 66ms 
+[2023-03-23 15:47:47] INFO: Testing url https://www.nwfdailynews.com iteration 2
+[2023-03-23 15:48:07] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 15:48:10] INFO: https://www.nwfdailynews.com TTFB: 127ms DOMContentLoaded: 303ms firstPaint: 305ms FCP: 305ms LCP: 320ms Load: 20.87s TBT: 51ms CLS:0.0948
+[2023-03-23 15:48:11] INFO: Testing url https://www.nwfdailynews.com iteration 3
+[2023-03-23 15:48:30] INFO: https://www.nwfdailynews.com TTFB: 144ms DOMContentLoaded: 313ms firstPaint: 336ms FCP: 336ms LCP: 336ms Load: 7.45s TBT: 54ms CLS:0.0948
+[2023-03-23 15:48:30] INFO: https://www.nwfdailynews.com 379 requests, TTFB: 127ms (σ8.00ms 6.2%), firstPaint: 305ms (σ15.00ms 4.7%), FCP: 305ms (σ15.00ms 4.7%), DOMContentLoaded: 303ms (σ13.00ms 4.5%), LCP: 320ms (σ13.00ms 4.1%), CLS: 0.0948 (σ0.04 70.7%), TBT: 54ms (σ6.00ms 11.4%), Load: 7.45s (σ6.34s 53.3%) (3 runs)
+[2023-03-23 15:48:30] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\nwfdailynews.com\Brave\2023-03-23_15-47-26
+[2023-03-23 15:48:31] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 15:48:32] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 15:48:44] INFO: https://www.abhirupmukherjee.com TTFB: 632ms DOMContentLoaded: 930ms firstPaint: 887ms FCP: 887ms LCP: 1.01s Load: 1.15s CLS:0.4067
+[2023-03-23 15:48:45] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 15:48:57] INFO: https://www.abhirupmukherjee.com TTFB: 254ms DOMContentLoaded: 542ms firstPaint: 487ms FCP: 487ms LCP: 603ms Load: 704ms CLS:0.4067
+[2023-03-23 15:48:58] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 15:49:10] INFO: https://www.abhirupmukherjee.com TTFB: 203ms DOMContentLoaded: 558ms firstPaint: 495ms FCP: 495ms LCP: 607ms Load: 718ms CLS:0.0154
+[2023-03-23 15:49:10] INFO: https://www.abhirupmukherjee.com 35 requests, TTFB: 254ms (σ191.00ms 52.7%), firstPaint: 495ms (σ187.00ms 30.0%), FCP: 495ms (σ187.00ms 30.0%), DOMContentLoaded: 558ms (σ179.00ms 26.5%), LCP: 607ms (σ189.00ms 25.6%), CLS: 0.4067 (σ0.18 66.8%), TBT: 0ms (σ0.00ms 0%), Load: 718ms (σ205.00ms 23.9%) (3 runs)
+[2023-03-23 15:49:10] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\abhirupmukherjee.com\Chrome\2023-03-23_15-48-30
+[2023-03-23 15:49:12] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 15:49:14] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 15:49:24] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:49:29] INFO: https://www.abhirupmukherjee.com TTFB: 263ms DOMContentLoaded: 825ms firstPaint: 795ms FCP: 766ms Load: 1.33s 
+[2023-03-23 15:49:31] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 15:49:41] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:49:46] INFO: https://www.abhirupmukherjee.com TTFB: 474ms DOMContentLoaded: 1.10s firstPaint: 1.14s FCP: 1.13s Load: 1.56s 
+[2023-03-23 15:49:49] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 15:50:00] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 15:50:05] INFO: https://www.abhirupmukherjee.com TTFB: 460ms DOMContentLoaded: 1.14s firstPaint: 1.10s FCP: 1.05s Load: 1.68s 
+[2023-03-23 15:50:05] INFO: https://www.abhirupmukherjee.com 39 requests, TTFB: 460ms (σ96.00ms 24.1%), firstPaint: 1.10s (σ155.00ms 15.3%), FCP: 1.05s (σ157.00ms 16.0%), DOMContentLoaded: 1.10s (σ139.00ms 13.6%), Load: 1.56s (σ145.00ms 9.5%) (3 runs)
+[2023-03-23 15:50:05] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\abhirupmukherjee.com\Firefox\2023-03-23_15-49-10
+[2023-03-23 15:50:06] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 15:50:06] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 15:50:07] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 15:51:37] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:03:38] INFO: URL failed to load, trying 5 more time(s): script timeout
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+[2023-03-23 16:03:54] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:07:39] INFO: URL failed to load, trying 4 more time(s): script timeout
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+[2023-03-23 16:07:55] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:11:40] INFO: URL failed to load, trying 3 more time(s): script timeout
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+[2023-03-23 16:11:56] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:15:41] INFO: URL failed to load, trying 2 more time(s): script timeout
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+[2023-03-23 16:15:57] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:19:42] INFO: URL failed to load, trying 1 more time(s): script timeout
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+[2023-03-23 16:19:58] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:23:43] INFO: URL failed to load, trying 0 more time(s): script timeout
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+[2023-03-23 16:23:43] ERROR: Could not load URL https://www.abhirupmukherjee.com ScriptTimeoutError: script timeout
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+  (Session info: headless MicrosoftEdge=111.0.1661.51)
+    at Object.throwDecodedError (C:\Users\17862\AppData\Roaming\npm\node_modules\browsertime\node_modules\selenium-webdriver\lib\error.js:524:15)
+    at parseHttpResponse (C:\Users\17862\AppData\Roaming\npm\node_modules\browsertime\node_modules\selenium-webdriver\lib\http.js:587:13)
+    at Executor.execute (C:\Users\17862\AppData\Roaming\npm\node_modules\browsertime\node_modules\selenium-webdriver\lib\http.js:515:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Driver.execute (C:\Users\17862\AppData\Roaming\npm\node_modules\browsertime\node_modules\selenium-webdriver\lib\webdriver.js:745:17)
+    at async SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:281:11)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 16:23:43] ERROR: UrlLoadError: Failed to load https://www.abhirupmukherjee.com
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 16:23:43] INFO: https://www.abhirupmukherjee.com 
+[2023-03-23 16:23:43] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:23:44] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 16:23:58] INFO: https://www.abhirupmukherjee.com TTFB: 2.97s DOMContentLoaded: 3.27s firstPaint: 3.19s FCP: 3.19s LCP: 3.36s Load: 3.43s CLS:0.4074
+[2023-03-23 16:23:58] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:23:59] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 16:24:11] INFO: https://www.abhirupmukherjee.com TTFB: 322ms DOMContentLoaded: 608ms firstPaint: 536ms FCP: 536ms LCP: 673ms Load: 761ms CLS:0.4067
+[2023-03-23 16:24:11] ERROR: Error running browsertime TypeError: Cannot read properties of undefined (reading 'response')
+    at getDocumentRequests (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:34:18)
+    at getFinalURL (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:40:20)
+    at getMainDocumentTimings (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:200:22)
+    at Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:339:23)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 16:24:12] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:24:13] INFO: Testing url https://www.abhirupmukherjee.com iteration 1
+[2023-03-23 16:24:25] INFO: https://www.abhirupmukherjee.com TTFB: 217ms DOMContentLoaded: 525ms firstPaint: 460ms FCP: 460ms LCP: 586ms Load: 704ms CLS:0.4067
+[2023-03-23 16:24:26] INFO: Testing url https://www.abhirupmukherjee.com iteration 2
+[2023-03-23 16:24:38] INFO: https://www.abhirupmukherjee.com TTFB: 253ms DOMContentLoaded: 592ms firstPaint: 541ms FCP: 541ms LCP: 617ms Load: 780ms CLS:0.3778
+[2023-03-23 16:24:38] INFO: Testing url https://www.abhirupmukherjee.com iteration 3
+[2023-03-23 16:24:50] INFO: https://www.abhirupmukherjee.com TTFB: 383ms DOMContentLoaded: 805ms firstPaint: 601ms FCP: 601ms LCP: 865ms Load: 961ms CLS:0.4067
+[2023-03-23 16:24:50] INFO: https://www.abhirupmukherjee.com 35 requests, TTFB: 253ms (σ71.00ms 25.1%), firstPaint: 541ms (σ58.00ms 10.8%), FCP: 541ms (σ58.00ms 10.8%), DOMContentLoaded: 592ms (σ119.00ms 18.6%), LCP: 617ms (σ125.00ms 18.1%), CLS: 0.4067 (σ0.01 3.4%), TBT: 0ms (σ0.00ms 0%), Load: 780ms (σ108.00ms 13.2%) (3 runs)
+[2023-03-23 16:24:50] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\abhirupmukherjee.com\Brave\2023-03-23_16-24-11
+[2023-03-23 16:24:51] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:24:52] INFO: Testing url https://www.thaqalain.ir iteration 1
+[2023-03-23 16:25:04] INFO: https://www.thaqalain.ir TTFB: 1.32s DOMContentLoaded: 1.33s firstPaint: 1.33s FCP: 1.33s LCP: 1.33s Load: 1.33s 
+[2023-03-23 16:25:04] INFO: Testing url https://www.thaqalain.ir iteration 2
+[2023-03-23 16:25:16] INFO: https://www.thaqalain.ir TTFB: 1.02s DOMContentLoaded: 1.04s firstPaint: 1.05s FCP: 1.05s LCP: 1.05s Load: 1.04s 
+[2023-03-23 16:25:17] INFO: Testing url https://www.thaqalain.ir iteration 3
+[2023-03-23 16:25:29] INFO: https://www.thaqalain.ir TTFB: 1.49s DOMContentLoaded: 1.50s firstPaint: 1.51s FCP: 1.51s LCP: 1.51s Load: 1.50s 
+[2023-03-23 16:25:29] INFO: https://www.thaqalain.ir 1 requests, TTFB: 1.32s (σ190.00ms 14.9%), firstPaint: 1.33s (σ189.00ms 14.6%), FCP: 1.33s (σ189.00ms 14.6%), DOMContentLoaded: 1.33s (σ190.00ms 14.7%), LCP: 1.33s (σ189.00ms 14.6%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 1.33s (σ190.00ms 14.7%) (3 runs)
+[2023-03-23 16:25:29] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\thaqalain.ir\Chrome\2023-03-23_16-24-50
+[2023-03-23 16:25:30] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 16:25:32] INFO: Testing url https://www.thaqalain.ir iteration 1
+[2023-03-23 16:25:52] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:25:52] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:26:02] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 16:26:02] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 16:26:03] INFO: https://www.thaqalain.ir 
+[2023-03-23 16:26:05] INFO: Testing url https://www.thaqalain.ir iteration 2
+[2023-03-23 16:26:25] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:26:25] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:26:35] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 16:26:35] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 16:26:36] INFO: https://www.thaqalain.ir 
+[2023-03-23 16:26:38] INFO: Testing url https://www.thaqalain.ir iteration 3
+[2023-03-23 16:26:58] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:26:58] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:27:08] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 16:27:08] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 16:27:09] INFO: https://www.thaqalain.ir 
+[2023-03-23 16:27:09] INFO: https://www.thaqalain.ir 
+[2023-03-23 16:27:09] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\thaqalain.ir\Firefox\2023-03-23_16-25-29
+[2023-03-23 16:27:10] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 16:27:10] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:27:11] INFO: Testing url https://www.thaqalain.ir iteration 1
+[2023-03-23 16:27:23] INFO: https://www.thaqalain.ir TTFB: 1.52s DOMContentLoaded: 1.54s firstPaint: 1.55s FCP: 1.55s LCP: 1.55s Load: 1.54s 
+[2023-03-23 16:27:23] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:27:23] INFO: Testing url https://www.thaqalain.ir iteration 2
+[2023-03-23 16:27:35] INFO: https://www.thaqalain.ir TTFB: 836ms DOMContentLoaded: 848ms firstPaint: 857ms FCP: 857ms LCP: 857ms Load: 849ms 
+[2023-03-23 16:27:35] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:27:36] INFO: Testing url https://www.thaqalain.ir iteration 3
+[2023-03-23 16:27:48] INFO: https://www.thaqalain.ir TTFB: 894ms DOMContentLoaded: 902ms firstPaint: 918ms FCP: 918ms LCP: 918ms Load: 902ms 
+[2023-03-23 16:27:48] INFO: https://www.thaqalain.ir 1 requests, TTFB: 894ms (σ312.00ms 28.8%), firstPaint: 918ms (σ314.00ms 28.3%), FCP: 918ms (σ314.00ms 28.3%), DOMContentLoaded: 902ms (σ315.00ms 28.7%), LCP: 918ms (σ314.00ms 28.3%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 902ms (σ314.00ms 28.7%) (3 runs)
+[2023-03-23 16:27:48] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\thaqalain.ir\Edge\2023-03-23_16-27-09
+[2023-03-23 16:27:49] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:27:49] INFO: Testing url https://www.thaqalain.ir iteration 1
+[2023-03-23 16:28:01] INFO: https://www.thaqalain.ir TTFB: 916ms DOMContentLoaded: 925ms firstPaint: 936ms FCP: 936ms LCP: 936ms Load: 925ms 
+[2023-03-23 16:28:02] INFO: Testing url https://www.thaqalain.ir iteration 2
+[2023-03-23 16:28:14] INFO: https://www.thaqalain.ir TTFB: 855ms DOMContentLoaded: 863ms firstPaint: 868ms FCP: 868ms LCP: 868ms Load: 863ms 
+[2023-03-23 16:28:15] INFO: Testing url https://www.thaqalain.ir iteration 3
+[2023-03-23 16:28:26] INFO: https://www.thaqalain.ir TTFB: 1.06s DOMContentLoaded: 1.07s firstPaint: 1.08s FCP: 1.08s LCP: 1.08s Load: 1.07s 
+[2023-03-23 16:28:26] INFO: https://www.thaqalain.ir 1 requests, TTFB: 916ms (σ85.00ms 9.0%), firstPaint: 936ms (σ91.00ms 9.4%), FCP: 936ms (σ91.00ms 9.4%), DOMContentLoaded: 925ms (σ87.00ms 9.1%), LCP: 936ms (σ91.00ms 9.4%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 925ms (σ87.00ms 9.1%) (3 runs)
+[2023-03-23 16:28:26] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\thaqalain.ir\Brave\2023-03-23_16-27-48
+[2023-03-23 16:28:27] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:28:28] INFO: Testing url https://www.educoins.io iteration 1
+[2023-03-23 16:28:48] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:30:10] INFO: https://www.educoins.io TTFB: 99.36s DOMContentLoaded: 99.51s firstPaint: 99.51s FCP: 99.51s LCP: 99.51s Load: 99.51s 
+[2023-03-23 16:30:11] INFO: Testing url https://www.educoins.io iteration 2
+[2023-03-23 16:30:31] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:31:52] INFO: https://www.educoins.io TTFB: 99.21s DOMContentLoaded: 99.42s firstPaint: 99.33s FCP: 99.33s LCP: 99.33s Load: 99.42s 
+[2023-03-23 16:31:53] INFO: Testing url https://www.educoins.io iteration 3
+[2023-03-23 16:32:13] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:33:35] INFO: https://www.educoins.io TTFB: 99.21s DOMContentLoaded: 99.71s firstPaint: 99.72s FCP: 99.72s LCP: 99.72s Load: 99.71s 
+[2023-03-23 16:33:35] INFO: https://www.educoins.io 1 requests, TTFB: 99.21s (σ71.00ms 0.1%), firstPaint: 99.51s (σ159.00ms 0.2%), FCP: 99.51s (σ159.00ms 0.2%), DOMContentLoaded: 99.51s (σ122.00ms 0.1%), LCP: 99.51s (σ159.00ms 0.2%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 99.51s (σ122.00ms 0.1%) (3 runs)
+[2023-03-23 16:33:35] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\educoins.io\Chrome\2023-03-23_16-28-27
+[2023-03-23 16:33:37] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 16:33:40] INFO: Testing url https://www.educoins.io iteration 1
+[2023-03-23 16:33:58] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:34:18] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:34:48] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:35:28] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:35:30] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:35:41] INFO: https://www.educoins.io TTFB: 99.34s DOMContentLoaded: 101.13s firstPaint: 101.08s FCP: 101.07s Load: 101.41s 
+[2023-03-23 16:35:49] INFO: Testing url https://www.educoins.io iteration 2
+[2023-03-23 16:36:07] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:36:27] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:36:58] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:37:38] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:37:39] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:37:44] INFO: https://www.educoins.io TTFB: 99.55s DOMContentLoaded: 100.24s firstPaint: 100.28s FCP: 100.27s Load: 100.28s 
+[2023-03-23 16:37:47] INFO: Testing url https://www.educoins.io iteration 3
+[2023-03-23 16:38:05] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:38:25] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:38:55] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:39:36] INFO: Will check again if the browser has navigated to the page
+[2023-03-23 16:39:37] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:39:47] INFO: https://www.educoins.io TTFB: 99.21s DOMContentLoaded: 100.10s firstPaint: 100.09s FCP: 100.09s Load: 100.43s 
+[2023-03-23 16:39:47] INFO: https://www.educoins.io 7 requests, TTFB: 99.34s (σ139.00ms 0.1%), firstPaint: 100.28s (σ427.00ms 0.4%), FCP: 100.27s (σ427.00ms 0.4%), DOMContentLoaded: 100.24s (σ453.00ms 0.5%), Load: 100.43s (σ502.00ms 0.5%) (3 runs)
+[2023-03-23 16:39:47] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\educoins.io\Firefox\2023-03-23_16-33-35
+[2023-03-23 16:39:51] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 16:39:52] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:39:54] INFO: Testing url https://www.educoins.io iteration 1
+[2023-03-23 16:40:14] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:41:37] INFO: https://www.educoins.io TTFB: 99.50s DOMContentLoaded: 99.93s firstPaint: 99.94s FCP: 99.94s LCP: 99.94s Load: 99.94s 
+[2023-03-23 16:41:37] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:41:40] INFO: Testing url https://www.educoins.io iteration 2
+[2023-03-23 16:42:00] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:43:22] INFO: https://www.educoins.io TTFB: 99.41s DOMContentLoaded: 99.61s firstPaint: 99.61s FCP: 99.61s LCP: 99.61s Load: 99.61s 
+[2023-03-23 16:43:22] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:43:23] INFO: Testing url https://www.educoins.io iteration 3
+[2023-03-23 16:43:43] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:45:05] INFO: https://www.educoins.io TTFB: 99.30s DOMContentLoaded: 99.48s firstPaint: 99.49s FCP: 99.49s LCP: 99.49s Load: 99.49s 
+[2023-03-23 16:45:05] INFO: https://www.educoins.io 2 requests, TTFB: 99.41s (σ82.00ms 0.1%), firstPaint: 99.61s (σ192.00ms 0.2%), FCP: 99.61s (σ192.00ms 0.2%), DOMContentLoaded: 99.61s (σ189.00ms 0.2%), LCP: 99.61s (σ192.00ms 0.2%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 99.61s (σ190.00ms 0.2%) (3 runs)
+[2023-03-23 16:45:05] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\educoins.io\Edge\2023-03-23_16-39-47
+[2023-03-23 16:45:06] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:45:07] INFO: Testing url https://www.educoins.io iteration 1
+[2023-03-23 16:45:27] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:46:49] INFO: https://www.educoins.io TTFB: 99.38s DOMContentLoaded: 99.56s firstPaint: 99.56s FCP: 99.56s LCP: 99.56s Load: 99.56s 
+[2023-03-23 16:46:50] INFO: Testing url https://www.educoins.io iteration 2
+[2023-03-23 16:47:10] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:48:32] INFO: https://www.educoins.io TTFB: 99.25s DOMContentLoaded: 99.45s firstPaint: 99.45s FCP: 99.45s LCP: 99.45s Load: 99.46s 
+[2023-03-23 16:48:33] INFO: Testing url https://www.educoins.io iteration 3
+[2023-03-23 16:48:53] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:50:15] INFO: https://www.educoins.io TTFB: 99.21s DOMContentLoaded: 99.40s firstPaint: 99.40s FCP: 99.40s LCP: 99.40s Load: 99.40s 
+[2023-03-23 16:50:15] INFO: https://www.educoins.io 2 requests, TTFB: 99.25s (σ73.00ms 0.1%), firstPaint: 99.45s (σ68.00ms 0.1%), FCP: 99.45s (σ68.00ms 0.1%), DOMContentLoaded: 99.45s (σ66.00ms 0.1%), LCP: 99.45s (σ68.00ms 0.1%), CLS: 0 (σ0.00 0%), TBT: 0ms (σ0.00ms 0%), Load: 99.46s (σ66.00ms 0.1%) (3 runs)
+[2023-03-23 16:50:15] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\educoins.io\Brave\2023-03-23_16-45-05
+[2023-03-23 16:50:18] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:50:19] INFO: Testing url https://www.lingxing.com iteration 1
+[2023-03-23 16:50:39] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:50:42] INFO: https://www.lingxing.com TTFB: 1.96s DOMContentLoaded: 4.30s firstPaint: 3.72s FCP: 3.72s LCP: 3.72s Load: 13.01s TBT: 808ms CLS:0.0897
+[2023-03-23 16:50:43] INFO: Testing url https://www.lingxing.com iteration 2
+[2023-03-23 16:51:03] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:51:06] INFO: https://www.lingxing.com TTFB: 943ms DOMContentLoaded: 2.57s firstPaint: 1.89s FCP: 1.89s LCP: 1.89s Load: 11.63s TBT: 496ms CLS:0.0891
+[2023-03-23 16:51:06] INFO: Testing url https://www.lingxing.com iteration 3
+[2023-03-23 16:51:26] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:51:29] INFO: https://www.lingxing.com TTFB: 1.98s DOMContentLoaded: 3.46s firstPaint: 2.83s FCP: 2.83s LCP: 2.83s Load: 11.91s TBT: 1.14s CLS:0.0879
+[2023-03-23 16:51:29] INFO: https://www.lingxing.com 167 requests, TTFB: 1.96s (σ483.00ms 29.7%), firstPaint: 2.83s (σ747.00ms 26.6%), FCP: 2.83s (σ747.00ms 26.6%), DOMContentLoaded: 3.46s (σ706.00ms 20.5%), LCP: 2.83s (σ747.00ms 26.6%), CLS: 0.0891 (σ0.00 0.8%), TBT: 808ms (σ261.00ms 32.1%), Load: 11.91s (σ597.00ms 4.9%) (3 runs)
+[2023-03-23 16:51:29] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\lingxing.com\Chrome\2023-03-23_16-50-16
+[2023-03-23 16:51:32] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 16:51:39] INFO: Testing url https://www.lingxing.com iteration 1
+[2023-03-23 16:51:59] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:52:03] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:52:17] INFO: https://www.lingxing.com TTFB: 2.83s DOMContentLoaded: 14.11s firstPaint: 4.00s FCP: 4.00s Load: 27.42s 
+[2023-03-23 16:52:22] INFO: Testing url https://www.lingxing.com iteration 2
+[2023-03-23 16:52:42] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:52:44] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:52:56] INFO: https://www.lingxing.com TTFB: 2.08s DOMContentLoaded: 9.46s firstPaint: 3.22s FCP: 3.22s Load: 25.61s 
+[2023-03-23 16:53:01] INFO: Testing url https://www.lingxing.com iteration 3
+[2023-03-23 16:53:22] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:53:23] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:53:38] INFO: https://www.lingxing.com TTFB: 1.20s DOMContentLoaded: 8.86s firstPaint: 2.62s FCP: 2.62s Load: 24.24s 
+[2023-03-23 16:53:38] INFO: https://www.lingxing.com 164 requests, TTFB: 2.08s (σ665.00ms 32.6%), firstPaint: 3.22s (σ564.00ms 17.2%), FCP: 3.22s (σ564.00ms 17.2%), DOMContentLoaded: 9.46s (σ2.35s 21.7%), Load: 25.61s (σ1.30s 5.1%) (3 runs)
+[2023-03-23 16:53:38] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\lingxing.com\Firefox\2023-03-23_16-51-30
+[2023-03-23 16:53:40] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 16:53:40] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:53:41] INFO: Testing url https://www.lingxing.com iteration 1
+[2023-03-23 16:54:01] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:54:04] INFO: https://www.lingxing.com TTFB: 1.07s DOMContentLoaded: 3.13s firstPaint: 2.38s FCP: 2.38s LCP: 2.38s Load: 12.28s TBT: 1.14s CLS:0.1116
+[2023-03-23 16:54:04] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:54:05] INFO: Testing url https://www.lingxing.com iteration 2
+[2023-03-23 16:54:25] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:54:28] INFO: https://www.lingxing.com TTFB: 1.09s DOMContentLoaded: 2.63s firstPaint: 2.08s FCP: 2.08s LCP: 2.08s Load: 11.63s TBT: 790ms CLS:0.0885
+[2023-03-23 16:54:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:54:29] INFO: Testing url https://www.lingxing.com iteration 3
+[2023-03-23 16:54:49] INFO: https://www.lingxing.com TTFB: 1.12s DOMContentLoaded: 2.66s firstPaint: 1.95s FCP: 1.95s LCP: 1.95s Load: 9.11s TBT: 834ms CLS:0.0896
+[2023-03-23 16:54:49] INFO: https://www.lingxing.com 167 requests, TTFB: 1.09s (σ18.00ms 1.7%), firstPaint: 2.08s (σ181.00ms 8.5%), FCP: 2.08s (σ181.00ms 8.5%), DOMContentLoaded: 2.66s (σ228.00ms 8.1%), LCP: 2.08s (σ181.00ms 8.5%), CLS: 0.0896 (σ0.01 11.0%), TBT: 834ms (σ156.00ms 16.9%), Load: 11.63s (σ1.37s 12.4%) (3 runs)
+[2023-03-23 16:54:49] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\lingxing.com\Edge\2023-03-23_16-53-38
+[2023-03-23 16:54:51] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:54:52] INFO: Testing url https://www.lingxing.com iteration 1
+[2023-03-23 16:55:12] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:55:18] INFO: https://www.lingxing.com TTFB: 840ms DOMContentLoaded: 2.56s firstPaint: 1.88s FCP: 1.88s LCP: 1.88s Load: 12.06s TBT: 919ms CLS:0.0887
+[2023-03-23 16:55:20] INFO: Testing url https://www.lingxing.com iteration 2
+[2023-03-23 16:55:40] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:55:43] INFO: https://www.lingxing.com TTFB: 1.07s DOMContentLoaded: 4.47s firstPaint: 2.83s FCP: 2.83s LCP: 2.83s Load: 14.87s TBT: 3.64s CLS:0.0532
+[2023-03-23 16:55:43] INFO: Testing url https://www.lingxing.com iteration 3
+[2023-03-23 16:56:04] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:56:06] INFO: https://www.lingxing.com TTFB: 1.06s DOMContentLoaded: 3.10s firstPaint: 2.22s FCP: 2.22s LCP: 2.22s Load: 11.61s TBT: 1.25s CLS:0.1115
+[2023-03-23 16:56:06] INFO: https://www.lingxing.com 167 requests, TTFB: 1.06s (σ106.00ms 10.7%), firstPaint: 2.22s (σ395.00ms 17.1%), FCP: 2.22s (σ395.00ms 17.1%), DOMContentLoaded: 3.10s (σ806.00ms 23.9%), LCP: 2.22s (σ395.00ms 17.1%), CLS: 0.0887 (σ0.02 28.4%), TBT: 1.25s (σ1.21s 62.4%), Load: 12.06s (σ1.44s 11.2%) (3 runs)
+[2023-03-23 16:56:07] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\lingxing.com\Brave\2023-03-23_16-54-49
+[2023-03-23 16:56:09] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:56:11] INFO: Testing url https://www.summit.news iteration 1
+[2023-03-23 16:56:25] INFO: https://www.summit.news TTFB: 551ms DOMContentLoaded: 2.59s firstPaint: 1.60s FCP: 1.60s LCP: 1.61s Load: 3.01s TBT: 299ms CLS:0.2544
+[2023-03-23 16:56:25] INFO: Testing url https://www.summit.news iteration 2
+[2023-03-23 16:56:38] INFO: https://www.summit.news TTFB: 543ms DOMContentLoaded: 949ms firstPaint: 884ms FCP: 884ms LCP: 888ms Load: 1.49s CLS:0.2544
+[2023-03-23 16:56:39] INFO: Testing url https://www.summit.news iteration 3
+[2023-03-23 16:56:53] INFO: https://www.summit.news TTFB: 458ms DOMContentLoaded: 1.22s firstPaint: 899ms FCP: 899ms LCP: 943ms Load: 1.69s CLS:0.2546
+[2023-03-23 16:56:53] INFO: https://www.summit.news 114 requests, TTFB: 543ms (σ42.00ms 8.1%), firstPaint: 899ms (σ332.00ms 29.5%), FCP: 899ms (σ332.00ms 29.5%), DOMContentLoaded: 1.22s (σ720.00ms 45.4%), LCP: 943ms (σ329.00ms 28.7%), CLS: 0.2544 (σ0.00 0.0%), TBT: 0ms (σ141.00ms 141.4%), Load: 1.69s (σ673.00ms 32.6%) (3 runs)
+[2023-03-23 16:56:53] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\summit.news\Chrome\2023-03-23_16-56-07
+[2023-03-23 16:56:55] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 16:57:01] INFO: Testing url https://www.summit.news iteration 1
+[2023-03-23 16:57:19] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:57:29] INFO: https://www.summit.news TTFB: 653ms DOMContentLoaded: 4.46s firstPaint: 4.34s FCP: 4.33s Load: 9.17s 
+[2023-03-23 16:57:38] INFO: Testing url https://www.summit.news iteration 2
+[2023-03-23 16:57:58] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:58:08] INFO: https://www.summit.news TTFB: 940ms DOMContentLoaded: 5.54s firstPaint: 5.43s FCP: 5.42s Load: 11.47s 
+[2023-03-23 16:58:17] INFO: Testing url https://www.summit.news iteration 3
+[2023-03-23 16:58:38] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 16:58:38] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 16:58:53] INFO: https://www.summit.news TTFB: 1.10s DOMContentLoaded: 7.90s firstPaint: 7.85s FCP: 7.82s Load: 14.50s 
+[2023-03-23 16:58:54] INFO: https://www.summit.news 168 requests, TTFB: 940ms (σ185.00ms 20.6%), firstPaint: 5.43s (σ1.47s 25.0%), FCP: 5.42s (σ1.46s 24.9%), DOMContentLoaded: 5.54s (σ1.44s 24.1%), Load: 11.47s (σ2.18s 18.6%) (3 runs)
+[2023-03-23 16:58:54] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\summit.news\Firefox\2023-03-23_16-56-53
+[2023-03-23 16:58:58] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 16:58:58] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:59:00] INFO: Testing url https://www.summit.news iteration 1
+[2023-03-23 16:59:14] INFO: https://www.summit.news TTFB: 583ms DOMContentLoaded: 2.10s firstPaint: 968ms FCP: 968ms LCP: 1.11s Load: 2.48s TBT: 403ms CLS:0.1162
+[2023-03-23 16:59:14] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:59:14] INFO: Testing url https://www.summit.news iteration 2
+[2023-03-23 16:59:28] INFO: https://www.summit.news TTFB: 653ms DOMContentLoaded: 1.26s firstPaint: 912ms FCP: 912ms LCP: 1.01s Load: 1.59s TBT: 73ms CLS:0.2507
+[2023-03-23 16:59:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 16:59:29] INFO: Testing url https://www.summit.news iteration 3
+[2023-03-23 16:59:43] INFO: https://www.summit.news TTFB: 640ms DOMContentLoaded: 1.51s firstPaint: 969ms FCP: 969ms LCP: 1.14s Load: 1.58s TBT: 91ms CLS:0.2546
+[2023-03-23 16:59:43] INFO: https://www.summit.news 113 requests, TTFB: 640ms (σ30.00ms 4.9%), firstPaint: 968ms (σ27.00ms 2.8%), FCP: 968ms (σ27.00ms 2.8%), DOMContentLoaded: 1.51s (σ354.00ms 21.8%), LCP: 1.11s (σ55.00ms 5.1%), CLS: 0.2507 (σ0.06 31.1%), TBT: 91ms (σ151.00ms 80.2%), Load: 1.59s (σ422.00ms 22.4%) (3 runs)
+[2023-03-23 16:59:43] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\summit.news\Edge\2023-03-23_16-58-54
+[2023-03-23 16:59:46] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 16:59:47] INFO: Testing url https://www.summit.news iteration 1
+[2023-03-23 17:00:03] INFO: https://www.summit.news TTFB: 366ms DOMContentLoaded: 2.92s firstPaint: 1.29s FCP: 1.29s LCP: 1.58s Load: 3.10s TBT: 492ms CLS:0.2503
+[2023-03-23 17:00:03] INFO: Testing url https://www.summit.news iteration 2
+[2023-03-23 17:00:17] INFO: https://www.summit.news TTFB: 335ms DOMContentLoaded: 1.80s firstPaint: 984ms FCP: 984ms LCP: 1.02s Load: 1.95s TBT: 134ms CLS:0.2542
+[2023-03-23 17:00:18] INFO: Testing url https://www.summit.news iteration 3
+[2023-03-23 17:00:31] INFO: https://www.summit.news TTFB: 396ms DOMContentLoaded: 918ms firstPaint: 728ms FCP: 728ms LCP: 789ms Load: 1.49s TBT: 24ms CLS:0.2542
+[2023-03-23 17:00:31] INFO: https://www.summit.news 113 requests, TTFB: 366ms (σ25.00ms 6.8%), firstPaint: 984ms (σ228.00ms 22.9%), FCP: 984ms (σ228.00ms 22.9%), DOMContentLoaded: 1.80s (σ819.00ms 43.6%), LCP: 1.02s (σ331.00ms 29.3%), CLS: 0.2542 (σ0.00 0.7%), TBT: 134ms (σ200.00ms 92.2%), Load: 1.95s (σ679.00ms 31.1%) (3 runs)
+[2023-03-23 17:00:31] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\summit.news\Brave\2023-03-23_16-59-43
+[2023-03-23 17:00:33] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:00:34] INFO: Testing url https://www.changing-guard.com iteration 1
+[2023-03-23 17:00:47] INFO: https://www.changing-guard.com TTFB: 1.28s DOMContentLoaded: 1.58s firstPaint: 1.57s FCP: 1.57s LCP: 1.57s Load: 2.13s TBT: 24ms CLS:0.7374
+[2023-03-23 17:00:48] INFO: Testing url https://www.changing-guard.com iteration 2
+[2023-03-23 17:01:02] INFO: https://www.changing-guard.com TTFB: 1.01s DOMContentLoaded: 1.32s firstPaint: 1.30s FCP: 1.30s LCP: 1.30s Load: 2.07s TBT: 13ms CLS:0.7389
+[2023-03-23 17:01:03] INFO: Testing url https://www.changing-guard.com iteration 3
+[2023-03-23 17:01:17] INFO: https://www.changing-guard.com TTFB: 1.13s DOMContentLoaded: 1.44s firstPaint: 1.44s FCP: 1.44s LCP: 1.64s Load: 2.19s TBT: 26ms CLS:1.0862
+[2023-03-23 17:01:17] INFO: https://www.changing-guard.com 38 requests, TTFB: 1.13s (σ108.00ms 9.4%), firstPaint: 1.44s (σ110.00ms 7.6%), FCP: 1.44s (σ110.00ms 7.6%), DOMContentLoaded: 1.44s (σ107.00ms 7.4%), LCP: 1.57s (σ145.00ms 9.7%), CLS: 0.7389 (σ0.16 19.2%), TBT: 24ms (σ6.00ms 27.2%), Load: 2.13s (σ52.00ms 2.4%) (3 runs)
+[2023-03-23 17:01:17] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\changing-guard.com\Chrome\2023-03-23_17-00-31
+[2023-03-23 17:01:24] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:01:35] INFO: Testing url https://www.changing-guard.com iteration 1
+[2023-03-23 17:01:56] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:01:58] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:02:09] INFO: https://www.changing-guard.com TTFB: 1.21s DOMContentLoaded: 3.65s firstPaint: 3.84s FCP: 3.81s Load: 17.48s 
+[2023-03-23 17:02:18] INFO: Testing url https://www.changing-guard.com iteration 2
+[2023-03-23 17:02:38] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:02:40] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:02:50] INFO: https://www.changing-guard.com TTFB: 1.53s DOMContentLoaded: 4.22s firstPaint: 4.21s FCP: 4.21s Load: 16.84s 
+[2023-03-23 17:02:58] INFO: Testing url https://www.changing-guard.com iteration 3
+[2023-03-23 17:03:19] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:03:19] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:03:29] INFO: https://www.changing-guard.com TTFB: 1.21s DOMContentLoaded: 3.49s firstPaint: 3.49s FCP: 3.48s Load: 13.44s 
+[2023-03-23 17:03:29] INFO: https://www.changing-guard.com 112 requests, TTFB: 1.21s (σ151.00ms 11.5%), firstPaint: 3.84s (σ295.00ms 7.7%), FCP: 3.81s (σ296.00ms 7.7%), DOMContentLoaded: 3.65s (σ310.00ms 8.2%), Load: 16.84s (σ1.78s 11.2%) (3 runs)
+[2023-03-23 17:03:29] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\changing-guard.com\Firefox\2023-03-23_17-01-17
+[2023-03-23 17:03:35] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:03:35] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:03:36] INFO: Testing url https://www.changing-guard.com iteration 1
+[2023-03-23 17:03:50] INFO: https://www.changing-guard.com TTFB: 1.10s DOMContentLoaded: 1.42s firstPaint: 1.35s FCP: 1.35s LCP: 1.56s Load: 2.26s TBT: 77ms CLS:1.0828
+[2023-03-23 17:03:50] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:03:51] INFO: Testing url https://www.changing-guard.com iteration 2
+[2023-03-23 17:04:05] INFO: https://www.changing-guard.com TTFB: 1.07s DOMContentLoaded: 1.37s firstPaint: 1.30s FCP: 1.30s LCP: 1.53s Load: 2.17s TBT: 17ms CLS:0.7793
+[2023-03-23 17:04:05] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:04:06] INFO: Testing url https://www.changing-guard.com iteration 3
+[2023-03-23 17:04:20] INFO: https://www.changing-guard.com TTFB: 1.10s DOMContentLoaded: 1.38s firstPaint: 1.32s FCP: 1.32s LCP: 1.32s Load: 2.65s TBT: 160ms CLS:1.1408
+[2023-03-23 17:04:20] INFO: https://www.changing-guard.com 38 requests, TTFB: 1.10s (σ13.00ms 1.2%), firstPaint: 1.32s (σ21.00ms 1.6%), FCP: 1.32s (σ21.00ms 1.6%), DOMContentLoaded: 1.38s (σ22.00ms 1.6%), LCP: 1.53s (σ104.00ms 7.1%), CLS: 1 (σ0.00 0%), TBT: 77ms (σ59.00ms 69.2%), Load: 2.26s (σ210.00ms 8.9%) (3 runs)
+[2023-03-23 17:04:20] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\changing-guard.com\Edge\2023-03-23_17-03-30
+[2023-03-23 17:04:23] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:04:25] INFO: Testing url https://www.changing-guard.com iteration 1
+[2023-03-23 17:04:39] INFO: https://www.changing-guard.com TTFB: 783ms DOMContentLoaded: 1.16s firstPaint: 1.15s FCP: 1.15s LCP: 1.15s Load: 2.19s TBT: 263ms CLS:0.7374
+[2023-03-23 17:04:39] INFO: Testing url https://www.changing-guard.com iteration 2
+[2023-03-23 17:04:53] INFO: https://www.changing-guard.com TTFB: 781ms DOMContentLoaded: 1.08s firstPaint: 1.07s FCP: 1.07s LCP: 1.07s Load: 1.83s TBT: 43ms CLS:0.7389
+[2023-03-23 17:04:54] INFO: Testing url https://www.changing-guard.com iteration 3
+[2023-03-23 17:05:08] INFO: https://www.changing-guard.com TTFB: 760ms DOMContentLoaded: 1.05s firstPaint: 1.05s FCP: 1.05s LCP: 1.05s Load: 1.64s TBT: 86ms CLS:0.7374
+[2023-03-23 17:05:08] INFO: https://www.changing-guard.com 38 requests, TTFB: 781ms (σ10.00ms 1.3%), firstPaint: 1.07s (σ42.00ms 3.8%), FCP: 1.07s (σ42.00ms 3.8%), DOMContentLoaded: 1.08s (σ46.00ms 4.2%), LCP: 1.07s (σ42.00ms 3.8%), CLS: 0.7374 (σ0.00 0.1%), TBT: 86ms (σ95.00ms 72.9%), Load: 1.83s (σ229.00ms 12.1%) (3 runs)
+[2023-03-23 17:05:08] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\changing-guard.com\Brave\2023-03-23_17-04-20
+[2023-03-23 17:05:11] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:05:12] INFO: Testing url https://www.simplisticallyliving.com iteration 1
+[2023-03-23 17:05:29] INFO: https://www.simplisticallyliving.com TTFB: 541ms DOMContentLoaded: 2.42s firstPaint: 1.39s FCP: 1.39s LCP: 1.39s Load: 3.15s TBT: 1.62s 
+[2023-03-23 17:05:30] INFO: Testing url https://www.simplisticallyliving.com iteration 2
+[2023-03-23 17:05:45] INFO: https://www.simplisticallyliving.com TTFB: 400ms DOMContentLoaded: 748ms firstPaint: 654ms FCP: 654ms LCP: 654ms Load: 1.13s TBT: 452ms 
+[2023-03-23 17:05:46] INFO: Testing url https://www.simplisticallyliving.com iteration 3
+[2023-03-23 17:06:07] INFO: https://www.simplisticallyliving.com TTFB: 503ms DOMContentLoaded: 912ms firstPaint: 577ms FCP: 577ms LCP: 741ms Load: 1.62s TBT: 2.07s CLS:0.0015
+[2023-03-23 17:06:07] INFO: https://www.simplisticallyliving.com 363 requests, TTFB: 503ms (σ60.00ms 12.4%), firstPaint: 654ms (σ367.00ms 42.0%), FCP: 654ms (σ367.00ms 42.0%), DOMContentLoaded: 912ms (σ754.00ms 55.4%), LCP: 741ms (σ329.00ms 35.4%), CLS: 0 (σ0.00 0%), TBT: 1.62s (σ683.00ms 49.5%), Load: 1.62s (σ861.00ms 43.7%) (3 runs)
+[2023-03-23 17:06:07] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\simplisticallyliving.com\Chrome\2023-03-23_17-05-08
+[2023-03-23 17:06:10] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:06:18] INFO: Testing url https://www.simplisticallyliving.com iteration 1
+[2023-03-23 17:06:36] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:09:54] INFO: https://www.simplisticallyliving.com TTFB: 799ms DOMContentLoaded: 5.26s firstPaint: 3.58s FCP: 3.57s Load: 6.38s 
+[2023-03-23 17:10:01] INFO: Testing url https://www.simplisticallyliving.com iteration 2
+[2023-03-23 17:10:42] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:13:11] INFO: https://www.simplisticallyliving.com TTFB: 708ms DOMContentLoaded: 2.66s firstPaint: 2.02s FCP: 2.02s Load: 3.69s 
+[2023-03-23 17:13:19] INFO: Testing url https://www.simplisticallyliving.com iteration 3
+[2023-03-23 17:14:10] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:16:28] INFO: https://www.simplisticallyliving.com TTFB: 682ms DOMContentLoaded: 3.12s firstPaint: 2.29s FCP: 2.28s Load: 4.54s 
+[2023-03-23 17:16:28] INFO: https://www.simplisticallyliving.com 47 requests, TTFB: 708ms (σ50.00ms 6.9%), firstPaint: 2.29s (σ679.00ms 25.8%), FCP: 2.28s (σ681.00ms 26.0%), DOMContentLoaded: 3.12s (σ1.13s 30.8%), Load: 4.54s (σ1.12s 23.1%) (3 runs)
+[2023-03-23 17:16:28] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\simplisticallyliving.com\Firefox\2023-03-23_17-06-07
+[2023-03-23 17:16:31] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:16:31] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:16:32] INFO: Testing url https://www.simplisticallyliving.com iteration 1
+[2023-03-23 17:16:51] INFO: https://www.simplisticallyliving.com TTFB: 2.81s DOMContentLoaded: 3.11s firstPaint: 3.02s FCP: 3.02s LCP: 3.02s Load: 3.52s TBT: 922ms 
+[2023-03-23 17:16:51] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:16:52] INFO: Testing url https://www.simplisticallyliving.com iteration 2
+[2023-03-23 17:17:11] INFO: https://www.simplisticallyliving.com TTFB: 472ms DOMContentLoaded: 974ms firstPaint: 821ms FCP: 821ms LCP: 821ms Load: 1.45s TBT: 2.05s 
+[2023-03-23 17:17:11] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:17:11] INFO: Testing url https://www.simplisticallyliving.com iteration 3
+[2023-03-23 17:17:26] INFO: https://www.simplisticallyliving.com TTFB: 448ms DOMContentLoaded: 761ms firstPaint: 652ms FCP: 652ms LCP: 652ms Load: 1.14s TBT: 543ms 
+[2023-03-23 17:17:26] INFO: https://www.simplisticallyliving.com 398 requests, TTFB: 472ms (σ1.11s 89.2%), firstPaint: 821ms (σ1.08s 72.0%), FCP: 821ms (σ1.08s 72.0%), DOMContentLoaded: 974ms (σ1.06s 65.7%), LCP: 821ms (σ1.08s 72.0%), CLS: 0 (σ0.00 0%), TBT: 922ms (σ641.00ms 54.7%), Load: 1.45s (σ1.06s 51.9%) (3 runs)
+[2023-03-23 17:17:27] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\simplisticallyliving.com\Edge\2023-03-23_17-16-28
+[2023-03-23 17:17:29] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:17:30] INFO: Testing url https://www.simplisticallyliving.com iteration 1
+[2023-03-23 17:17:43] INFO: https://www.simplisticallyliving.com TTFB: 426ms DOMContentLoaded: 729ms firstPaint: 604ms FCP: 604ms LCP: 604ms Load: 1.18s TBT: 67ms 
+[2023-03-23 17:17:44] INFO: Testing url https://www.simplisticallyliving.com iteration 2
+[2023-03-23 17:17:56] INFO: https://www.simplisticallyliving.com TTFB: 664ms DOMContentLoaded: 994ms firstPaint: 790ms FCP: 790ms LCP: 876ms Load: 1.36s TBT: 76ms CLS:0.0039
+[2023-03-23 17:17:57] INFO: Testing url https://www.simplisticallyliving.com iteration 3
+[2023-03-23 17:18:10] INFO: https://www.simplisticallyliving.com TTFB: 433ms DOMContentLoaded: 746ms firstPaint: 515ms FCP: 515ms LCP: 662ms Load: 1.11s TBT: 148ms CLS:0.1565
+[2023-03-23 17:18:10] INFO: https://www.simplisticallyliving.com 66 requests, TTFB: 433ms (σ111.00ms 21.8%), firstPaint: 604ms (σ115.00ms 18.0%), FCP: 604ms (σ115.00ms 18.0%), DOMContentLoaded: 746ms (σ121.00ms 14.7%), LCP: 662ms (σ117.00ms 16.4%), CLS: 0.0039 (σ0.07 136.3%), TBT: 76ms (σ36.00ms 37.4%), Load: 1.18s (σ108.00ms 8.9%) (3 runs)
+[2023-03-23 17:18:10] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\simplisticallyliving.com\Brave\2023-03-23_17-17-27
+[2023-03-23 17:18:15] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:18:16] INFO: Testing url https://www.assemblarepconline.it iteration 1
+[2023-03-23 17:18:32] INFO: https://www.assemblarepconline.it TTFB: 1.49s DOMContentLoaded: 3.82s firstPaint: 2.96s FCP: 2.96s LCP: 3.46s Load: 3.94s TBT: 1.07s CLS:0.0235
+[2023-03-23 17:18:32] INFO: Testing url https://www.assemblarepconline.it iteration 2
+[2023-03-23 17:18:46] INFO: https://www.assemblarepconline.it TTFB: 919ms DOMContentLoaded: 2.53s firstPaint: 1.97s FCP: 1.97s LCP: 1.98s Load: 2.55s TBT: 61ms 
+[2023-03-23 17:18:47] INFO: Testing url https://www.assemblarepconline.it iteration 3
+[2023-03-23 17:19:01] INFO: https://www.assemblarepconline.it TTFB: 714ms DOMContentLoaded: 2.51s firstPaint: 1.97s FCP: 1.97s LCP: 1.98s Load: 2.54s TBT: 77ms 
+[2023-03-23 17:19:01] INFO: https://www.assemblarepconline.it 22 requests, TTFB: 919ms (σ330.00ms 31.6%), firstPaint: 1.97s (σ467.00ms 20.3%), FCP: 1.97s (σ467.00ms 20.3%), DOMContentLoaded: 2.53s (σ612.00ms 20.7%), LCP: 1.98s (σ697.00ms 28.2%), CLS: 0 (σ0.00 0%), TBT: 77ms (σ471.00ms 117.1%), Load: 2.55s (σ658.00ms 21.9%) (3 runs)
+[2023-03-23 17:19:01] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\assemblarepconline.it\Chrome\2023-03-23_17-18-10
+[2023-03-23 17:19:03] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:19:08] INFO: Testing url https://www.assemblarepconline.it iteration 1
+[2023-03-23 17:19:22] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:19:27] INFO: https://www.assemblarepconline.it TTFB: 1.01s DOMContentLoaded: 3.86s firstPaint: 3.17s FCP: 3.50s Load: 4.91s 
+[2023-03-23 17:19:32] INFO: Testing url https://www.assemblarepconline.it iteration 2
+[2023-03-23 17:19:45] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:19:51] INFO: https://www.assemblarepconline.it TTFB: 845ms DOMContentLoaded: 3.12s firstPaint: 2.45s FCP: 2.88s Load: 3.96s 
+[2023-03-23 17:19:56] INFO: Testing url https://www.assemblarepconline.it iteration 3
+[2023-03-23 17:20:09] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:20:14] INFO: https://www.assemblarepconline.it TTFB: 753ms DOMContentLoaded: 3.08s firstPaint: 2.52s FCP: 2.73s Load: 4.38s 
+[2023-03-23 17:20:14] INFO: https://www.assemblarepconline.it 23 requests, TTFB: 845ms (σ108.00ms 12.4%), firstPaint: 2.52s (σ324.00ms 12.0%), FCP: 2.88s (σ332.00ms 10.9%), DOMContentLoaded: 3.12s (σ362.00ms 10.8%), Load: 4.38s (σ391.00ms 8.8%) (3 runs)
+[2023-03-23 17:20:14] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\assemblarepconline.it\Firefox\2023-03-23_17-19-01
+[2023-03-23 17:20:17] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:20:17] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:20:18] INFO: Testing url https://www.assemblarepconline.it iteration 1
+[2023-03-23 17:20:32] INFO: https://www.assemblarepconline.it TTFB: 976ms DOMContentLoaded: 2.63s firstPaint: 1.85s FCP: 1.85s LCP: 1.97s Load: 2.65s TBT: 23ms CLS:0.0232
+[2023-03-23 17:20:32] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:20:33] INFO: Testing url https://www.assemblarepconline.it iteration 2
+[2023-03-23 17:20:46] INFO: https://www.assemblarepconline.it TTFB: 675ms DOMContentLoaded: 2.27s firstPaint: 1.56s FCP: 1.56s LCP: 1.73s Load: 2.29s TBT: 64ms CLS:0.0232
+[2023-03-23 17:20:46] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:20:47] INFO: Testing url https://www.assemblarepconline.it iteration 3
+[2023-03-23 17:21:01] INFO: https://www.assemblarepconline.it TTFB: 632ms DOMContentLoaded: 2.21s firstPaint: 1.59s FCP: 1.59s LCP: 1.72s Load: 2.23s TBT: 49ms CLS:0.0232
+[2023-03-23 17:21:01] INFO: https://www.assemblarepconline.it 22 requests, TTFB: 675ms (σ153.00ms 20.1%), firstPaint: 1.59s (σ129.00ms 7.7%), FCP: 1.59s (σ129.00ms 7.7%), DOMContentLoaded: 2.27s (σ184.00ms 7.8%), LCP: 1.73s (σ117.00ms 6.5%), CLS: 0.0232 (σ0.00 0%), TBT: 49ms (σ17.00ms 37.4%), Load: 2.29s (σ187.00ms 7.8%) (3 runs)
+[2023-03-23 17:21:01] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\assemblarepconline.it\Edge\2023-03-23_17-20-14
+[2023-03-23 17:21:04] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:21:05] INFO: Testing url https://www.assemblarepconline.it iteration 1
+[2023-03-23 17:21:18] INFO: https://www.assemblarepconline.it TTFB: 654ms DOMContentLoaded: 2.39s firstPaint: 1.80s FCP: 1.80s LCP: 1.80s Load: 2.41s TBT: 66ms 
+[2023-03-23 17:21:19] INFO: Testing url https://www.assemblarepconline.it iteration 2
+[2023-03-23 17:21:33] INFO: https://www.assemblarepconline.it TTFB: 609ms DOMContentLoaded: 2.24s firstPaint: 1.68s FCP: 1.68s LCP: 1.68s Load: 2.26s TBT: 51ms 
+[2023-03-23 17:21:34] INFO: Testing url https://www.assemblarepconline.it iteration 3
+[2023-03-23 17:21:48] INFO: https://www.assemblarepconline.it TTFB: 582ms DOMContentLoaded: 2.24s firstPaint: 1.53s FCP: 1.53s LCP: 1.66s Load: 2.25s 
+[2023-03-23 17:21:48] INFO: https://www.assemblarepconline.it 22 requests, TTFB: 609ms (σ30.00ms 4.8%), firstPaint: 1.68s (σ107.00ms 6.4%), FCP: 1.68s (σ107.00ms 6.4%), DOMContentLoaded: 2.24s (σ72.00ms 3.1%), LCP: 1.68s (σ64.00ms 3.7%), CLS: 0 (σ0.00 0%), TBT: 51ms (σ28.00ms 72.4%), Load: 2.26s (σ74.00ms 3.2%) (3 runs)
+[2023-03-23 17:21:48] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\assemblarepconline.it\Brave\2023-03-23_17-21-01
+[2023-03-23 17:21:50] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:21:51] INFO: Testing url https://www.mcdonalds.fr iteration 1
+[2023-03-23 17:22:05] INFO: https://www.mcdonalds.fr TTFB: 451ms DOMContentLoaded: 984ms firstPaint: 945ms FCP: 945ms LCP: 945ms Load: 2.49s TBT: 639ms CLS:0.0088
+[2023-03-23 17:22:06] INFO: Testing url https://www.mcdonalds.fr iteration 2
+[2023-03-23 17:22:18] INFO: https://www.mcdonalds.fr TTFB: 208ms DOMContentLoaded: 969ms firstPaint: 627ms FCP: 627ms LCP: 703ms Load: 1.40s TBT: 788ms CLS:0.0035
+[2023-03-23 17:22:19] INFO: Testing url https://www.mcdonalds.fr iteration 3
+[2023-03-23 17:22:32] INFO: https://www.mcdonalds.fr TTFB: 172ms DOMContentLoaded: 857ms firstPaint: 586ms FCP: 586ms LCP: 586ms Load: 1.27s TBT: 807ms CLS:0.0028
+[2023-03-23 17:22:32] INFO: https://www.mcdonalds.fr 100 requests, TTFB: 208ms (σ124.00ms 44.7%), firstPaint: 627ms (σ160.00ms 22.3%), FCP: 627ms (σ160.00ms 22.3%), DOMContentLoaded: 969ms (σ57.00ms 6.0%), LCP: 703ms (σ149.00ms 20.1%), CLS: 0.0035 (σ0.00 52.2%), TBT: 788ms (σ75.00ms 10.1%), Load: 1.40s (σ548.00ms 31.9%) (3 runs)
+[2023-03-23 17:22:32] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\mcdonalds.fr\Chrome\2023-03-23_17-21-48
+[2023-03-23 17:22:37] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:22:51] INFO: Testing url https://www.mcdonalds.fr iteration 1
+[2023-03-23 17:23:07] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:23:19] INFO: https://www.mcdonalds.fr TTFB: 402ms DOMContentLoaded: 3.67s firstPaint: 3.63s FCP: 3.62s Load: 5.36s 
+[2023-03-23 17:23:23] INFO: Testing url https://www.mcdonalds.fr iteration 2
+[2023-03-23 17:23:36] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:23:46] INFO: https://www.mcdonalds.fr TTFB: 472ms DOMContentLoaded: 2.71s firstPaint: 2.68s FCP: 2.65s Load: 3.97s 
+[2023-03-23 17:23:52] INFO: Testing url https://www.mcdonalds.fr iteration 3
+[2023-03-23 17:24:07] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:24:15] INFO: https://www.mcdonalds.fr TTFB: 459ms DOMContentLoaded: 2.51s firstPaint: 2.38s FCP: 2.36s Load: 4.88s 
+[2023-03-23 17:24:15] INFO: https://www.mcdonalds.fr 84 requests, TTFB: 459ms (σ30.00ms 6.8%), firstPaint: 2.68s (σ534.00ms 18.4%), FCP: 2.65s (σ542.00ms 18.8%), DOMContentLoaded: 2.71s (σ504.00ms 17.0%), Load: 4.88s (σ575.00ms 12.1%) (3 runs)
+[2023-03-23 17:24:15] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\mcdonalds.fr\Firefox\2023-03-23_17-22-32
+[2023-03-23 17:24:18] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:24:18] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:24:19] INFO: Testing url https://www.mcdonalds.fr iteration 1
+[2023-03-23 17:24:31] INFO: https://www.mcdonalds.fr TTFB: 252ms DOMContentLoaded: 1.09s firstPaint: 645ms FCP: 645ms LCP: 737ms Load: 1.53s TBT: 954ms CLS:0.0042
+[2023-03-23 17:24:31] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:24:32] INFO: Testing url https://www.mcdonalds.fr iteration 2
+[2023-03-23 17:24:46] INFO: https://www.mcdonalds.fr TTFB: 217ms DOMContentLoaded: 1.11s firstPaint: 651ms FCP: 651ms LCP: 765ms Load: 1.58s TBT: 814ms CLS:0.0030
+[2023-03-23 17:24:46] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:24:47] INFO: Testing url https://www.mcdonalds.fr iteration 3
+[2023-03-23 17:24:59] INFO: https://www.mcdonalds.fr TTFB: 262ms DOMContentLoaded: 1.06s firstPaint: 617ms FCP: 617ms LCP: 708ms Load: 1.42s TBT: 639ms CLS:0.0030
+[2023-03-23 17:24:59] INFO: https://www.mcdonalds.fr 100 requests, TTFB: 252ms (σ19.00ms 7.9%), firstPaint: 645ms (σ15.00ms 2.3%), FCP: 645ms (σ15.00ms 2.3%), DOMContentLoaded: 1.09s (σ20.00ms 1.8%), LCP: 737ms (σ23.00ms 3.2%), CLS: 0.003 (σ0.00 15.6%), TBT: 814ms (σ129.00ms 16.1%), Load: 1.53s (σ64.00ms 4.2%) (3 runs)
+[2023-03-23 17:24:59] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\mcdonalds.fr\Edge\2023-03-23_17-24-15
+[2023-03-23 17:25:02] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:25:03] INFO: Testing url https://www.mcdonalds.fr iteration 1
+[2023-03-23 17:25:17] INFO: https://www.mcdonalds.fr TTFB: 612ms DOMContentLoaded: 1.51s firstPaint: 1.12s FCP: 1.12s LCP: 1.12s Load: 1.96s TBT: 878ms CLS:0.0082
+[2023-03-23 17:25:18] INFO: Testing url https://www.mcdonalds.fr iteration 2
+[2023-03-23 17:25:30] INFO: https://www.mcdonalds.fr TTFB: 205ms DOMContentLoaded: 919ms firstPaint: 580ms FCP: 580ms LCP: 580ms Load: 1.35s TBT: 829ms CLS:0.0082
+[2023-03-23 17:25:31] INFO: Testing url https://www.mcdonalds.fr iteration 3
+[2023-03-23 17:25:43] INFO: https://www.mcdonalds.fr TTFB: 181ms DOMContentLoaded: 1.05s firstPaint: 565ms FCP: 565ms LCP: 653ms Load: 1.45s TBT: 846ms CLS:0.0042
+[2023-03-23 17:25:43] INFO: https://www.mcdonalds.fr 100 requests, TTFB: 205ms (σ198.00ms 59.4%), firstPaint: 580ms (σ260.00ms 34.4%), FCP: 580ms (σ260.00ms 34.4%), DOMContentLoaded: 1.05s (σ253.00ms 21.8%), LCP: 653ms (σ241.00ms 30.7%), CLS: 0.0082 (σ0.00 27.9%), TBT: 846ms (σ20.00ms 2.4%), Load: 1.45s (σ265.00ms 16.7%) (3 runs)
+[2023-03-23 17:25:43] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\mcdonalds.fr\Brave\2023-03-23_17-24-59
+[2023-03-23 17:25:46] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:25:47] INFO: Testing url https://www.fci.gov.in iteration 1
+[2023-03-23 17:26:07] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:26:10] INFO: https://www.fci.gov.in TTFB: 1.89s DOMContentLoaded: 3.85s firstPaint: 3.48s FCP: 3.48s LCP: 5.83s Load: 18.28s TBT: 1.18s CLS:0.9335
+[2023-03-23 17:26:11] INFO: Testing url https://www.fci.gov.in iteration 2
+[2023-03-23 17:26:30] INFO: https://www.fci.gov.in TTFB: 1.77s DOMContentLoaded: 3.72s firstPaint: 3.38s FCP: 3.38s LCP: 6.24s Load: 6.79s TBT: 1.19s CLS:0.9011
+[2023-03-23 17:26:31] INFO: Testing url https://www.fci.gov.in iteration 3
+[2023-03-23 17:26:52] INFO: https://www.fci.gov.in TTFB: 1.87s DOMContentLoaded: 3.42s firstPaint: 3.19s FCP: 3.19s LCP: 5.72s Load: 10.43s TBT: 1.21s CLS:0.9529
+[2023-03-23 17:26:52] INFO: https://www.fci.gov.in 125 requests, TTFB: 1.87s (σ50.00ms 2.7%), firstPaint: 3.38s (σ122.00ms 3.6%), FCP: 3.38s (σ122.00ms 3.6%), DOMContentLoaded: 3.72s (σ176.00ms 4.8%), LCP: 5.83s (σ223.00ms 3.8%), CLS: 0.9335 (σ0.02 2.3%), TBT: 1.19s (σ9.00ms 0.8%), Load: 10.43s (σ4.79s 40.5%) (3 runs)
+[2023-03-23 17:26:53] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\fci.gov.in\Chrome\2023-03-23_17-25-43
+[2023-03-23 17:26:55] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:26:58] INFO: Testing url https://www.fci.gov.in iteration 1
+[2023-03-23 17:27:19] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:27:19] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:27:29] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:27:29] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:27:31] INFO: https://www.fci.gov.in 
+[2023-03-23 17:27:37] INFO: Testing url https://www.fci.gov.in iteration 2
+[2023-03-23 17:27:57] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:27:57] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:28:07] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:28:07] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:28:10] INFO: https://www.fci.gov.in 
+[2023-03-23 17:28:14] INFO: Testing url https://www.fci.gov.in iteration 3
+[2023-03-23 17:28:35] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:28:35] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:28:45] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:28:45] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:28:47] INFO: https://www.fci.gov.in 
+[2023-03-23 17:28:47] INFO: https://www.fci.gov.in 
+[2023-03-23 17:28:47] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\fci.gov.in\Firefox\2023-03-23_17-26-53
+[2023-03-23 17:28:50] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:28:50] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:28:51] INFO: Testing url https://www.fci.gov.in iteration 1
+[2023-03-23 17:29:11] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:29:14] INFO: https://www.fci.gov.in TTFB: 1.84s DOMContentLoaded: 3.39s firstPaint: 3.14s FCP: 3.14s LCP: 14.22s TBT: 1.17s CLS:0.9159
+[2023-03-23 17:29:14] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:29:15] INFO: Testing url https://www.fci.gov.in iteration 2
+[2023-03-23 17:29:35] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:29:38] INFO: https://www.fci.gov.in TTFB: 1.59s DOMContentLoaded: 3.33s firstPaint: 3.19s FCP: 3.19s LCP: 11.00s Load: 18.71s TBT: 1.26s CLS:0.8960
+[2023-03-23 17:29:38] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:29:38] INFO: Testing url https://www.fci.gov.in iteration 3
+[2023-03-23 17:29:58] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:30:01] INFO: https://www.fci.gov.in TTFB: 1.81s DOMContentLoaded: 3.21s firstPaint: 3.05s FCP: 3.05s LCP: 10.15s Load: 15.25s TBT: 1.24s CLS:0.8954
+[2023-03-23 17:30:02] INFO: https://www.fci.gov.in 97 requests, TTFB: 1.81s (σ111.00ms 6.4%), firstPaint: 3.14s (σ58.00ms 1.9%), FCP: 3.14s (σ58.00ms 1.9%), DOMContentLoaded: 3.33s (σ74.00ms 2.2%), LCP: 11.00s (σ1.76s 14.9%), CLS: 0.896 (σ0.01 1.1%), TBT: 1.24s (σ37.00ms 3.0%), Load: 15.25s (σ8.13s 71.8%) (3 runs)
+[2023-03-23 17:30:02] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\fci.gov.in\Edge\2023-03-23_17-28-47
+[2023-03-23 17:30:04] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:30:05] INFO: Testing url https://www.fci.gov.in iteration 1
+[2023-03-23 17:30:25] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:30:28] INFO: https://www.fci.gov.in TTFB: 1.64s DOMContentLoaded: 3.40s firstPaint: 3.26s FCP: 3.26s LCP: 9.00s TBT: 1.59s CLS:0.9062
+[2023-03-23 17:30:29] INFO: Testing url https://www.fci.gov.in iteration 2
+[2023-03-23 17:30:49] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:30:52] INFO: https://www.fci.gov.in TTFB: 1.54s DOMContentLoaded: 3.07s firstPaint: 2.84s FCP: 2.84s LCP: 7.99s Load: 12.27s TBT: 1.32s CLS:0.1806
+[2023-03-23 17:30:53] INFO: Testing url https://www.fci.gov.in iteration 3
+[2023-03-23 17:31:13] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:31:15] INFO: https://www.fci.gov.in TTFB: 1.54s DOMContentLoaded: 3.06s firstPaint: 2.78s FCP: 2.95s LCP: 7.91s TBT: 1.18s CLS:0.0550
+[2023-03-23 17:31:15] INFO: https://www.fci.gov.in 97 requests, TTFB: 1.54s (σ47.00ms 3.0%), firstPaint: 2.84s (σ214.00ms 7.2%), FCP: 2.95s (σ179.00ms 5.9%), DOMContentLoaded: 3.07s (σ161.00ms 5.1%), LCP: 7.99s (σ496.00ms 6.0%), CLS: 0.1806 (σ0.38 98.6%), TBT: 1.32s (σ169.00ms 12.4%), Load: 0ms (σ5.79s 141.4%) (3 runs)
+[2023-03-23 17:31:16] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\fci.gov.in\Brave\2023-03-23_17-30-02
+[2023-03-23 17:31:18] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:31:19] INFO: Testing url https://www.tob.ru iteration 1
+[2023-03-23 17:31:39] INFO: https://www.tob.ru TTFB: 2.17s DOMContentLoaded: 3.81s firstPaint: 3.57s FCP: 3.57s LCP: 5.82s Load: 7.67s TBT: 679ms CLS:0.2162
+[2023-03-23 17:31:40] INFO: Testing url https://www.tob.ru iteration 2
+[2023-03-23 17:31:59] INFO: https://www.tob.ru TTFB: 1.54s DOMContentLoaded: 3.25s firstPaint: 3.10s FCP: 3.10s LCP: 5.72s Load: 7.16s TBT: 590ms CLS:0.2566
+[2023-03-23 17:31:59] INFO: Testing url https://www.tob.ru iteration 3
+[2023-03-23 17:32:18] INFO: https://www.tob.ru TTFB: 1.97s DOMContentLoaded: 4.05s firstPaint: 3.40s FCP: 3.40s LCP: 5.83s Load: 7.46s TBT: 751ms CLS:0.1193
+[2023-03-23 17:32:18] INFO: https://www.tob.ru 156 requests, TTFB: 1.97s (σ264.00ms 14.0%), firstPaint: 3.40s (σ195.00ms 5.8%), FCP: 3.40s (σ195.00ms 5.8%), DOMContentLoaded: 3.81s (σ337.00ms 9.1%), LCP: 5.82s (σ49.00ms 0.8%), CLS: 0.2162 (σ0.06 29.2%), TBT: 679ms (σ66.00ms 9.8%), Load: 7.46s (σ206.00ms 2.8%) (3 runs)
+[2023-03-23 17:32:18] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\tob.ru\Chrome\2023-03-23_17-31-16
+[2023-03-23 17:32:21] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:32:24] INFO: Testing url https://www.tob.ru iteration 1
+[2023-03-23 17:32:44] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:32:44] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:32:54] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:32:54] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:32:57] INFO: https://www.tob.ru 
+[2023-03-23 17:33:00] INFO: Testing url https://www.tob.ru iteration 2
+[2023-03-23 17:33:21] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:33:21] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:33:31] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:33:31] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:33:34] INFO: https://www.tob.ru 
+[2023-03-23 17:33:39] INFO: Testing url https://www.tob.ru iteration 3
+[2023-03-23 17:33:59] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:34:00] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:34:10] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:34:10] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:34:12] INFO: https://www.tob.ru 
+[2023-03-23 17:34:12] INFO: https://www.tob.ru 
+[2023-03-23 17:34:12] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\tob.ru\Firefox\2023-03-23_17-32-19
+[2023-03-23 17:34:14] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:34:14] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:34:15] INFO: Testing url https://www.tob.ru iteration 1
+[2023-03-23 17:34:35] INFO: https://www.tob.ru TTFB: 1.73s DOMContentLoaded: 3.49s firstPaint: 3.27s FCP: 3.27s LCP: 6.09s Load: 7.39s TBT: 1.61s CLS:0.2144
+[2023-03-23 17:34:35] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:34:35] INFO: Testing url https://www.tob.ru iteration 2
+[2023-03-23 17:34:54] INFO: https://www.tob.ru TTFB: 1.76s DOMContentLoaded: 3.57s firstPaint: 3.16s FCP: 3.16s LCP: 5.80s Load: 7.40s TBT: 1.21s CLS:0.5265
+[2023-03-23 17:34:54] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:34:55] INFO: Testing url https://www.tob.ru iteration 3
+[2023-03-23 17:35:14] INFO: https://www.tob.ru TTFB: 1.65s DOMContentLoaded: 3.43s firstPaint: 3.02s FCP: 3.02s LCP: 5.88s Load: 7.11s TBT: 1.25s CLS:0.6506
+[2023-03-23 17:35:14] INFO: https://www.tob.ru 155 requests, TTFB: 1.73s (σ44.00ms 2.6%), firstPaint: 3.16s (σ101.00ms 3.2%), FCP: 3.16s (σ101.00ms 3.2%), DOMContentLoaded: 3.49s (σ59.00ms 1.7%), LCP: 5.88s (σ120.00ms 2.0%), CLS: 0.5265 (σ0.18 39.6%), TBT: 1.25s (σ178.00ms 13.1%), Load: 7.39s (σ135.00ms 1.8%) (3 runs)
+[2023-03-23 17:35:14] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\tob.ru\Edge\2023-03-23_17-34-12
+[2023-03-23 17:35:17] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:35:17] INFO: Testing url https://www.tob.ru iteration 1
+[2023-03-23 17:35:36] INFO: https://www.tob.ru TTFB: 1.55s DOMContentLoaded: 3.51s firstPaint: 2.71s FCP: 2.71s LCP: 5.62s Load: 6.91s TBT: 611ms CLS:0.4018
+[2023-03-23 17:35:37] INFO: Testing url https://www.tob.ru iteration 2
+[2023-03-23 17:35:55] INFO: https://www.tob.ru TTFB: 1.57s DOMContentLoaded: 3.31s firstPaint: 3.00s FCP: 3.00s LCP: 5.38s Load: 7.15s TBT: 565ms CLS:0.3616
+[2023-03-23 17:35:56] INFO: Testing url https://www.tob.ru iteration 3
+[2023-03-23 17:36:15] INFO: https://www.tob.ru TTFB: 1.54s DOMContentLoaded: 3.47s firstPaint: 3.12s FCP: 3.12s LCP: 5.57s Load: 7.12s TBT: 661ms CLS:0.2156
+[2023-03-23 17:36:15] INFO: https://www.tob.ru 156 requests, TTFB: 1.55s (σ11.00ms 0.7%), firstPaint: 3.00s (σ169.00ms 5.7%), FCP: 3.00s (σ169.00ms 5.7%), DOMContentLoaded: 3.47s (σ88.00ms 2.6%), LCP: 5.57s (σ105.00ms 1.9%), CLS: 0.3616 (σ0.08 24.5%), TBT: 611ms (σ39.00ms 6.4%), Load: 7.12s (σ108.00ms 1.5%) (3 runs)
+[2023-03-23 17:36:15] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\tob.ru\Brave\2023-03-23_17-35-14
+[2023-03-23 17:36:17] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:36:18] INFO: Testing url https://www.expertscube.com iteration 1
+[2023-03-23 17:36:30] INFO: https://www.expertscube.com TTFB: 851ms DOMContentLoaded: 1.15s firstPaint: 1.26s FCP: 1.26s LCP: 1.28s Load: 1.37s TBT: 27ms CLS:0.0059
+[2023-03-23 17:36:31] INFO: Testing url https://www.expertscube.com iteration 2
+[2023-03-23 17:36:43] INFO: https://www.expertscube.com TTFB: 830ms DOMContentLoaded: 943ms firstPaint: 1.05s FCP: 1.05s LCP: 1.19s Load: 1.20s TBT: 53ms CLS:0.0059
+[2023-03-23 17:36:44] INFO: Testing url https://www.expertscube.com iteration 3
+[2023-03-23 17:36:57] INFO: https://www.expertscube.com TTFB: 848ms DOMContentLoaded: 1.08s firstPaint: 1.08s FCP: 1.08s LCP: 1.21s Load: 1.31s TBT: 51ms CLS:0.0054
+[2023-03-23 17:36:57] INFO: https://www.expertscube.com 10 requests, TTFB: 848ms (σ9.00ms 1.1%), firstPaint: 1.08s (σ93.00ms 8.2%), FCP: 1.08s (σ93.00ms 8.2%), DOMContentLoaded: 1.08s (σ86.00ms 8.1%), LCP: 1.21s (σ39.00ms 3.2%), CLS: 0.0059 (σ0.00 4.7%), TBT: 51ms (σ12.00ms 27.1%), Load: 1.31s (σ72.00ms 5.6%) (3 runs)
+[2023-03-23 17:36:57] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\expertscube.com\Chrome\2023-03-23_17-36-15
+[2023-03-23 17:36:59] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:37:02] INFO: Testing url https://www.expertscube.com iteration 1
+[2023-03-23 17:37:22] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:37:22] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:37:28] INFO: https://www.expertscube.com TTFB: 853ms DOMContentLoaded: 1.48s firstPaint: 1.58s FCP: 1.55s 
+[2023-03-23 17:37:33] INFO: Testing url https://www.expertscube.com iteration 2
+[2023-03-23 17:37:54] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:37:54] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:37:59] INFO: https://www.expertscube.com TTFB: 977ms DOMContentLoaded: 2.30s firstPaint: 2.49s FCP: 2.45s 
+[2023-03-23 17:38:05] INFO: Testing url https://www.expertscube.com iteration 3
+[2023-03-23 17:38:25] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:38:25] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:38:31] INFO: https://www.expertscube.com TTFB: 1.10s DOMContentLoaded: 2.34s firstPaint: 2.54s FCP: 2.50s 
+[2023-03-23 17:38:31] INFO: https://www.expertscube.com 11 requests, TTFB: 977ms (σ102.00ms 10.5%), firstPaint: 2.49s (σ442.00ms 20.1%), FCP: 2.45s (σ437.00ms 20.2%), DOMContentLoaded: 2.30s (σ397.00ms 19.5%), Load: 0ms (σ0.00ms 0%) (3 runs)
+[2023-03-23 17:38:31] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\expertscube.com\Firefox\2023-03-23_17-36-57
+[2023-03-23 17:38:33] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:38:33] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:38:34] INFO: Testing url https://www.expertscube.com iteration 1
+[2023-03-23 17:38:46] INFO: https://www.expertscube.com TTFB: 883ms DOMContentLoaded: 1.13s firstPaint: 1.13s FCP: 1.13s LCP: 1.27s Load: 1.39s TBT: 51ms CLS:0.0059
+[2023-03-23 17:38:46] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:38:47] INFO: Testing url https://www.expertscube.com iteration 2
+[2023-03-23 17:38:59] INFO: https://www.expertscube.com TTFB: 836ms DOMContentLoaded: 950ms firstPaint: 1.06s FCP: 1.06s LCP: 1.18s Load: 1.19s TBT: 21ms CLS:0.0054
+[2023-03-23 17:38:59] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:39:00] INFO: Testing url https://www.expertscube.com iteration 3
+[2023-03-23 17:39:12] INFO: https://www.expertscube.com TTFB: 897ms DOMContentLoaded: 1.05s firstPaint: 1.16s FCP: 1.16s LCP: 1.29s Load: 1.30s TBT: 36ms CLS:0.0059
+[2023-03-23 17:39:12] INFO: https://www.expertscube.com 10 requests, TTFB: 883ms (σ26.00ms 3.0%), firstPaint: 1.13s (σ42.00ms 3.7%), FCP: 1.13s (σ42.00ms 3.7%), DOMContentLoaded: 1.05s (σ74.00ms 7.1%), LCP: 1.27s (σ48.00ms 3.8%), CLS: 0.0059 (σ0.00 4.7%), TBT: 36ms (σ12.00ms 34.0%), Load: 1.30s (σ81.00ms 6.3%) (3 runs)
+[2023-03-23 17:39:12] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\expertscube.com\Edge\2023-03-23_17-38-31
+[2023-03-23 17:39:15] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:39:16] INFO: Testing url https://www.expertscube.com iteration 1
+[2023-03-23 17:39:28] INFO: https://www.expertscube.com TTFB: 753ms DOMContentLoaded: 1.07s firstPaint: 1.07s FCP: 1.07s LCP: 1.29s Load: 1.29s TBT: 36ms CLS:0.0059
+[2023-03-23 17:39:29] INFO: Testing url https://www.expertscube.com iteration 2
+[2023-03-23 17:39:41] INFO: https://www.expertscube.com TTFB: 820ms DOMContentLoaded: 920ms firstPaint: 1.03s FCP: 1.03s LCP: 1.05s Load: 1.15s TBT: 32ms CLS:0.0054
+[2023-03-23 17:39:42] INFO: Testing url https://www.expertscube.com iteration 3
+[2023-03-23 17:39:54] INFO: https://www.expertscube.com TTFB: 762ms DOMContentLoaded: 917ms firstPaint: 1.03s FCP: 1.03s LCP: 1.05s Load: 1.11s CLS:0.0059
+[2023-03-23 17:39:54] INFO: https://www.expertscube.com 10 requests, TTFB: 762ms (σ30.00ms 3.8%), firstPaint: 1.03s (σ19.00ms 1.8%), FCP: 1.03s (σ19.00ms 1.8%), DOMContentLoaded: 920ms (σ71.00ms 7.3%), LCP: 1.05s (σ111.00ms 9.8%), CLS: 0.0059 (σ0.00 4.7%), TBT: 32ms (σ16.00ms 71.1%), Load: 1.15s (σ78.00ms 6.6%) (3 runs)
+[2023-03-23 17:39:54] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\expertscube.com\Brave\2023-03-23_17-39-13
+[2023-03-23 17:39:56] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:39:57] INFO: Testing url https://www.takaratomymall.jp iteration 1
+[2023-03-23 17:40:07] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:08] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:09] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:10] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:11] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:12] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:12] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:40:12] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:40:12] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:40:13] INFO: Testing url https://www.takaratomymall.jp iteration 2
+[2023-03-23 17:40:22] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:23] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:24] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:25] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:27] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:28] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:28] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:40:28] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:40:28] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:40:28] INFO: Testing url https://www.takaratomymall.jp iteration 3
+[2023-03-23 17:40:38] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:39] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:40] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:41] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:42] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:43] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:40:43] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:40:43] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:40:43] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:40:43] ERROR: Error running browsertime TypeError: Cannot read properties of undefined (reading 'response')
+    at getDocumentRequests (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:34:18)
+    at getFinalURL (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:40:20)
+    at getMainDocumentTimings (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:200:22)
+    at Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:339:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:40:45] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:40:52] INFO: Testing url https://www.takaratomymall.jp iteration 1
+[2023-03-23 17:41:13] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:41:13] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:41:23] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:41:23] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:41:25] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:41:34] INFO: Testing url https://www.takaratomymall.jp iteration 2
+[2023-03-23 17:41:55] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:41:55] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:42:05] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:42:05] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:42:07] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:42:11] INFO: Testing url https://www.takaratomymall.jp iteration 3
+[2023-03-23 17:42:31] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:42:31] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:42:41] ERROR: Got an error from HAR Export Trigger {"error":"ReferenceError: HAR is not defined"}
+[2023-03-23 17:42:41] ERROR: TypeError: Cannot read properties of undefined (reading 'log')
+    at Firefox.afterPageCompleteCheck (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/firefox/webdriver/firefox.js:173:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.stop (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:298:17)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:42:43] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:42:43] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:42:43] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\takaratomymall.jp\Firefox\2023-03-23_17-40-43
+[2023-03-23 17:42:46] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:42:46] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:42:47] INFO: Testing url https://www.takaratomymall.jp iteration 1
+[2023-03-23 17:42:57] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:42:58] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:42:59] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:00] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:01] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:02] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:02] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:02] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:02] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:43:02] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:43:02] INFO: Testing url https://www.takaratomymall.jp iteration 2
+[2023-03-23 17:43:12] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:13] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:14] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:15] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:16] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:17] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:17] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:17] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:17] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:43:17] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:43:18] INFO: Testing url https://www.takaratomymall.jp iteration 3
+[2023-03-23 17:43:27] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:29] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:30] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:31] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:32] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:33] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:33] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:33] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:33] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:43:33] ERROR: Error running browsertime TypeError: Cannot read properties of undefined (reading 'response')
+    at getDocumentRequests (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:34:18)
+    at getFinalURL (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:40:20)
+    at getMainDocumentTimings (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:200:22)
+    at Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:339:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:34] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:43:36] INFO: Testing url https://www.takaratomymall.jp iteration 1
+[2023-03-23 17:43:45] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:46] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:47] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:48] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:49] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:50] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:43:51] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:51] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:43:51] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:43:51] INFO: Testing url https://www.takaratomymall.jp iteration 2
+[2023-03-23 17:44:01] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:02] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:03] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:04] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:05] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:06] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:06] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:44:06] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:44:06] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:44:07] INFO: Testing url https://www.takaratomymall.jp iteration 3
+[2023-03-23 17:44:17] INFO: URL failed to load, trying 5 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:18] INFO: URL failed to load, trying 4 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:19] INFO: URL failed to load, trying 3 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:20] INFO: URL failed to load, trying 2 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:21] INFO: URL failed to load, trying 1 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:22] INFO: URL failed to load, trying 0 more time(s): Could not load https://www.takaratomymall.jp is the web page down?
+[2023-03-23 17:44:22] ERROR: Could not load URL https://www.takaratomymall.jp UrlLoadError: Could not load https://www.takaratomymall.jp is the web page down?
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:295:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:44:22] ERROR: UrlLoadError: Failed to load https://www.takaratomymall.jp
+    at SeleniumRunner.loadAndWait (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/seleniumRunner.js:336:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Measure.start (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/command/measure.js:232:9)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/run.js:4:7
+    at async Iteration.run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/iteration.js:226:9)
+    at async Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:304:20)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:44:22] INFO: https://www.takaratomymall.jp 
+[2023-03-23 17:44:22] ERROR: Error running browsertime TypeError: Cannot read properties of undefined (reading 'response')
+    at getDocumentRequests (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:34:18)
+    at getFinalURL (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:40:20)
+    at getMainDocumentTimings (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/support/har/index.js:200:22)
+    at Engine.runByScript (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/lib/core/engine/index.js:339:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async run (file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:104:22)
+    at async file:///C:/Users/17862/AppData/Roaming/npm/node_modules/browsertime/bin/browsertime.js:195:1
+[2023-03-23 17:44:24] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:44:25] INFO: Testing url https://www.iperceramica.it iteration 1
+[2023-03-23 17:44:43] INFO: https://www.iperceramica.it TTFB: 1.40s DOMContentLoaded: 4.70s firstPaint: 2.57s FCP: 2.57s LCP: 3.89s Load: 5.11s TBT: 1.69s CLS:0.0759
+[2023-03-23 17:44:43] INFO: Testing url https://www.iperceramica.it iteration 2
+[2023-03-23 17:44:59] INFO: https://www.iperceramica.it TTFB: 589ms DOMContentLoaded: 2.87s firstPaint: 929ms FCP: 929ms LCP: 2.08s Load: 3.30s TBT: 1.51s CLS:0.1692
+[2023-03-23 17:44:59] INFO: Testing url https://www.iperceramica.it iteration 3
+[2023-03-23 17:45:15] INFO: https://www.iperceramica.it TTFB: 787ms DOMContentLoaded: 3.21s firstPaint: 1.55s FCP: 1.55s LCP: 2.44s Load: 3.62s TBT: 1.43s CLS:0.1632
+[2023-03-23 17:45:15] INFO: https://www.iperceramica.it 105 requests, TTFB: 787ms (σ343.00ms 37.2%), firstPaint: 1.55s (σ677.00ms 40.2%), FCP: 1.55s (σ677.00ms 40.2%), DOMContentLoaded: 3.21s (σ794.00ms 22.1%), LCP: 2.44s (σ783.00ms 27.9%), CLS: 0.1632 (σ0.04 31.3%), TBT: 1.51s (σ112.00ms 7.3%), Load: 3.62s (σ791.00ms 19.7%) (3 runs)
+[2023-03-23 17:45:15] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\iperceramica.it\Chrome\2023-03-23_17-44-22
+[2023-03-23 17:45:17] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:45:25] INFO: Testing url https://www.iperceramica.it iteration 1
+[2023-03-23 17:45:46] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:45:55] INFO: https://www.iperceramica.it TTFB: 1.07s DOMContentLoaded: 10.12s firstPaint: 5.53s FCP: 5.55s Load: 10.93s 
+[2023-03-23 17:46:02] INFO: Testing url https://www.iperceramica.it iteration 2
+[2023-03-23 17:46:23] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:46:23] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:46:32] INFO: https://www.iperceramica.it TTFB: 1.49s DOMContentLoaded: 10.36s firstPaint: 6.06s FCP: 6.05s Load: 11.09s 
+[2023-03-23 17:46:39] INFO: Testing url https://www.iperceramica.it iteration 3
+[2023-03-23 17:46:59] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:46:59] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:47:08] INFO: https://www.iperceramica.it TTFB: 947ms DOMContentLoaded: 10.96s firstPaint: 5.59s FCP: 5.59s Load: 11.58s 
+[2023-03-23 17:47:08] INFO: https://www.iperceramica.it 133 requests, TTFB: 1.07s (σ232.00ms 19.9%), firstPaint: 5.59s (σ234.00ms 4.1%), FCP: 5.59s (σ229.00ms 4.0%), DOMContentLoaded: 10.36s (σ354.00ms 3.4%), Load: 11.09s (σ278.00ms 2.5%) (3 runs)
+[2023-03-23 17:47:08] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\iperceramica.it\Firefox\2023-03-23_17-45-15
+[2023-03-23 17:47:11] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:47:11] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:47:12] INFO: Testing url https://www.iperceramica.it iteration 1
+[2023-03-23 17:47:28] INFO: https://www.iperceramica.it TTFB: 612ms DOMContentLoaded: 3.47s firstPaint: 1.65s FCP: 1.65s LCP: 2.63s Load: 4.14s TBT: 1.76s CLS:0.2459
+[2023-03-23 17:47:28] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:47:29] INFO: Testing url https://www.iperceramica.it iteration 2
+[2023-03-23 17:47:44] INFO: https://www.iperceramica.it TTFB: 584ms DOMContentLoaded: 2.95s firstPaint: 1.11s FCP: 1.11s LCP: 1.95s Load: 3.73s TBT: 1.64s CLS:0.0282
+[2023-03-23 17:47:44] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:47:45] INFO: Testing url https://www.iperceramica.it iteration 3
+[2023-03-23 17:48:01] INFO: https://www.iperceramica.it TTFB: 574ms DOMContentLoaded: 2.76s firstPaint: 1.08s FCP: 1.08s LCP: 2.52s Load: 3.56s TBT: 1.71s CLS:0.2317
+[2023-03-23 17:48:01] INFO: https://www.iperceramica.it 116 requests, TTFB: 584ms (σ16.00ms 2.7%), firstPaint: 1.11s (σ261.00ms 20.4%), FCP: 1.11s (σ261.00ms 20.4%), DOMContentLoaded: 2.95s (σ300.00ms 9.8%), LCP: 2.52s (σ296.00ms 12.5%), CLS: 0.2317 (σ0.10 59.0%), TBT: 1.71s (σ50.00ms 3.0%), Load: 3.73s (σ243.00ms 6.4%) (3 runs)
+[2023-03-23 17:48:01] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\iperceramica.it\Edge\2023-03-23_17-47-08
+[2023-03-23 17:48:04] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:48:05] INFO: Testing url https://www.iperceramica.it iteration 1
+[2023-03-23 17:48:20] INFO: https://www.iperceramica.it TTFB: 713ms DOMContentLoaded: 3.34s firstPaint: 1.24s FCP: 1.24s LCP: 2.51s Load: 3.78s TBT: 1.59s CLS:0.1829
+[2023-03-23 17:48:21] INFO: Testing url https://www.iperceramica.it iteration 2
+[2023-03-23 17:48:37] INFO: https://www.iperceramica.it TTFB: 551ms DOMContentLoaded: 3.02s firstPaint: 1.08s FCP: 1.08s LCP: 1.67s Load: 3.58s TBT: 1.65s CLS:0.2716
+[2023-03-23 17:48:38] INFO: Testing url https://www.iperceramica.it iteration 3
+[2023-03-23 17:48:53] INFO: https://www.iperceramica.it TTFB: 506ms DOMContentLoaded: 2.95s firstPaint: 777ms FCP: 777ms LCP: 1.70s Load: 3.39s TBT: 1.57s CLS:0.1861
+[2023-03-23 17:48:53] INFO: https://www.iperceramica.it 105 requests, TTFB: 551ms (σ89.00ms 15.1%), firstPaint: 1.08s (σ193.00ms 18.7%), FCP: 1.08s (σ193.00ms 18.7%), DOMContentLoaded: 3.02s (σ167.00ms 5.4%), LCP: 1.70s (σ389.00ms 19.8%), CLS: 0.1861 (σ0.04 19.2%), TBT: 1.59s (σ33.00ms 2.1%), Load: 3.58s (σ158.00ms 4.4%) (3 runs)
+[2023-03-23 17:48:53] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\iperceramica.it\Brave\2023-03-23_17-48-01
+[2023-03-23 17:48:56] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:48:57] INFO: Testing url https://www.chiyohoinari.or.jp iteration 1
+[2023-03-23 17:49:17] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:49:20] INFO: https://www.chiyohoinari.or.jp TTFB: 1.49s DOMContentLoaded: 3.06s firstPaint: 2.90s FCP: 2.90s LCP: 3.23s TBT: 17ms CLS:0.0174
+[2023-03-23 17:49:21] INFO: Testing url https://www.chiyohoinari.or.jp iteration 2
+[2023-03-23 17:49:41] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:49:44] INFO: https://www.chiyohoinari.or.jp TTFB: 763ms DOMContentLoaded: 2.25s firstPaint: 2.15s FCP: 2.15s LCP: 3.44s TBT: 6ms CLS:0.0174
+[2023-03-23 17:49:45] INFO: Testing url https://www.chiyohoinari.or.jp iteration 3
+[2023-03-23 17:50:05] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:50:08] INFO: https://www.chiyohoinari.or.jp TTFB: 632ms DOMContentLoaded: 2.03s firstPaint: 1.88s FCP: 1.88s LCP: 2.18s Load: 20.63s TBT: 22ms CLS:0.0174
+[2023-03-23 17:50:08] INFO: https://www.chiyohoinari.or.jp 52 requests, TTFB: 763ms (σ378.00ms 39.3%), firstPaint: 2.15s (σ430.00ms 18.6%), FCP: 2.15s (σ430.00ms 18.6%), DOMContentLoaded: 2.25s (σ442.00ms 18.1%), LCP: 3.23s (σ549.00ms 18.6%), CLS: 0.0174 (σ0.00 0%), TBT: 17ms (σ7.00ms 44.6%), Load: 0ms (σ9.73s 141.4%) (3 runs)
+[2023-03-23 17:50:08] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\chiyohoinari.or.jp\Chrome\2023-03-23_17-48-53
+[2023-03-23 17:50:11] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:50:17] INFO: Testing url https://www.chiyohoinari.or.jp iteration 1
+[2023-03-23 17:50:38] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:50:38] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:50:46] INFO: https://www.chiyohoinari.or.jp TTFB: 1.11s DOMContentLoaded: 3.56s firstPaint: 2.94s FCP: 3.38s Load: 19.92s 
+[2023-03-23 17:50:51] INFO: Testing url https://www.chiyohoinari.or.jp iteration 2
+[2023-03-23 17:51:12] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:51:12] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:51:20] INFO: https://www.chiyohoinari.or.jp TTFB: 1.48s DOMContentLoaded: 4.05s firstPaint: 3.07s FCP: 3.73s Load: 18.97s 
+[2023-03-23 17:51:26] INFO: Testing url https://www.chiyohoinari.or.jp iteration 3
+[2023-03-23 17:51:47] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:51:47] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:51:54] INFO: https://www.chiyohoinari.or.jp TTFB: 1.13s DOMContentLoaded: 3.47s firstPaint: 2.77s FCP: 3.25s Load: 18.18s 
+[2023-03-23 17:51:54] INFO: https://www.chiyohoinari.or.jp 53 requests, TTFB: 1.13s (σ169.00ms 13.6%), firstPaint: 2.94s (σ123.00ms 4.2%), FCP: 3.38s (σ204.00ms 5.9%), DOMContentLoaded: 3.56s (σ255.00ms 6.9%), Load: 18.97s (σ713.00ms 3.7%) (3 runs)
+[2023-03-23 17:51:54] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\chiyohoinari.or.jp\Firefox\2023-03-23_17-50-08
+[2023-03-23 17:51:57] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:51:57] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:51:58] INFO: Testing url https://www.chiyohoinari.or.jp iteration 1
+[2023-03-23 17:52:18] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:52:21] INFO: https://www.chiyohoinari.or.jp TTFB: 621ms DOMContentLoaded: 2.15s firstPaint: 1.74s FCP: 1.74s LCP: 3.25s Load: 19.43s TBT: 75ms CLS:0.0174
+[2023-03-23 17:52:21] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:52:22] INFO: Testing url https://www.chiyohoinari.or.jp iteration 2
+[2023-03-23 17:52:42] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:52:45] INFO: https://www.chiyohoinari.or.jp TTFB: 856ms DOMContentLoaded: 2.50s firstPaint: 2.17s FCP: 2.17s LCP: 2.70s TBT: 103ms CLS:0.0174
+[2023-03-23 17:52:45] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:52:46] INFO: Testing url https://www.chiyohoinari.or.jp iteration 3
+[2023-03-23 17:53:06] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:53:09] INFO: https://www.chiyohoinari.or.jp TTFB: 1.25s DOMContentLoaded: 3.12s firstPaint: 1.98s FCP: 1.98s LCP: 3.25s TBT: 59ms CLS:0.0174
+[2023-03-23 17:53:09] INFO: https://www.chiyohoinari.or.jp 51 requests, TTFB: 856ms (σ258.00ms 28.4%), firstPaint: 1.98s (σ177.00ms 9.0%), FCP: 1.98s (σ177.00ms 9.0%), DOMContentLoaded: 2.50s (σ399.00ms 15.4%), LCP: 3.25s (σ259.00ms 8.4%), CLS: 0.0174 (σ0.00 0%), TBT: 75ms (σ18.00ms 23.0%), Load: 0ms (σ9.16s 141.4%) (3 runs)
+[2023-03-23 17:53:09] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\chiyohoinari.or.jp\Edge\2023-03-23_17-51-54
+[2023-03-23 17:53:12] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:53:13] INFO: Testing url https://www.chiyohoinari.or.jp iteration 1
+[2023-03-23 17:53:33] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:53:36] INFO: https://www.chiyohoinari.or.jp TTFB: 635ms DOMContentLoaded: 2.34s firstPaint: 1.62s FCP: 1.62s LCP: 2.52s TBT: 6ms CLS:0.0174
+[2023-03-23 17:53:37] INFO: Testing url https://www.chiyohoinari.or.jp iteration 2
+[2023-03-23 17:53:57] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:54:02] INFO: https://www.chiyohoinari.or.jp TTFB: 1.25s DOMContentLoaded: 2.77s firstPaint: 2.09s FCP: 2.09s LCP: 3.27s Load: 22.71s TBT: 48ms CLS:0.0174
+[2023-03-23 17:54:03] INFO: Testing url https://www.chiyohoinari.or.jp iteration 3
+[2023-03-23 17:54:23] INFO: The page did not finished loading in 15000 ms. You can adjust the timeout by setting the --maxLoadTime option (in ms).
+[2023-03-23 17:54:26] INFO: https://www.chiyohoinari.or.jp TTFB: 591ms DOMContentLoaded: 2.07s firstPaint: 1.54s FCP: 1.54s LCP: 2.25s TBT: 24ms CLS:0.0174
+[2023-03-23 17:54:26] INFO: https://www.chiyohoinari.or.jp 51 requests, TTFB: 635ms (σ299.00ms 36.3%), firstPaint: 1.62s (σ242.00ms 13.9%), FCP: 1.62s (σ242.00ms 13.9%), DOMContentLoaded: 2.34s (σ291.00ms 12.2%), LCP: 2.52s (σ430.00ms 16.0%), CLS: 0.0174 (σ0.00 0%), TBT: 24ms (σ17.00ms 66.2%), Load: 0ms (σ10.71s 141.4%) (3 runs)
+[2023-03-23 17:54:26] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\chiyohoinari.or.jp\Brave\2023-03-23_17-53-09
+[2023-03-23 17:54:29] INFO: Running tests using Chrome - 3 iteration(s)
+[2023-03-23 17:54:30] INFO: Testing url https://www.quanterix.com iteration 1
+[2023-03-23 17:54:45] INFO: https://www.quanterix.com TTFB: 1.01s DOMContentLoaded: 2.18s firstPaint: 1.67s FCP: 1.67s LCP: 1.82s Load: 3.15s TBT: 298ms CLS:0.0019
+[2023-03-23 17:54:46] INFO: Testing url https://www.quanterix.com iteration 2
+[2023-03-23 17:55:00] INFO: https://www.quanterix.com TTFB: 549ms DOMContentLoaded: 1.58s firstPaint: 1.16s FCP: 1.16s LCP: 1.26s Load: 2.65s TBT: 275ms CLS:0.0001
+[2023-03-23 17:55:01] INFO: Testing url https://www.quanterix.com iteration 3
+[2023-03-23 17:55:15] INFO: https://www.quanterix.com TTFB: 537ms DOMContentLoaded: 1.54s firstPaint: 1.08s FCP: 1.08s LCP: 1.19s Load: 2.43s TBT: 269ms CLS:0.0001
+[2023-03-23 17:55:15] INFO: https://www.quanterix.com 132 requests, TTFB: 549ms (σ220.00ms 31.5%), firstPaint: 1.16s (σ261.00ms 20.1%), FCP: 1.16s (σ261.00ms 20.1%), DOMContentLoaded: 1.58s (σ291.00ms 16.5%), LCP: 1.26s (σ285.00ms 20.0%), CLS: 0.0001 (σ0.00 130.8%), TBT: 275ms (σ12.00ms 4.5%), Load: 2.65s (σ303.00ms 11.0%) (3 runs)
+[2023-03-23 17:55:15] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\quanterix.com\Chrome\2023-03-23_17-54-26
+[2023-03-23 17:55:18] INFO: Running tests using Firefox - 3 iteration(s)
+[2023-03-23 17:55:24] INFO: Testing url https://www.quanterix.com iteration 1
+[2023-03-23 17:55:44] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:55:50] INFO: https://www.quanterix.com TTFB: 948ms DOMContentLoaded: 4.62s firstPaint: 3.49s FCP: 3.15s Load: 11.49s 
+[2023-03-23 17:55:53] INFO: Testing url https://www.quanterix.com iteration 2
+[2023-03-23 17:56:08] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:56:13] INFO: https://www.quanterix.com TTFB: 501ms DOMContentLoaded: 1.60s firstPaint: 1.41s FCP: 1.33s Load: 6.28s 
+[2023-03-23 17:56:16] INFO: Testing url https://www.quanterix.com iteration 3
+[2023-03-23 17:56:29] INFO: Waiting on har-export-trigger to collect the HAR
+[2023-03-23 17:56:34] INFO: https://www.quanterix.com TTFB: 693ms DOMContentLoaded: 1.42s firstPaint: 1.37s FCP: 1.37s Load: 4.10s 
+[2023-03-23 17:56:34] INFO: https://www.quanterix.com 155 requests, TTFB: 693ms (σ183.00ms 25.6%), firstPaint: 1.41s (σ989.00ms 47.3%), FCP: 1.37s (σ847.00ms 43.5%), DOMContentLoaded: 1.60s (σ1.47s 57.6%), Load: 6.28s (σ3.10s 42.6%) (3 runs)
+[2023-03-23 17:56:34] INFO: Wrote data to ..\..\..\..\..\Fingerprinting\quanterix.com\Firefox\2023-03-23_17-55-15
+[2023-03-23 17:56:35] INFO: Running tests using Edge - 3 iteration(s)
+[2023-03-23 17:56:35] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:56:36] INFO: Testing url https://www.quanterix.com iteration 1
+[2023-03-23 17:56:50] INFO: https://www.quanterix.com TTFB: 631ms DOMContentLoaded: 1.11s firstPaint: 978ms FCP: 978ms LCP: 1.12s Load: 2.10s TBT: 13ms CLS:0.0116
+[2023-03-23 17:56:50] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:56:50] INFO: Testing url https://www.quanterix.com iteration 2
+[2023-03-23 17:57:04] INFO: https://www.quanterix.com TTFB: 587ms DOMContentLoaded: 1.17s firstPaint: 1.05s FCP: 1.05s LCP: 1.29s Load: 2.05s TBT: 18ms CLS:0.0064
+[2023-03-23 17:57:04] INFO: Using Edge is experimental at the moment and use the same configuration as for Chrome
+[2023-03-23 17:57:05] INFO: Testing url https://www.quanterix.com iteration 3
+[2023-03-23 17:57:19] INFO: https://www.quanterix.com TTFB: 565ms DOMContentLoaded: 1.06s firstPaint: 912ms FCP: 912ms LCP: 1.06s Load: 1.86s TBT: 39ms CLS:0.0103
+[2023-03-23 17:57:19] INFO: https://www.quanterix.com 131 requests, TTFB: 587ms (σ27.00ms 4.6%), firstPaint: 978ms (σ56.00ms 5.8%), FCP: 978ms (σ56.00ms 5.8%), DOMContentLoaded: 1.11s (σ46.00ms 4.1%), LCP: 1.12s (σ96.00ms 8.3%), CLS: 0.0103 (σ0.00 23.4%), TBT: 18ms (σ11.00ms 48.3%), Load: 2.05s (σ105.00ms 5.2%) (3 runs)
