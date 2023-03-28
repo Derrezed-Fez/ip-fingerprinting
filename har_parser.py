@@ -1,5 +1,7 @@
 import json, os
 from haralyzer import HarParser
+import math
+from collections import Counter
 
 LOG_FILEPATH = 'C:\\Users\\hacki\\ip-fingerprinting\\data\\input\\New Data Collection'
 
@@ -11,6 +13,26 @@ def convert_ip_to_int(ip:str):
 
 def sort_connections(conn):
     return conn[0]
+
+def information_entropy(visited_domains):
+    # Count the frequency of each unique domain in the visited_domains list
+    domain_freq = Counter(visited_domains)
+
+    # Calculate the total number of visited domains
+    total_domains = len(visited_domains)
+
+    # Calculate the information entropy for each domain
+    entropy_dict = {}
+
+    for domain, count in domain_freq.items():
+
+        probability = count / total_domains
+
+        entropy = -math.log2(probability)
+
+        entropy_dict[domain] = entropy
+
+    return entropy_dict
 
 def compile_fingerprints_and_traces(dir:str, domain:str):
     connections = list()
