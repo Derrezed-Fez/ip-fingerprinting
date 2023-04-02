@@ -2,8 +2,10 @@ import json, os
 from haralyzer import HarParser
 import math
 from collections import Counter
+import json
 
 LOG_FILEPATH = 'C:\\Users\\hacki\\ip-fingerprinting\\data\\input\\New Data Collection'
+ENTROPY_MAP = dict()
 
 def convert_ip_to_int(ip:str):
     octets = ip.split('.')
@@ -14,25 +16,23 @@ def convert_ip_to_int(ip:str):
 def sort_connections(conn):
     return conn[0]
 
-def information_entropy(visited_domains):
+def information_entropy(entropy_map:dict, domain_counter:int):
     # Count the frequency of each unique domain in the visited_domains list
-    domain_freq = Counter(visited_domains)
+    # domain_freq = Counter(visited_domains)
 
     # Calculate the total number of visited domains
-    total_domains = len(visited_domains)
+    #total_domains = len(visited_domains)
 
     # Calculate the information entropy for each domain
-    entropy_dict = {}
+    # entropy_dict = {}
 
-    for domain, count in domain_freq.items():
+    for browser, scores in entropy_map.items():
+        for domain, count in scores.items():
+            probability = count / domain_counter
+            entropy = abs(math.log2(probability))
+            entropy_map[browser][domain] = entropy
 
-        probability = count / total_domains
-
-        entropy = -math.log2(probability)
-
-        entropy_dict[domain] = entropy
-
-    return entropy_dict
+    return entropy_map
 
 def compile_fingerprints_and_traces(dir:str, domain:str):
     connections = list()
@@ -77,6 +77,14 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
                     if 'receive' in entry['timings'].keys() and 'serverIPAddress' in entry.keys():
                         connections.append((entry['timings']['receive'], convert_ip_to_int(entry['serverIPAddress'])))
                     if '_priority' in entry.keys() and 'serverIPAddress' in entry.keys():
+                        if browser in ENTROPY_MAP.keys():
+                            if convert_ip_to_int(entry['serverIPAddress']) in ENTROPY_MAP[browser].keys():
+                                ENTROPY_MAP[browser][convert_ip_to_int(entry['serverIPAddress'])] = ENTROPY_MAP[browser][convert_ip_to_int(entry['serverIPAddress'])] + 1
+                            else:
+                                ENTROPY_MAP[browser][convert_ip_to_int(entry['serverIPAddress'])] = 1
+                        else:
+                            ENTROPY_MAP[browser] = dict()
+                            ENTROPY_MAP[browser][convert_ip_to_int(entry['serverIPAddress'])] = 1
                         if entry['_priority'] == 'VeryHigh' or entry['_priority'] == 'High':
                             dom_loading.append(convert_ip_to_int(entry['serverIPAddress']))
                         elif entry['_priority'] == 'Medium':
@@ -101,14 +109,16 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
     return browser, ip_fingerprint, enhanced_ip_fingerprint
 
 if __name__ == '__main__':
+    domain_counter = 0
     chrome_basic_ip_fingerprints, firefox_basic_ip_fingerprints, edge_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
         open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w')
     chrome_enhanced_ip_fingerprints, firefox_enhanced_ip_fingerprints, edge_enhanced_ip_fingerprints = \
         open(os.path.join(LOG_FILEPATH, 'chrome_enhanced_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'firefox_enhanced_ip_fingerprints'), 'w'), \
         open(os.path.join(LOG_FILEPATH, 'edge_enhanced_ip_fingerprints'), 'w')
     for dir in os.listdir(LOG_FILEPATH):
-        if '.log' not in dir and 'fingerprints' not in dir and 'Network' not in dir:
+        if '.log' not in dir and 'fingerprints' not in dir and 'Network' not in dir and '.json' not in dir:
             for inner_dir in os.listdir(os.path.join(LOG_FILEPATH, dir)):
+                domain_counter += 1
                 browser, ip_fingerprint, enhanced_ip_fingerprint = compile_fingerprints_and_traces(os.path.join(LOG_FILEPATH, dir, inner_dir), dir)
                 if ip_fingerprint is not None:
                     if 'chrome' in browser:
@@ -123,3 +133,6 @@ if __name__ == '__main__':
     chrome_basic_ip_fingerprints.close()
     firefox_basic_ip_fingerprints.close()
     edge_basic_ip_fingerprints.close()
+    scores = information_entropy(ENTROPY_MAP, domain_counter)
+    with open(os.path.join(LOG_FILEPATH, 'entropy_scores.json'), 'w') as f:
+        json.dump(scores, f)
