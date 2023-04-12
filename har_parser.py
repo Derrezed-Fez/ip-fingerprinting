@@ -13,14 +13,22 @@ def sort_connections(conn):
     return conn[0]
 
 def compile_fingerprints_and_traces(dir:str, domain:str):
-    connections = list()
+    domain_connections = list()
+    ip_connections = list()
     browser = ''
     network_trace_filepath = os.path.join(LOG_FILEPATH, 'Network Traces')
+    
     if not os.path.isdir(network_trace_filepath):
         os.mkdir(network_trace_filepath)
+    
     domain_placed = False
+   
+    domain_fingerprint, enhanced_domain_fingerprint = domain.replace('www.', '') + ';', domain.replace('www.', '') + ';'
     ip_fingerprint, enhanced_ip_fingerprint = domain.replace('www.', '') + ';', domain.replace('www.', '') + ';'
-    secondary_reqs = list()
+ 
+    domain_secondary_reqs = list()
+    ip_secondary_reqs = list()
+   
     for file in os.listdir(dir):
         if '.json' in file:
             if 'edge' in file:
@@ -42,43 +50,72 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
                         if har_parser.match_request_type(entry, 'GET') or har_parser.match_request_type(entry, 'POST'):
                             try:
                                 if entry.url == 'https://' + domain + '/' and not domain_placed:
+                                    domain_fingerprint += (str([entry.url]) + ';')
                                     ip_fingerprint += (str([convert_ip_to_int(entry.serverAddress)]) + ';')
                                     domain_placed = True
                                 else: 
                                     if convert_ip_to_int(entry.serverAddress) not in secondary_reqs:
-                                        secondary_reqs.append(convert_ip_to_int(entry.serverAddress))
+                                        domain_secondary_reqs.append(entry.url)
+                                        ip_secondary_reqs.append(convert_ip_to_int(entry.serverAddress))
                             except:
                                 pass
                 # Enhanced Fingerprinting
-                dom_loading, dom_content_loaded, dom_content_complete = list(), list(), list()
+                domain_dom_loading, domain_dom_content_loaded, domain_dom_content_complete = list(), list(), list()
+                ip_dom_loading, ip_dom_content_loaded, ip_dom_content_complete = list(), list(), list()
                 for entry in har_parser.har_data['entries']:
                     if 'receive' in entry['timings'].keys() and 'serverIPAddress' in entry.keys():
-                        connections.append((entry['timings']['receive'], convert_ip_to_int(entry['serverIPAddress'])))
+                        domain_connections.append((entry['timings']['receive'], entry['url']))
+                        ip_connections.append((entry['timings']['receive'], convert_ip_to_int(entry['serverIPAddress'])))
                     if '_priority' in entry.keys() and 'serverIPAddress' in entry.keys():
                         if entry['_priority'] == 'VeryHigh' or entry['_priority'] == 'High':
-                            dom_loading.append(convert_ip_to_int(entry['serverIPAddress']))
+                            domain_dom_loading.append(entry['url'])
+                            ip_dom_loading.append(convert_ip_to_int(entry['serverIPAddress']))
                         elif entry['_priority'] == 'Medium':
-                            dom_content_loaded.append(convert_ip_to_int(entry['serverIPAddress']))
+                            domain_dom_content_loaded.append(entry['url'])
+                            ip_dom_content_loaded.append(convert_ip_to_int(entry['serverIPAddress']))
                         elif entry['_priority'] == 'Low':
-                            dom_content_complete.append(convert_ip_to_int(entry['serverIPAddress']))
-                enhanced_ip_fingerprint += str(dom_loading) + ';' + str(dom_content_loaded) + ';' + str(dom_content_complete)
-                # INSERT DOMAIN-Based Fingerprints HERE
-    with open(os.path.join(network_trace_filepath, browser + '_' + domain + '.txt'), 'w') as f:
-        f.write(str(connections.sort(key=sort_connections)) + '\n')
+                            domain_dom_content_complete.append(entry['url'])
+                            ip_dom_content_complete.append(convert_ip_to_int(entry['serverIPAddress']))
+ 
+                enhanced_domain_fingerprint += str(domain_dom_loading) + ';' + str(domain_dom_content_loaded) + ';' + str(domain_dom_content_complete)
+                enhanced_ip_fingerprint += str(ip_dom_loading) + ';' + str(ip_dom_content_loaded) + ';' + str(ip_dom_content_complete)
+
+
+    with open(os.path.join(domain_network_trace_filepath, 'domain_based_' + browser + '_' + domain + '.txt'), 'w') as f1:
+        f.write(str(domain_connections.sort(key=sort_connections)) + '\n')
+        if len(domain_fingerprint.split('[')) > 1:
+            f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(domain_secondary_reqs)}) + '\n')
+            f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_domain_fingerprint.split(';')[0], \
+                        2: enhanced_domain_fingerprint.split(';')[1], 3: enhanced_domain_fingerprint.split(';')[2]}))
+        else:
+            f1.write(str({0: [], 1: []}) + '\n')
+            f1.write(str({0: [], 1: [], 2: [], 3: []}))
+    if len(domain_secondary_reqs) > 0:
+        domain_fingerprint += str(domain_secondary_reqs)
+    else:
+        domain_fingerprint = None
+            
+    with open(os.path.join(network_trace_filepath, 'ip_based_' + browser + '_' + domain + '.txt'), 'w') as f:
+        f.write(str(ip_connections.sort(key=sort_connections)) + '\n')
         if len(ip_fingerprint.split('[')) > 1:
-            f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(secondary_reqs)}) + '\n')
+            f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(ip_secondary_reqs)}) + '\n')
             f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_ip_fingerprint.split(';')[0], \
                         2: enhanced_ip_fingerprint.split(';')[1], 3: enhanced_ip_fingerprint.split(';')[2]}))
         else:
             f.write(str({0: [], 1: []}) + '\n')
             f.write(str({0: [], 1: [], 2: [], 3: []}))
-    if len(secondary_reqs) > 0:
-        ip_fingerprint += str(secondary_reqs)
+    if len(ip_secondary_reqs) > 0:
+        ip_fingerprint += str(ip_secondary_reqs)
     else:
         ip_fingerprint = None
-    return browser, ip_fingerprint, enhanced_ip_fingerprint
+    return browser, domain_fingerprint, enhanced_domain_fingerprint, ip_fingerprint, enhanced_ip_fingerprint
 
 if __name__ == '__main__':
+
+    #chrome_domain_fingerprints, firefox_domain_fingerprints, edge_domain_fingerprints, brave_domain_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_domain_fingerprints'), 'w'), \
+    #    open(os.path.join(LOG_FILEPATH, 'firefox_domain_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_domain_fingerprints'), 'w'), \ 
+    #    open(os.path.join(LOG_FILEPATH, 'brave_domain_fingerprints'), 'w')
+
     chrome_basic_ip_fingerprints, firefox_basic_ip_fingerprints, edge_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
         open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w')
     chrome_enhanced_ip_fingerprints, firefox_enhanced_ip_fingerprints, edge_enhanced_ip_fingerprints = \
