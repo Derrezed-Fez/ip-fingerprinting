@@ -22,7 +22,7 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
         os.mkdir(network_trace_filepath)
     
     domain_placed = False
-    
+
     domain_fingerprint, enhanced_domain_fingerprint = domain.replace('www.', '') + ';', domain.replace('www.', '') + ';'
     ip_fingerprint, enhanced_ip_fingerprint = domain.replace('www.', '') + ';', domain.replace('www.', '') + ';'
  
@@ -82,7 +82,7 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
     if not os.path.exists(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints')):
         os.mkdir(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints'))
     with open(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints' , 'domain_based_' + browser + '_' + domain + '.txt'), 'w') as f1:
-        f1.write(str(domain_connections.sort(key=sort_connections)) + '\n')
+        f1.write(str(domain_connections) + '\n')
         if len(domain_fingerprint.split('[')) > 1:
             f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(domain_secondary_reqs)}) + '\n')
             f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_domain_fingerprint.split(';')[0], \
@@ -96,7 +96,7 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
         domain_fingerprint = None
             
     with open(os.path.join(network_trace_filepath, 'ip_based_' + browser + '_' + domain + '.txt'), 'w') as f:
-        f.write(str(ip_connections.sort(key=sort_connections)) + '\n')
+        f.write(str(ip_connections) + '\n')
         if len(ip_fingerprint.split('[')) > 1:
             f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(ip_secondary_reqs)}) + '\n')
             f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_ip_fingerprint.split(';')[0], \
