@@ -1,7 +1,7 @@
 import json, os
 from haralyzer import HarParser
 
-LOG_FILEPATH = 'F:\\IP Domain Fingerprinting\\New Data\\New Data Collection'
+LOG_FILEPATH = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\First Run'
 
 def convert_ip_to_int(ip:str):
     octets = ip.split('.')
