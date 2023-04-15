@@ -3,15 +3,20 @@ from haralyzer import HarParser
 import math
 from collections import Counter
 import json
+import socket
+from binascii import hexlify
 
 LOG_FILEPATH = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\First Run'
 ENTROPY_MAP = dict()
 
 def convert_ip_to_int(ip:str):
-    octets = ip.split('.')
-    if ip == '':
-        return ''
-    return (int(octets[0]) * (256**3)) + (int(octets[1]) * (256**2)) + (int(octets[2]) * 256) + int(octets[3])
+    if ':' in ip:
+        return int(hexlify(socket.inet_pton(socket.AF_INET6, ip)), 16)
+    else:
+        octets = ip.split('.')
+        if ip == '':
+            return ''
+        return (int(octets[0]) * (256**3)) + (int(octets[1]) * (256**2)) + (int(octets[2]) * 256) + int(octets[3])
 
 def sort_connections(conn):
     return conn[0]
@@ -143,11 +148,13 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
 if __name__ == '__main__':
     domain_counter = 0
 
-    chrome_basic_ip_fingerprints, firefox_basic_ip_fingerprints, edge_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
-        open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w')
-    chrome_enhanced_ip_fingerprints, firefox_enhanced_ip_fingerprints, edge_enhanced_ip_fingerprints = \
+    chrome_basic_ip_fingerprints, firefox_basic_ip_fingerprints, edge_basic_ip_fingerprints, brave_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
+        open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w'), \
+        open(os.path.join(LOG_FILEPATH, 'brave_basic_ip_fingerprints'), 'w')
+        
+    chrome_enhanced_ip_fingerprints, firefox_enhanced_ip_fingerprints, edge_enhanced_ip_fingerprints, brave_enhanced_ip_fingerprints = \
         open(os.path.join(LOG_FILEPATH, 'chrome_enhanced_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'firefox_enhanced_ip_fingerprints'), 'w'), \
-        open(os.path.join(LOG_FILEPATH, 'edge_enhanced_ip_fingerprints'), 'w')
+        open(os.path.join(LOG_FILEPATH, 'edge_enhanced_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'brave_enhanced_ip_fingerprints'), 'w')
     for dir in os.listdir(LOG_FILEPATH):
         if '.log' not in dir and 'fingerprints' not in dir and 'Network' not in dir and 'Domain Based Fingerprints' not in dir and '.json' not in dir:
             for inner_dir in os.listdir(os.path.join(LOG_FILEPATH, dir)):
@@ -163,9 +170,17 @@ if __name__ == '__main__':
                     if 'edge' in browser:
                         edge_basic_ip_fingerprints.write(ip_fingerprint + '\n')
                         edge_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
+                    if 'brave' in browser:
+                        brave_basic_ip_fingerprints.write(ip_fingerprint + '\n')
+                        brave_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
     chrome_basic_ip_fingerprints.close()
     firefox_basic_ip_fingerprints.close()
     edge_basic_ip_fingerprints.close()
+    brave_basic_ip_fingerprints.close()
+    chrome_enhanced_ip_fingerprints.close()
+    firefox_enhanced_ip_fingerprints.close()
+    edge_basic_ip_fingerprints.close()
+    brave_enhanced_ip_fingerprints.close()
     scores = information_entropy(ENTROPY_MAP, domain_counter)
     with open(os.path.join(LOG_FILEPATH, 'entropy_scores.json'), 'w') as f:
         json.dump(scores, f)
