@@ -6,7 +6,7 @@ import json
 import socket
 from binascii import hexlify
 
-LOG_FILEPATH = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\First Run'
+LOG_FILEPATH = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\Second Run'
 ENTROPY_MAP = dict()
 
 def convert_ip_to_int(ip:str):
@@ -89,11 +89,16 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
                 # Enhanced Fingerprinting
                 domain_dom_loading, domain_dom_content_loaded, domain_dom_content_complete = list(), list(), list()
                 ip_dom_loading, ip_dom_content_loaded, ip_dom_content_complete = list(), list(), list()
+                page_timings = dict()
+                for page in har_parser.har_data['pages']:
+                    page_timings[page['id']] = {'onContentLoad': page['pageTimings']['onContentLoad'] if 'onContentLoad' in page['pageTimings'] else None, 
+                                                'domContentLoadedTime': page['pageTimings']['_domContentLoadedTime'] if '_domContentLoadedTime' in page['pageTimings'] else None,
+                                                'onLoad': page['pageTimings']['onLoad'] if 'onLoad' in page['pageTimings'] else None}
                 for entry in har_parser.har_data['entries']:
                     if 'receive' in entry['timings'].keys() and 'serverIPAddress' in entry.keys():
                         domain_connections.append((entry['timings']['receive'], entry['request']['url']))
                         ip_connections.append((entry['timings']['receive'], convert_ip_to_int(entry['serverIPAddress'])))
-                    if '_priority' in entry.keys() and 'serverIPAddress' in entry.keys():
+                    if 'pageref' in entry.keys() and 'serverIPAddress' in entry.keys():
                         if browser in ENTROPY_MAP.keys():
                             if convert_ip_to_int(entry['serverIPAddress']) in ENTROPY_MAP[browser].keys():
                                 ENTROPY_MAP[browser][convert_ip_to_int(entry['serverIPAddress'])] = ENTROPY_MAP[browser][convert_ip_to_int(entry['serverIPAddress'])] + 1
@@ -102,85 +107,116 @@ def compile_fingerprints_and_traces(dir:str, domain:str):
                         else:
                             ENTROPY_MAP[browser] = dict()
                             ENTROPY_MAP[browser][convert_ip_to_int(entry['serverIPAddress'])] = 1
-                        if entry['_priority'] == 'VeryHigh' or entry['_priority'] == 'High':
+                        if page_timings[entry['pageref']]['onContentLoad'] is not None and entry['time'] <= page_timings[entry['pageref']]['onContentLoad']:
                             domain_dom_loading.append(entry['request']['url'])
                             ip_dom_loading.append(convert_ip_to_int(entry['serverIPAddress']))
-                        elif entry['_priority'] == 'Medium':
+                        elif page_timings[entry['pageref']]['onContentLoad'] is not None  and page_timings[entry['pageref']]['domContentLoadedTime'] is not None and entry['time'] >= page_timings[entry['pageref']]['onContentLoad'] and entry['time'] < page_timings[entry['pageref']]['domContentLoadedTime']:
                             domain_dom_content_loaded.append(entry['request']['url'])
                             ip_dom_content_loaded.append(convert_ip_to_int(entry['serverIPAddress']))
-                        elif entry['_priority'] == 'Low':
+                        elif page_timings[entry['pageref']]['domContentLoadedTime'] is not None and page_timings[entry['pageref']]['onLoad'] is not None and entry['time'] >= page_timings[entry['pageref']]['onLoad'] and entry['time'] < page_timings[entry['pageref']]['onLoad'] and page_timings[entry['pageref']]['onLoad']:
                             domain_dom_content_complete.append(entry['request']['url'])
                             ip_dom_content_complete.append(convert_ip_to_int(entry['serverIPAddress']))
  
                 enhanced_domain_fingerprint += str(domain_dom_loading) + ';' + str(domain_dom_content_loaded) + ';' + str(domain_dom_content_complete)
                 enhanced_ip_fingerprint += str(ip_dom_loading) + ';' + str(ip_dom_content_loaded) + ';' + str(ip_dom_content_complete)
-    if not os.path.exists(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints')):
-        os.mkdir(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints'))
-    with open(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints' , 'domain_based_' + browser + '_' + domain + '.txt'), 'w') as f1:
-        f1.write(str(domain_connections) + '\n')
-        if len(domain_fingerprint.split('[')) > 1:
-            f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(domain_secondary_reqs)}) + '\n')
-            f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_domain_fingerprint.split(';')[0], \
-                        2: enhanced_domain_fingerprint.split(';')[1], 3: enhanced_domain_fingerprint.split(';')[2]}))
+    if browser == 'firefox':
+        if not os.path.exists(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints')):
+            os.mkdir(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints'))
+        with open(os.path.join(LOG_FILEPATH, 'Domain Based Fingerprints' , 'domain_based_' + browser + '_' + domain + '.txt'), 'w') as f1:
+            f1.write(str(domain_connections) + '\n')
+            if len(domain_fingerprint.split('[')) > 1:
+                f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(domain_secondary_reqs)}) + '\n')
+                f1.write(str({0: domain_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_domain_fingerprint.split(';')[0], \
+                            2: enhanced_domain_fingerprint.split(';')[1], 3: enhanced_domain_fingerprint.split(';')[2]}))
+            else:
+                f1.write(str({0: [], 1: []}) + '\n')
+                f1.write(str({0: [], 1: [], 2: [], 3: []}))
+        if len(domain_secondary_reqs) > 0:
+            domain_fingerprint += str(domain_secondary_reqs)
         else:
-            f1.write(str({0: [], 1: []}) + '\n')
-            f1.write(str({0: [], 1: [], 2: [], 3: []}))
-    if len(domain_secondary_reqs) > 0:
-        domain_fingerprint += str(domain_secondary_reqs)
-    else:
-        domain_fingerprint = None
-            
-    with open(os.path.join(network_trace_filepath, 'ip_based_' + browser + '_' + domain + '.txt'), 'w') as f:
-        f.write(str(ip_connections) + '\n')
-        if len(ip_fingerprint.split('[')) > 1:
-            f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(ip_secondary_reqs)}) + '\n')
-            f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_ip_fingerprint.split(';')[0], \
-                        2: enhanced_ip_fingerprint.split(';')[1], 3: enhanced_ip_fingerprint.split(';')[2]}))
+            domain_fingerprint = None
+                
+        with open(os.path.join(network_trace_filepath, 'ip_based_' + browser + '_' + domain + '.txt'), 'w') as f:
+            f.write(str(ip_connections) + '\n')
+            if len(ip_fingerprint.split('[')) > 1:
+                f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1: str(ip_secondary_reqs)}) + '\n')
+                f.write(str({0: ip_fingerprint.split('[')[1].replace(']', '').replace(';',''), 1 : enhanced_ip_fingerprint.split(';')[0], \
+                            2: enhanced_ip_fingerprint.split(';')[1], 3: enhanced_ip_fingerprint.split(';')[2]}))
+            else:
+                f.write(str({0: [], 1: []}) + '\n')
+                f.write(str({0: [], 1: [], 2: [], 3: []}))
+        if len(ip_secondary_reqs) > 0:
+            ip_fingerprint += str(ip_secondary_reqs)
         else:
-            f.write(str({0: [], 1: []}) + '\n')
-            f.write(str({0: [], 1: [], 2: [], 3: []}))
-    if len(ip_secondary_reqs) > 0:
-        ip_fingerprint += str(ip_secondary_reqs)
+            ip_fingerprint = None
+        return browser, ip_fingerprint, enhanced_ip_fingerprint
     else:
-        ip_fingerprint = None
-    return browser, ip_fingerprint, enhanced_ip_fingerprint
+        return None, None, None
+    
+def determine_IP_stability():
+    first_run_path = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\First Run'
+    second_run_path = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\Second Run'
+    stability_matrix = dict()
+    for file in os.listdir(first_run_path):
+        if 'basic' in file:
+            browser = file.split('_')[0]
+            with open(os.path.join(first_run_path, file), 'r') as first:
+                with open(os.path.join(second_run_path, file), 'r') as second:
+                    for first_line in first.readlines():
+                        for second_line in second.readlines():
+                            if first_line.split(';')[0] == second_line.split(';')[0]:
+                                if len(first_line.split(';')) == 2:
+                                    first_list = first_line.split(';')[1].replace('[', '').replace(']', '').replace(' ', '').split(',')
+                                elif len(first_line.split(';')) == 3:
+                                    first_list = first_line.split(';')[1].replace('[', '').replace(']', '').replace(' ', '').split(',') + first_line.split(';')[2].replace('[', '').replace(']', '').replace(' ', '').split(',')
+                                if len(first_line.split(';')) == 2:
+                                    second_list = second_line.split(';')[1].replace('[', '').replace(']', '').replace(' ', '').split(',')
+                                elif len(first_line.split(';')) == 3:
+                                    second_list = second_line.split(';')[1].replace('[', '').replace(']', '').replace(' ', '').split(',') + first_line.split(';')[2].replace('[', '').replace(']', '').replace(' ', '').split(',')
+                                
+                                # Stability Calculation = (first fingerprint Union second fingerprint) - (first fingerprint Intersection second fingerprint) / (first fingerprint Union second fingerprint)
+                                stability_matrix[browser] = list(set(first_list) | set(second_list)) - list(set(first_list) & set(second_list)) / list(set(first_list) | set(second_list))
+    with open(os.path.join('F:\\IP Domain Fingerprinting\\New Data\\Comparative Analysis', 'domain_stability.json'), 'w') as f:
+        json.dump(stability_matrix, f)
 
 if __name__ == '__main__':
-    domain_counter = 0
+    determine_IP_stability()
+    # domain_counter = 0
 
-    chrome_basic_ip_fingerprints, firefox_basic_ip_fingerprints, edge_basic_ip_fingerprints, brave_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
-        open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w'), \
-        open(os.path.join(LOG_FILEPATH, 'brave_basic_ip_fingerprints'), 'w')
+    # firefox_basic_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'firefox_basic_ip_fingerprints'), 'w')
+    # # open(os.path.join(LOG_FILEPATH, 'chrome_basic_ip_fingerprints'), 'w'), \
+    #     # , open(os.path.join(LOG_FILEPATH, 'edge_basic_ip_fingerprints'), 'w'), \
+    #     # open(os.path.join(LOG_FILEPATH, 'brave_basic_ip_fingerprints'), 'w')
         
-    chrome_enhanced_ip_fingerprints, firefox_enhanced_ip_fingerprints, edge_enhanced_ip_fingerprints, brave_enhanced_ip_fingerprints = \
-        open(os.path.join(LOG_FILEPATH, 'chrome_enhanced_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'firefox_enhanced_ip_fingerprints'), 'w'), \
-        open(os.path.join(LOG_FILEPATH, 'edge_enhanced_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'brave_enhanced_ip_fingerprints'), 'w')
-    for dir in os.listdir(LOG_FILEPATH):
-        if '.log' not in dir and 'fingerprints' not in dir and 'Network' not in dir and 'Domain Based Fingerprints' not in dir and '.json' not in dir:
-            for inner_dir in os.listdir(os.path.join(LOG_FILEPATH, dir)):
-                domain_counter += 1
-                browser, ip_fingerprint, enhanced_ip_fingerprint = compile_fingerprints_and_traces(os.path.join(LOG_FILEPATH, dir, inner_dir), dir)
-                if ip_fingerprint is not None:
-                    if 'chrome' in browser:
-                        chrome_basic_ip_fingerprints.write(ip_fingerprint + '\n')
-                        chrome_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
-                    if 'firefox' in browser:
-                        firefox_basic_ip_fingerprints.write(ip_fingerprint + '\n')
-                        firefox_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
-                    if 'edge' in browser:
-                        edge_basic_ip_fingerprints.write(ip_fingerprint + '\n')
-                        edge_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
-                    if 'brave' in browser:
-                        brave_basic_ip_fingerprints.write(ip_fingerprint + '\n')
-                        brave_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
-    chrome_basic_ip_fingerprints.close()
-    firefox_basic_ip_fingerprints.close()
-    edge_basic_ip_fingerprints.close()
-    brave_basic_ip_fingerprints.close()
-    chrome_enhanced_ip_fingerprints.close()
-    firefox_enhanced_ip_fingerprints.close()
-    edge_basic_ip_fingerprints.close()
-    brave_enhanced_ip_fingerprints.close()
-    scores = information_entropy(ENTROPY_MAP, domain_counter)
-    with open(os.path.join(LOG_FILEPATH, 'entropy_scores.json'), 'w') as f:
-        json.dump(scores, f)
+    # firefox_enhanced_ip_fingerprints = open(os.path.join(LOG_FILEPATH, 'firefox_enhanced_ip_fingerprints'), 'w')
+    #     # open(os.path.join(LOG_FILEPATH, 'chrome_enhanced_ip_fingerprints'), 'w'), , \
+    #     # open(os.path.join(LOG_FILEPATH, 'edge_enhanced_ip_fingerprints'), 'w'), open(os.path.join(LOG_FILEPATH, 'brave_enhanced_ip_fingerprints'), 'w')
+    # for dir in os.listdir(LOG_FILEPATH):
+    #     if '.log' not in dir and 'fingerprints' not in dir and 'Network' not in dir and 'Domain Based Fingerprints' not in dir and '.json' not in dir:
+    #         for inner_dir in os.listdir(os.path.join(LOG_FILEPATH, dir)):
+    #             domain_counter += 1
+    #             browser, ip_fingerprint, enhanced_ip_fingerprint = compile_fingerprints_and_traces(os.path.join(LOG_FILEPATH, dir, inner_dir), dir)
+    #             if ip_fingerprint is not None and enhanced_ip_fingerprint is not None and browser is not None:
+    #                 # if 'chrome' in browser:
+    #                 #     chrome_basic_ip_fingerprints.write(ip_fingerprint + '\n')
+    #                 #     chrome_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
+    #                 if 'firefox' in browser:
+    #                     firefox_basic_ip_fingerprints.write(ip_fingerprint + '\n')
+    #                     firefox_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
+    #                 # if 'edge' in browser:
+    #                 #     edge_basic_ip_fingerprints.write(ip_fingerprint + '\n')
+    #                 #     edge_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
+    #                 # if 'brave' in browser:
+    #                 #     brave_basic_ip_fingerprints.write(ip_fingerprint + '\n')
+    #                 #     brave_enhanced_ip_fingerprints.write(enhanced_ip_fingerprint + '\n')
+    # # chrome_basic_ip_fingerprints.close()
+    # firefox_basic_ip_fingerprints.close()
+    # # edge_basic_ip_fingerprints.close()
+    # # brave_basic_ip_fingerprints.close()
+    # # chrome_enhanced_ip_fingerprints.close()
+    # firefox_enhanced_ip_fingerprints.close()
+    # # edge_basic_ip_fingerprints.close()
+    # # brave_enhanced_ip_fingerprints.close()
+    # scores = information_entropy(ENTROPY_MAP, domain_counter)
+    # with open(os.path.join(LOG_FILEPATH, 'entropy_scores.json'), 'w') as f:
+    #     json.dump(scores, f)
