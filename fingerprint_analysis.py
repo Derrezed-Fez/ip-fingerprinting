@@ -2,9 +2,9 @@ import os, json
 from har_parser import information_entropy
 import matplotlib.pyplot as plt
 
-INPUT_DIR = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\First Run'
-ANALYSIS_OUTPUT_DIR = 'F:\\IP Domain Fingerprinting\\New Data\\Comparative Analysis'
-DOMAIN_FINGERPRINTS = 'F:\\IP Domain Fingerprinting\\New Data\\COMPILED\\Second Run\\Domain Based Fingerprints'
+INPUT_DIR = ''
+ANALYSIS_OUTPUT_DIR = ''
+DOMAIN_FINGERPRINTS = ''
 SINGLE_RESOURCE_DOMAINS, SINGLE_RESOURCE_IPS = dict(), dict()
 BASIC_IP_FINGERPRINTS, ENHANCED_IP_FINGERPRINTS = dict(), dict()
 UNLABELED_BASIC_IP_FINGERPRINTS, UNLABELED_ENHANCED_IP_FINGERPRINTS = dict(), dict()
@@ -220,10 +220,10 @@ def create_primary_ip_map(browser):
 def determine_enhanced_fingerprint_accuracy():
     fingerprint_accuracy_counter = {'brave': 0, 'chrome': 0, 'edge': 0, 'firefox': 0}
     domain_counter = {'brave': 0, 'chrome': 0, 'edge': 0, 'firefox': 0}
-    domain_maxes = {'brave': 1000, 'chrome': 1000, 'edge': 1000, 'firefox': 1000}
+    domain_maxes = {'brave': 10000, 'chrome': 10000, 'edge': 10000, 'firefox': 10000}
     ip_map = dict()
 
-    for browser in ['firefox']:
+    for browser in ['brave', 'chrome', 'edge', 'firefox']:
         with open(os.path.join(INPUT_DIR, browser + '_enhanced_ip_fingerprints'), 'r') as f:
             for line in f.readlines():
                 extract_IP_info(line, browser, 'enhanced')
@@ -234,7 +234,7 @@ def determine_enhanced_fingerprint_accuracy():
     for file in os.listdir(os.path.join(INPUT_DIR, 'Network Traces')):
         candidates = dict()
         browser, domain = file.replace('ip_based_', '').replace('.txt', '').split('_')[0], file.replace('ip_based_', '').replace('.txt', '').split('_')[1]
-        if domain_counter[browser] <= domain_maxes[browser] and browser != 'brave' and browser != 'chrome' and browser != 'edge':
+        if domain_counter[browser] <= domain_maxes[browser]:
             domain_counter[browser] += 1
             if not check_ip_against_single_host_domains(browser, domain):
                 with open(os.path.join(INPUT_DIR, 'Network Traces', file), 'r') as f:
@@ -279,5 +279,4 @@ def determine_enhanced_fingerprint_accuracy():
     print_fingerprint_accuracy(domain_counter, fingerprint_accuracy_counter)
 
 if __name__ == '__main__':
-    # determine_enhanced_fingerprint_accuracy()
-    print_fingerprint_accuracy({'brave': 1000, 'chrome': 1000, 'edge': 1000, 'firefox': 1000}, {'brave': 790, 'chrome': 780, 'edge': 730, 'firefox': 940})
+    determine_enhanced_fingerprint_accuracy()

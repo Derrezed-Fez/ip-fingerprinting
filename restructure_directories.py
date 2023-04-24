@@ -53,8 +53,8 @@ def combine_owens_pulls():
                         pass
 
 def process_jons_pulls():
-    RUN_DIR = 'F:\\IP Domain Fingerprinting\\New Data\\Fingerprinting_Runs\\Run 2'
-    OUT_DIR = 'F:\\IP Domain Fingerprinting\\New Data\\jon_1_modified'
+    RUN_DIR = ''
+    OUT_DIR = ''
     for folder in os.listdir(RUN_DIR):
         os.mkdir(os.path.join(OUT_DIR, 'www.' + folder))
         for inner_folder in os.listdir(os.path.join(RUN_DIR, folder)):
